@@ -20,18 +20,23 @@ import os
 import re
 import time
 import hashlib
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 import requests
 from bs4 import BeautifulSoup
 
 from bucket_utils import nom_fichier
 from dedup_cache import charger_cache, sauvegarder_cache, marquer_traite
+from dedup_fichier import deja_ecrit
 from git_utils import git_commit_et_push
 
 # ---------- CONFIGURATION ----------
 URL_LISTE = "https://investinglive.com/CentralBanks/"
-FENETRE_HEURES = 24  # on ne garde que les articles publies dans les dernieres 24h
+# NB : il n'y a plus de fenetre de 24h ici. Ce script traite TOUS les
+# liens de la page 1 (les plus recents) et les range dans le bon fichier
+# .txt selon leur date reelle. La dedup se charge d'eviter les
+# doublons, ce qui rend ce script compatible avec backfill_centralbanks.py
+# (qui, lui, remonte plus loin dans le temps via la pagination).
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -205,8 +210,15 @@ def formater_entree(titre, url, date_pub, tags, contenu):
 
 
 def ecrire_article(titre, url, date_pub, tags, contenu):
+    """Ecrit l'article dans le fichier .txt correspondant a sa date.
+    Renvoie le chemin du fichier si ecrit, ou None si l'URL y figurait
+    deja (protection anti-doublon de secours, voir dedup_fichier.py)."""
     os.makedirs(DOSSIER_DATA, exist_ok=True)
     chemin_fichier = os.path.join(DOSSIER_DATA, nom_fichier(PREFIXE, date_pub.date()))
+
+    if deja_ecrit(url, chemin_fichier):
+        return None
+
     with open(chemin_fichier, "a", encoding="utf-8") as f:
         f.write(formater_entree(titre, url, date_pub, tags, contenu))
     return chemin_fichier
@@ -214,9 +226,6 @@ def ecrire_article(titre, url, date_pub, tags, contenu):
 
 # ---------- PROGRAMME PRINCIPAL (single-pass) ----------
 def cycle():
-    maintenant = datetime.now(timezone.utc)
-    debut_fenetre = maintenant - timedelta(hours=FENETRE_HEURES)
-
     try:
         liens = recuperer_liens_articles()
     except Exception as e:
@@ -231,7 +240,11 @@ def cycle():
     for url in liens:
         doc_id = hash_url(url)
 
-        # Dedup : verification LOCALE (cache/centralbanks.json).
+        # Dedup rapide : verification LOCALE (cache/centralbanks.json).
+        # Le cache n'est marque plus bas QUE sur des cas definitifs
+        # (ecrit avec succes, page d'erreur, date illisible) : jamais
+        # juste parce qu'un article est "trop vieux", pour ne pas
+        # bloquer un futur backfill sur cet article.
         if doc_id in cache:
             continue
 
@@ -248,16 +261,18 @@ def cycle():
                 marquer_traite(cache, doc_id)
                 continue
 
-            if date_pub < debut_fenetre:
-                marquer_traite(cache, doc_id)
-                continue
-
             chemin_fichier = ecrire_article(titre, url, date_pub, tags, contenu)
             marquer_traite(cache, doc_id)
-            articles_ecrits += 1
-            print(f"Ecrit dans {chemin_fichier} : {titre} (tags: {tags})")
+
+            if chemin_fichier:
+                articles_ecrits += 1
+                print(f"Ecrit dans {chemin_fichier} : {titre} (tags: {tags})")
+            else:
+                print(f"Deja present dans le fichier cible, ignore : {titre}")
 
         except Exception as e:
+            # On ne marque PAS le cache ici : erreur reseau ponctuelle,
+            # on retentera au prochain cycle.
             print(f"Erreur sur {url} : {e}")
 
         time.sleep(1)
@@ -272,7 +287,7 @@ def cycle():
         )
     else:
         # Meme sans nouvel article, le cache a pu changer (pages
-        # d'erreur / hors fenetre marquees comme traitees) : on le
+        # d'erreur / dates illisibles marquees comme traitees) : on le
         # commit quand meme pour ne pas les retraiter au prochain cycle.
         git_commit_et_push("CentralBanks : mise a jour du cache (rien de neuf)", [DOSSIER_CACHE])
 
