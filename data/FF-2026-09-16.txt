@@ -118,3 +118,11 @@ Source: gov.uk
 In England, the Data shows on average, house prices rose by 0.7% since June 2026 . The annual price increase of 1.1% takes the average property value to £293,000 The regional data for England indicates that: The East Midlands experienced the most significant monthly increase with a movement of 1.7% South West saw the biggest monthly price fall, with a ...
 ================================================================================
 
+================================================================================
+[2026-09-16 09:01 UTC] Industrial production down by 0.1% in the euro area and by 0.3% in the EU  (impact: low)
+URL: https://www.forexfactory.com/news/1418457-industrial-production-down-by-01-in-the-euro
+Source: ec.europa.eu
+--------------------------------------------------------------------------------
+In July 2026, compared with June 2026, seasonally adjusted industrial production decreased by 0.1% in the euro area and by 0.3% in the EU, according to first estimates from Eurostat, the statistical office of the European Union. In June 2026, industrial production fell by 0.1% in both the euro area and the EU. In July 2026, compared with July 2025, ...
+================================================================================
+
