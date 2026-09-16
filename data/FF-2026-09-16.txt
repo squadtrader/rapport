@@ -134,3 +134,27 @@ Source: cmhc-schl.gc.ca
 The six-month trend in housing starts was down 1.3% in August compared to July to 244,149 units, according to Canada Mortgage and Housing Corporation (CMHC). The trend measure is a six-month moving average of the seasonally adjusted annual rate (SAAR) of total housing starts for all areas in Canada. Actual monthly housing starts were down 2% year-over-year ...
 ================================================================================
 
+================================================================================
+[2026-09-16 12:32 UTC] US retail sales up 1.2% in August  (impact: high)
+URL: https://www.forexfactory.com/news/1418497-us-retail-sales-up-12-in-august
+Source: breakingthenews.net
+--------------------------------------------------------------------------------
+Retail and food services sales in the United States advanced by 1.2% in August compared to last month's figures, landing at $773.9 billion, the US Census Bureau revealed in its report published on Wednesday. Meanwhile, compared to the corresponding month in 2025, the figure went up 6.0%. Total sales for the period June 2026 through August 2026 were up by ...
+================================================================================
+
+================================================================================
+[2026-09-16 12:31 UTC] US Import and Export Price Indexes - August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1418495-us-import-and-export-price-indexes-august
+Source: bls.gov
+--------------------------------------------------------------------------------
+U.S. import prices increased 0.7 percent in August, the U.S. Bureau of Labor Statistics reported today, following a 0.3-percent decrease in July. Higher prices for nonfuel imports more than offset lower prices for fuel imports in August. Prices for U.S. exports advanced 0.6 percent in August after falling 1.4 percent the previous month. Import prices rose ...
+================================================================================
+
+================================================================================
+[2026-09-16 12:31 UTC] Canada building permits, July 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1418494-canada-building-permits-july-2026
+Source: statcan.gc.ca
+--------------------------------------------------------------------------------
+In July, the total value of building permits issued in Canada declined $2.6 billion (-17.3%) to reach $12.2 billion, more than offsetting the gain recorded in June (+$2.3 billion). The non-residential sector (-$1.9 billion) led the decrease, while the residential sector (-$701.2 million) contributed to a lesser extent. On a constant dollar basis (2023=100), ...
+================================================================================
+
