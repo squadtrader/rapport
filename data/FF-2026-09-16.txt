@@ -126,3 +126,11 @@ Source: ec.europa.eu
 In July 2026, compared with June 2026, seasonally adjusted industrial production decreased by 0.1% in the euro area and by 0.3% in the EU, according to first estimates from Eurostat, the statistical office of the European Union. In June 2026, industrial production fell by 0.1% in both the euro area and the EU. In July 2026, compared with July 2025, ...
 ================================================================================
 
+================================================================================
+[2026-09-16 12:16 UTC] Canada housing starts and construction data for August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1418496-canada-housing-starts-and-construction-data-for-august
+Source: cmhc-schl.gc.ca
+--------------------------------------------------------------------------------
+The six-month trend in housing starts was down 1.3% in August compared to July to 244,149 units, according to Canada Mortgage and Housing Corporation (CMHC). The trend measure is a six-month moving average of the seasonally adjusted annual rate (SAAR) of total housing starts for all areas in Canada. Actual monthly housing starts were down 2% year-over-year ...
+================================================================================
+
