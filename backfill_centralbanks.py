@@ -137,8 +137,11 @@ def backfill(date_debut, date_fin, page_max=50, pause=1.0):
 
                 chemin_fichier = ecrire_article(titre, url, date_pub, tags, contenu)
                 marquer_traite(cache, doc_id)
-                articles_ecrits += 1
-                print(f"Ecrit dans {chemin_fichier} : {titre}")
+                if chemin_fichier:
+                    articles_ecrits += 1
+                    print(f"Ecrit dans {chemin_fichier} : {titre}")
+                else:
+                    print(f"Deja present dans le fichier cible, ignore : {titre}")
 
             except Exception as e:
                 print(f"Erreur sur {url} : {e}")
