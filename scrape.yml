@@ -1,0 +1,33 @@
+name: Scraping news
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # toutes les 15 min ; ajuste selon tes besoins
+  workflow_dispatch:          # permet de lancer le workflow manuellement
+
+# Indispensable : sans ca, le GITHUB_TOKEN n'a pas le droit de push.
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du depot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # historique complet, utile pour le pull --rebase
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install requests beautifulsoup4
+
+      - name: Lancer le scraper Central Banks
+        run: python centralbanks_cloud.py
+
+      - name: Lancer le scraper ForexFactory
+        run: python ff_cloud.py
