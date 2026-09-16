@@ -83,8 +83,16 @@ def backfill(date_debut, date_fin, page_max=50, pause=1.0):
             print("Plus aucun lien sur cette page, arret.")
             break
 
-        # Vrai si au moins un article de cette page est encore >= date_debut
-        # (permet de continuer sur la page suivante).
+        # au_moins_un_fetch_frais : vrai si on a reellement telecharge au
+        # moins un article de cette page (donc qu'on connait sa date).
+        # au_moins_un_dans_la_fenetre : vrai si au moins un de ces articles
+        # frais est encore >= date_debut.
+        # On ne s'arrete QUE si on a la preuve (un article frais, donc une
+        # vraie date) qu'on est passe sous date_debut. Si la page est
+        # entierement deja en cache (ex: page 1, deja traitee par le run
+        # normal), on n'a aucune preuve : on continue sur la page suivante
+        # au lieu de s'arreter a tort.
+        au_moins_un_fetch_frais = False
         au_moins_un_dans_la_fenetre = False
 
         for url in liens:
@@ -95,10 +103,13 @@ def backfill(date_debut, date_fin, page_max=50, pause=1.0):
             doc_id = hash_url(url)
             if doc_id in cache:
                 # Deja traite par un run normal ou un backfill precedent.
+                # On ne sait pas quelle etait sa date : on ne compte pas
+                # ca comme une preuve pour decider d'arreter la pagination.
                 continue
 
             try:
                 titre, date_pub, contenu, tags = extraire_article(url)
+                au_moins_un_fetch_frais = True
 
                 if page_erreur(titre, contenu):
                     print(f"Page d'erreur, ignore : {url}")
@@ -134,9 +145,16 @@ def backfill(date_debut, date_fin, page_max=50, pause=1.0):
 
             time.sleep(pause)
 
-        if not au_moins_un_dans_la_fenetre:
-            print(f"Aucun article de la page {numero_page} n'est dans la periode demandee, arret.")
+        if au_moins_un_fetch_frais and not au_moins_un_dans_la_fenetre:
+            # On a reellement regarde au moins un article de cette page, et
+            # aucun n'est dans la periode demandee : on est passe sous
+            # date_debut, plus la peine de continuer (les pages suivantes
+            # seront encore plus anciennes).
+            print(f"Page {numero_page} entierement hors periode (trop ancienne), arret.")
             break
+
+        if not au_moins_un_fetch_frais:
+            print(f"Page {numero_page} entierement deja en cache, on continue quand meme sur la page suivante.")
 
         numero_page += 1
 
