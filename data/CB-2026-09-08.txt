@@ -42,3 +42,121 @@ PBoC inject 1 bn yuan via 7-day reverse repos in Open Marekt Operations. Rate un
 net 4bn drain
 ================================================================================
 
+================================================================================
+[2026-09-08 23:26 UTC] RBA weighing further rate rise this month as Dep gov Hauser cites three-headed risk
+URL: https://investinglive.com/central-banks/rba-weighing-further-rate-rise-this-month-as-dep-gov-hauser-cites-three-headed-risk/
+Tags: AUD, RBA
+--------------------------------------------------------------------------------
+ICYMI: RBA Deputy Governor Andrew Hauser told ABC's 7.30 on Tuesday evening that inflation remains the central bank's one big problem, signalling a September hike is being weighed, though he stopped short of calling it inevitable.
+
+Hauser's Tuesday evening comments keep a September rate hike firmly on the table across Australian rates, currency and equity markets, even though he avoided calling it a certainty. The Australian dollar is the most direct read-through, with a clearer tightening bias typically supportive for the currency against major peers, while Australian Commonwealth Government Bond yields, particularly at the shorter end, may edge higher as traders price in a greater chance of a move this month. The ASX, and rate-sensitive sectors such as banks, real estate investment trusts and consumer discretionary names in particular, could see some pressure if the market leans further into a hike scenario, given higher borrowing costs typically weigh on valuations in those areas. With the RBA already at 4.35 percent after three hikes earlier this year and the four major banks pencilling in a further quarter point move to 4.6 percent by year end, traders are likely to treat Hauser's remarks as confirmation of a live tightening bias rather than new information. The comments came alongside similar remarks from Assistant Governor Sarah Hunter earlier the same day, reinforcing a consistent tightening message from RBA leadership just ahead of the September board meeting, and because the next inflation print lands only after that meeting, on September 30, bond and equity markets have limited fresh data to lean on in the interim, leaving Hauser's tone as one of the more direct signals available.
+
+Summary
+
+Speaking to ABC's 7.30 on Tuesday evening, RBA Deputy Governor Andrew Hauser said inflation is the central bank's "one big problem", acknowledging public anger over the cost of living
+
+He pointed to a three-headed monster driving persistent inflation: the Middle East crisis, an AI-driven global boom, and weak domestic supply capacity
+
+Hauser gave a strong signal the RBA is weighing a rate hike this month but declined to call it inevitable, saying the question is whether enough has been done
+
+The RBA raised rates three times in early 2026 to the current 4.35 percent; the four major banks expect a further quarter point rise to 4.6 percent by year end
+
+The board meets at the end of September, with new inflation data due only the day after that decision, on September 30
+
+Hauser's comments, made Tuesday evening, followed similar remarks hours earlier that day from Assistant Governor Sarah Hunter, who said the RBA may have to raise rates further if inflation runs hotter than forecast
+
+Reserve Bank of Australia Deputy Governor Andrew Hauser gave one of the clearest signals yet that the central bank is weighing another interest rate increase this month, telling ABC's 7.30 program on Tuesday evening, Australia time, that inflation remains the RBA's central concern even as the broader economy holds up reasonably well. Hauser acknowledged widespread public frustration over the cost of living, saying inflation is unfair because it hits lower income households hardest and complicates business decisions, and that "People are furious about inflation."
+
+Hauser described persistent price pressure as being driven by what he called a three-headed monster: the ongoing Middle East crisis, an unexpectedly strong AI-driven global investment boom, and constraints on the supply side of the Australian economy. He said the central bank could raise rates sharply if it chose to prioritise inflation over its full employment objective, but that Australia is not at that point yet. Pressed on whether a hike this month was inevitable, he declined to say so directly, instead framing the decision as an open question for the board about whether enough tightening has already occurred.
+
+The RBA lifted the cash rate three times in early 2026, taking it to its current level of 4.35 percent, after judging that demand was running ahead of the economy's supply capacity by more than expected. Australia's four major banks are forecasting a further quarter point increase to 4.6 percent before the end of the year. The board's next decision falls at the end of September, with the closely watched quarterly inflation data not due for release until the day after that meeting, on September 30, leaving policymakers to weigh the decision with an incomplete data picture.
+
+Hauser's Tuesday evening remarks followed comments made earlier that same day by Assistant Governor Sarah Hunter, who said the central bank may well have to raise rates further if it judges inflation to be running hotter than its forecasts suggest, reinforcing a consistent message from RBA leadership ahead of the meeting. Hauser also touched on the housing market, saying he expects prices to fall a little further but that the downturn is not a major driver of the bank's broader forecasts, and reflected on a recent US trip that left him more concerned about global inflation risks given the scale of AI-related investment he witnessed, while questioning whether current valuations in the sector are realistic. Taken together, the comments point to a central bank prepared to keep tightening if needed, but still weighing the decision carefully on Tuesday evening rather than treating a September move as settled policy.
+================================================================================
+
+================================================================================
+[2026-09-08 13:35 UTC] Bank of England comments highlight worries about energy inflation
+URL: https://investinglive.com/central-banks/bank-of-england-comments-highlight-worries-about-energy-inflation/
+Tags: BOE
+--------------------------------------------------------------------------------
+Comments from Bailey, Taylor and Greene
+
+Bailey: US-Iran war has led to higher energy prices, they could be higher still
+
+Bailey: Ukranian attacks on Russian refineries also boosting energy prices
+
+Bailey: Risks to food inflation are on the upside
+
+Bailey: I want to dispel the idea that we have a secret plan to raise rates
+
+Bailey: Risks to inflation are to the upside
+
+Baily: Latest data looking a bit stronger
+
+Bailey: Activity has been reasonably resilient
+
+Bailey: Labour market is softening, hiring rate is lower
+
+Bailey: We are seeing some signs of productivity picking up, not necessarily all in sectors exposed to AI
+
+Bailey: Rise in youth unemployment is concerning
+
+Taylor: I judge holding bank rate at moderately restrictive level provides insurance against external risks
+
+Taylor: Remain alert to risk of persistent energy-price rises and how they could alter wage and price setting
+
+Taylor: Policy would have to respond forcefully but evidence scant
+
+Greene: The length of time oil prices has been high worrise me about second round effects
+
+Ramsden: Domestic inflation position is relatively benign
+
+Ramsden: Global inflationary picture is much more upside inflation risk
+
+Ramsden: UK wages have come in below what we expected before conflict
+
+There is a consensus under all of this and it's that the domestic economy is weak but foreign risks are mounting. Cable is up 12 pips today to 1.3550 and has risen in the past hour on a broadly softer USD.
+================================================================================
+
+================================================================================
+[2026-09-08 05:17 UTC] A BOJ rate hike is coming, but can the Japanese yen hold its gains?
+URL: https://investinglive.com/central-banks/a-boj-rate-hike-is-coming-but-can-the-japanese-yen-hold-its-gains/
+Tags: BOJ, JPY, interest rates
+--------------------------------------------------------------------------------
+What to expect as we look to the upcoming BOJ monetary policy decision next week
+
+With the Japanese yen on the move this week, there is a lot of focus and talk on the BOJ ahead of their next monetary policy decision next week.
+
+Expectations for another rate hike are rising sharply before their meeting on 17-18 September, with markets now assigning a ~79% probability to a 25 bps rate hike. That is not all too much changed from the end of last week though, with the odds of that sitting at ~75%.
+
+And yet, we are seeing the Japanese yen produce a strong rally this week in breaking key defensive lines in USD/JPY on the way down. The question now is, can the currency hold gains through the central bank decision and after?
+
+BOJ policymakers set the tone
+
+The governor of the Japanese central bank has already opened the door for a move in September, in saying that policymakers will assess whether inflation and economic developments are evolving in line with their forecasts. Meanwhile, you have the likes of board member Hajime Takata being even more explicit in arguing for more timely rate hikeshere.
+
+As mentioned last week, it is interesting to see how the conversation has shifted in the central bank over the past month or so. In particular, after the joint intervention by the US and Japan to defend the yen currency.
+
+How much further can the yen rally from here?
+
+This is where things become a little bit more complicated.
+
+A September rate hike is rapidly becoming the consensus rather than a potential surprise. With expectations already heavily reflected in the rates market and the Japanese yen currency, a simple rate hike decision may produce the classicbuy the rumour, sell the factresponse.
+
+In this instance, I would argue that what matters more will be what Ueda says about the next rate hike.
+
+If Ueda sticks to his previous communique in saying that future moves will remain slow and data-dependent, that won't breathe much confidence into thinking that they will be stepping up the pace going into next year.
+
+As things stand, traders are pricing in another 25 bps rate hike for January next year with ~61% odds of that even coming in December this year. And by June next year, traders are pricing in ~81 bps of rate hikes - including the one next week.
+
+So instead of one rate hike every six months, traders are anticipating the BOJ to move at least three times between now and the middle of next year.
+
+While a September hike would reinforce the BOJ's policy normalisation story, the decision itself may not be enough to sustain another leg higher in the Japanese yen. In the case of USD/JPY, the bigger and more crucial trigger would be whether the BOJ convinces markets that moving to 1.25% next week is another step in a continuing hiking cycle, or simply the next cautious pause point.
+
+The technical perspective
+
+USD/JPY has already moved down significantly since last week, dropping from 160.00 to near 153.00 now. In taking out key technical support levels, all eyes are on the January and February lows closer to 152.00-25 next. That will be the key line in the sand to watch out for in chasing a further downside move towards the 150.00 mark.
+
+As for dip buyers, they will have to make a push back above 155.00 to try and regain any semblance of technical control before looking to revisit more upside potential.
+================================================================================
+
