@@ -1,43 +1,27 @@
 # -*- coding: utf-8 -*-
 """
-Cache de deduplication 100% local, sans aucune base de donnees externe.
+Protection anti-doublon "de secours", basee sur le contenu REEL des
+fichiers .txt (et non sur le cache JSON, qui n'est qu'une optimisation
+de performance pour eviter de re-telecharger une page deja vue).
 
-Le fichier cache/<nom_source>.json contient un objet :
-    { "<hash_url>": "2026-09-16T10:00:00+00:00", ... }
-
-Ce fichier est commite dans le depot Git (comme les fichiers .txt de
-data/) pour que la dedup survive entre deux executions de GitHub
-Actions, dont l'environnement est jete a chaque run.
+Pourquoi ce filet de secours ? Le cache JSON (dedup_cache.py) marque une
+URL comme "traitee" des qu'on a decide de ne PAS l'ecrire (page d'erreur,
+date illisible...). Si un jour le cache est reinitialise, corrompu, ou
+si un bug marque par erreur une URL comme traitee sans l'avoir
+reellement ecrite (c'est ce qui est arrive avec l'ancien filtre "hors
+fenetre de 24h"), ce filet de secours garantit qu'on ne perd jamais
+d'article pour de bon : tant qu'une URL n'apparait pas reellement dans
+le fichier .txt cible, elle peut toujours etre (re)ecrite.
 """
 
-import json
 import os
-from datetime import datetime, timezone
-
-DOSSIER_CACHE = "cache"
 
 
-def _chemin_cache(nom_source):
-    return os.path.join(DOSSIER_CACHE, f"{nom_source}.json")
-
-
-def charger_cache(nom_source):
-    chemin = _chemin_cache(nom_source)
-    if not os.path.exists(chemin):
-        return {}
-    try:
-        with open(chemin, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (json.JSONDecodeError, OSError):
-        return {}
-
-
-def sauvegarder_cache(nom_source, cache):
-    os.makedirs(DOSSIER_CACHE, exist_ok=True)
-    chemin = _chemin_cache(nom_source)
-    with open(chemin, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2, sort_keys=True)
-
-
-def marquer_traite(cache, doc_id):
-    cache[doc_id] = datetime.now(timezone.utc).isoformat()
+def deja_ecrit(url, chemin_fichier):
+    """Vrai si cette URL apparait deja dans le fichier .txt cible
+    (recherche de la ligne exacte 'URL: <url>')."""
+    if not os.path.exists(chemin_fichier):
+        return False
+    marqueur = f"URL: {url}\n"
+    with open(chemin_fichier, "r", encoding="utf-8") as f:
+        return marqueur in f.read()
