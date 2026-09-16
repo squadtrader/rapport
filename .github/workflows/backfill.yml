@@ -1,0 +1,41 @@
+name: Backfill CentralBanks
+
+on:
+  workflow_dispatch:
+    inputs:
+      depuis:
+        description: "Date de debut (AAAA-MM-JJ)"
+        required: false
+        default: "2026-09-01"
+      jusqua:
+        description: "Date de fin (AAAA-MM-JJ), vide = maintenant"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du depot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install requests beautifulsoup4
+
+      - name: Lancer le backfill Central Banks
+        run: |
+          if [ -z "${{ github.event.inputs.jusqua }}" ]; then
+            python backfill_centralbanks.py --depuis "${{ github.event.inputs.depuis }}"
+          else
+            python backfill_centralbanks.py --depuis "${{ github.event.inputs.depuis }}" --jusqua "${{ github.event.inputs.jusqua }}"
+          fi
