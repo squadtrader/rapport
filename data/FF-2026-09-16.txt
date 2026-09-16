@@ -158,3 +158,19 @@ Source: statcan.gc.ca
 In July, the total value of building permits issued in Canada declined $2.6 billion (-17.3%) to reach $12.2 billion, more than offsetting the gain recorded in June (+$2.3 billion). The non-residential sector (-$1.9 billion) led the decrease, while the residential sector (-$701.2 million) contributed to a lesser extent. On a constant dollar basis (2023=100), ...
 ================================================================================
 
+================================================================================
+[2026-09-16 14:03 UTC] US business inventories up by 0.8% in July  (impact: low)
+URL: https://www.forexfactory.com/news/1418502-us-business-inventories-up-by-08-in-july
+Source: breakingthenews.net
+--------------------------------------------------------------------------------
+Inventories in the manufacturing and trade sectors in the United States rose by 0.8% in July, on a monthly basis, standing at $2.76 trillion, the US Census Bureau shared in a report on Tuesday. On an annual basis, the figure was up by 3.8%. In the reported month, the combined value of distributive trade sales and manufacturers' shipments saw a monthly ...
+================================================================================
+
+================================================================================
+[2026-09-16 14:01 UTC] Builder Sentiment Falls on Higher Interest Rates and Costs  (impact: low)
+URL: https://www.forexfactory.com/news/1418501-builder-sentiment-falls-on-higher-interest-rates-and
+Source: nahb.org
+--------------------------------------------------------------------------------
+Higher mortgage rates, worsening labor shortages and rising material costs are weighing on builder sentiment. Builder confidence in the market for newly built single-family homes fell three points to 32 in September, according to the National Association of Home Builders (NAHB)/Wells Fargo Housing Market Index (HMI) released today. “Buyer traffic has ...
+================================================================================
+
