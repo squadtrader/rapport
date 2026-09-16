@@ -242,3 +242,23 @@ US 10-year yields this week rose to 5.04%, the highest since 2007. The fiscal pi
 I would much rather we don't go down that road, but if you're a trader, today is a good day to be ready for anything.
 ================================================================================
 
+================================================================================
+[2026-09-16 16:38 UTC] Atlanta Fed GDPNow estimate for Q3 growth jumps to 5.1% from 4.4%
+URL: https://investinglive.com/central-banks/atlanta-fed-gdpnow-estimate-for-q3-growth-jumps-to-5-1-from-4-4/
+Tags: USD
+--------------------------------------------------------------------------------
+TheAtlanta Fed’s GDPNow modelraised its estimate for third-quarter real GDP growth to an annualized5.1%, up sharply from4.4%on September 10.
+
+The timing is important. The update shows the US economy growing at a strong pace heading into today’s FOMC rate decision, when the Federal Reserve is widely expected to raise its target rate by25 basis points. Markets are pricing a roughly90% probabilityof that outcome.
+
+Quick analysis:Strong growth by itself is generally good news. However, for the Federal Reserve, an economy growing at an estimated5.1% annualized pace—supported by accelerating consumer spending—may also create additional inflation pressure.
+
+That gives the Fed little reason to provide policy support. Instead, the strength in growth adds to the argument for today’s expected rate hike and could keep policymakers cautious about signaling when the tightening cycle might end.
+
+The rate decision may be largely priced in. The bigger market-moving questions will involve the Fed’s updated economic projections, the dot plot and Chair Kevin Warsh’s guidance on whether additional rate hikes may be needed.
+
+For markets, a more hawkish outlook would normally support US Treasury yields and the US dollar while creating a potential headwind for stocks. A less-hawkish message—particularly one suggesting the Fed may pause after today—could produce the opposite reaction.
+
+Traders should still remember that GDPNow is a model estimate, not the official GDP report. The estimate can change as new information is released, with the next update scheduled for Thursday.
+================================================================================
+
