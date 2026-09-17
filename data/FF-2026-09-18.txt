@@ -78,3 +78,43 @@ Source: bankofengland.co.uk
 At its meeting ending on 16 September 2026, the Monetary Policy Committee (MPC) voted by a majority of 6–3 to maintain Bank Rate at 3.75%. Three members voted to increase Bank Rate by 0.25 percentage points, to 4%. Protracted conflict in the Middle East has contributed to further increases in crude and refined energy prices since the previous meeting, which remain more volatile and higher than pre-conflict. UK CPI inflation increased to 3.1% in August and is likely to rise further over coming quarters. Monetary policy is being set to ensure inflation comes down to 2% sustainably as the economy adjusts to the energy shock. The policy stance required to achieve this will depend on the scale and duration of the shock and how it propagates through the economy. There has been little evidence so far of material second-round effects in price and wage-setting. However, the risk of such effects, against which policy needs to lean, is greater the longer higher energy prices persist or are more volatile. Activity has beeBank of England is keeping its main interest rate at 3.75% despite higher inflation The Bank of England kept the U.K.’s main interest rate unchanged at 3.75% Thursday even though inflation in the United Kingdom has risen to a five-month high as the fallout from the Iran war continues to ratchet up fuel prices. Like other central banks, the inflation outlook will be key for the Bank of England. Some have already decided to start raising borrowing costs again, including the U.S. Federal Reserve on Wednesday. Many economists are forecasting U.K. inflation to rise from the current annual rate of 3.1%, which is already above the Bank of England’s target of 2%, in coming months as households face another increase in their domestic energy bills beginning in October.BoE: Chief economist Pill and MPC's Greene and Mann voted to raise rates to 4%Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026 At its meeting ending on 16 September 2026, the MPC set out a multi-year path to reduce the stock of UK government bond purchases held henceforth for monetary policy purposes to zero, through annual sales of £20 billion alongside maturing gilts. In implementing the MPC’s decision, the Bank Executive has decided to retain in the APF £222 billion of gilts maturing before 2035 to maturity. In addition, £120 billion of the longest-dated gilts will remain in the APF and be held to maturity by the Bank for the purposes of indirectly backing current and future banknote issuance. These include part of the APF’s holding of the 1.75% 2049 gilt, and all gilts that mature after that. For the remaining gilts, which mature between 2035 and 2049, and amount to £146 billion in purchase proceeds terms, the Bank has engaged with HM Treasury (HMT) and the Debt Management Office (DMO) to consider a model whereby the MPC’s decision could be implemented through APF sales to the Government. Under this model, HMT would instruct the DMO to purchase the APF gilts that the Bank Executive is selling in its implementation of the MPC’s multi-year plan. Sales would be conducted at market prices and in a pre-defined manner, pre-announced by the Bank Executive. Gilts would be sold at an annualised pace of £20 billion a year, in line with the MPC’s decision on its multi-year approach to APF unwind, with sales concluding around the time of the unwind of gilts held to maturity in 2034.Traders Trim Boe Rate Bets, Price 38bps Of Hikes By Year End
 ================================================================================
 
+================================================================================
+[2026-09-17 12:31 UTC] US monthly new residential construction, August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1418694-us-monthly-new-residential-construction-august-2026
+Source: census.gov
+--------------------------------------------------------------------------------
+The U.S. Census Bureau and the U.S. Department of Housing and Urban Development jointly announced the following new residential construction statistics for August 2026: Privately-owned housing units authorized by building permits in August were at a seasonally adjusted annual rate of 1,394,000. This is 2.7 percent below the revised July rate of 1,433,000, ...
+================================================================================
+
+================================================================================
+[2026-09-17 12:31 UTC] US Unemployment Insurance Weekly Claims  (impact: medium)
+URL: https://www.forexfactory.com/news/1418692-us-unemployment-insurance-weekly-claims
+Source: dol.gov
+--------------------------------------------------------------------------------
+In the week ending September 12, the advance figure for seasonally adjusted initial claims was 196,000, a decrease of 10,000 from the previous week's unrevised level of 206,000. The 4-week moving average was 203,250, a decrease of 2,750 from the previous week's unrevised average of 206,000. The advance seasonally adjusted insured unemployment rate was 1.1 ...
+================================================================================
+
+================================================================================
+[2026-09-17 12:31 UTC] US Manufacturing Business Outlook Survey - September 2026 Report  (impact: medium)
+URL: https://www.forexfactory.com/news/1418691-us-manufacturing-business-outlook-survey-september-2026
+Source: philadelphiafed.org
+--------------------------------------------------------------------------------
+Manufacturing activity in the region expanded overall, according to the firms responding to the September Manufacturing Business Outlook Survey. The survey’s indicators for general activity, new orders, and shipments all remained elevated this month. The employment index fell but remained positive, continuing to suggest overall increases in employment. Both ...
+================================================================================
+
+================================================================================
+[2026-09-17 12:31 UTC] Canada industrial product and raw materials price indexes, August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1418690-canada-industrial-product-and-raw-materials-price-indexes
+Source: statcan.gc.ca
+--------------------------------------------------------------------------------
+Prices of products manufactured in Canada, as measured by the Industrial Product Price Index (IPPI), rose 1.3% month over month in August and gained 13.5% year over year. Meanwhile, prices of raw materials purchased by manufacturers operating in Canada, as measured by the Raw Materials Price Index (RMPI), rose 3.1% month over month and increased 22.8% year ...
+================================================================================
+
+================================================================================
+[2026-09-17 12:31 UTC] Canada's international transactions in securities, July 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1418689-canadas-international-transactions-in-securities-july-2026
+Source: statcan.gc.ca
+--------------------------------------------------------------------------------
+Canadian investors reduced their exposure to foreign securities by $30.6 billion in July, led by sales of US shares. Meanwhile, foreign investors added $20.7 billion of Canadian securities to their holdings, led by a significant investment in federal government bonds. As a result, international transactions in securities generated a net inflow of funds of ...
+================================================================================
+
