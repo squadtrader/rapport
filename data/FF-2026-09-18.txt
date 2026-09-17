@@ -118,3 +118,11 @@ Source: statcan.gc.ca
 Canadian investors reduced their exposure to foreign securities by $30.6 billion in July, led by sales of US shares. Meanwhile, foreign investors added $20.7 billion of Canadian securities to their holdings, led by a significant investment in federal government bonds. As a result, international transactions in securities generated a net inflow of funds of ...
 ================================================================================
 
+================================================================================
+[2026-09-17 14:01 UTC] US NAR Pending Home Sales Report Shows 0.3% Increase in August  (impact: low)
+URL: https://www.forexfactory.com/news/1418728-us-nar-pending-home-sales-report-shows-03
+Source: nar.realtor
+--------------------------------------------------------------------------------
+Pending home sales in August increased by 0.3% month-over-month and decreased 4.7% year-over-year, according to the National Association of REALTORS® Pending Home Sales report. The report helps the real estate ecosystem—including agents, homebuyers and sellers—better understand the housing market by providing data on the level of home sales under contract. ...
+================================================================================
+
