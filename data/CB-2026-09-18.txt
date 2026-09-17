@@ -460,3 +460,73 @@ None of this is likely to be the deciding input for the BoJ board, which wraps u
 The more market-moving event will be Governor Kazuo Ueda's press conference this afternoon, where traders will parse his language for clues on the pace of further tightening beyond today's expected move. A hike would take Japan's policy rate to its highest level since 1993 and mark the BoJ's sixth increase since it exited ultra-loose policy in 2024. A separate, fuller preview of the rate decision will follow.
 ================================================================================
 
+================================================================================
+[2026-09-17 20:54 UTC] Preview: BoJ set to hike rates today, focus turns to pace and yen reaction
+URL: https://investinglive.com/central-banks/preview-boj-set-to-hike-rates-today-focus-turns-to-pace-and-yen-reaction/
+Tags: BOJ, JPY
+--------------------------------------------------------------------------------
+The Bank of Japan is expected to raise its policy rate by 25 basis points to 1.25% today, its highest since 1993, with markets focused less on the hike itself than on Governor Ueda's guidance on the pace of further tightening.
+
+With a quarter point hike now close to fully priced, the tradeable content today sits less in the decision itself and more in Governor Ueda's guidance on what follows it. USD/JPY has already fallen from around 160 to near 153 over recent weeks as hike odds built, which leaves room for a "buy the rumour, sell the fact" reaction if Ueda's tone stays cautious and data dependent.Goldman Sachsargues a faster tightening path would put upward pressure on Japanese government bond yields and could support the yen further by narrowing the policy gap with other major central banks, though the read-through for the Nikkei is more mixed, since a firmer yen tends to weigh on exporter earnings even as higher rates pressure valuations elsewhere.Reuters-polled economistssee the policy rate reaching 1.5% by the end of March next year and 1.75% by mid-2027, so today's move is being treated as one step in a longer path rather than the end of the story.
+
+A BoJ hike looks like a formality today; the real fight is over how fast rates rise from here.
+
+The BoJ concludes a two day policy meeting today, with a 25 basis point hike to 1.25% treated by markets as close to a formality
+
+The rate statement has no fixed release time; expect it in a roughly 0230 to 0330 GMT window, with Ueda's press conference set for 0630 GMT (0230 US Eastern)
+
+Reuters sources say the BoJ has no preset terminal rate and remains split between hawks who see underlying inflation already near 2% and doves such as board member Toichiro Asada
+
+A larger 50 basis point move has been played down, with board member Kazuyuki Masu saying inflation is nearing target without a sharp overshoot
+
+Goldman Sachs calls the hike a done deal and flags growing odds of a faster pace, potentially with another move in December, plus room for JGB yields to climb further
+
+Reuters-polled economists see the policy rate at 1.5% by end March 2027 and 1.75% by the second quarter of 2027
+
+The Bank of Japan wraps up a two day policy meeting today, and a rate hike is being treated by markets and economists as close to a formality. A quarter point increase to 1.25% would take the policy rate to its highest level since 1993 and mark the central bank's sixth increase since it exited ultra loose policy in 2024. Unlike some other major central banks, the BoJ does not fix a firm release time for its statement, so a window of roughly 0230 to 0330 GMT is the best estimate. Governor Kazuo Ueda's press conference follows at a scheduled 0630 GMT.
+
+With the hike itself largely priced in, the more interesting question for markets is what the BoJ signals about the pace of tightening from here. Reuters reporting, citing people familiar with the central bank's thinking, suggests the board has no preset view on a terminal rate and remains split between hawks who believe underlying inflation is already close to the 2% target and more cautious members such as Toichiro Asada, who dissented against June's increase. Ueda is expected to avoid committing to a specific timetable, though he may repeat earlier comments suggesting the bank could move faster if financial conditions are judged too loose. A larger, 50 basis point move has been played down given the absence of any sharp overshoot in wage or price data, a view echoed publicly by board member Kazuyuki Masu.
+
+Goldman Sachs frames today's decision as effectively settled and argues there is a growing case for a quicker pace, with scope for a further move as soon as December. The bank points to elevated energy prices, strong AI related demand, a weaker yen and what it sees as still accommodative fiscal policy under Prime Minister Takaichi as forces that could push inflation higher than currently expected. Goldman's central call is for further gains in Japanese government bond yields, arguing current levels look too low against a resilient domestic economy, though it also flags the read-through for the yen and Nikkei from any shift to a faster hiking path.
+
+The yen's recent strength adds another layer to today's setup. USD/JPY has fallen from around 160 to near 153 over the past several weeks (currently straddling 156.00)  as rate hike expectations built, leaving open the possibility of a "buy the rumour, sell the fact" reaction if Ueda sticks to a cautious, data dependent tone. Reuters-polled economists expect the policy rate to reach 1.5% by the end of March next year and 1.75% by the second quarter of 2027, with most seeing the terminal rate at least that high.
+
+Bank of Japan Governor Ueda presser due at 0630 GMT / 0230 US Eastern time on Friday, September 18, 2026.
+================================================================================
+
+================================================================================
+[2026-09-17 21:09 UTC] Preview: RBA Gov. Bullock testimony in focus as markets price 70-75% chance of a hike
+URL: https://investinglive.com/central-banks/preview-rba-gov-bullock-testimony-in-focus-as-markets-price-70-75-chance-of-a-hike/
+Tags: RBA, AUD
+--------------------------------------------------------------------------------
+RBA Governor Michele Bullock fronts a House of Representatives committee today with Deputy Governor Hauser and two assistant governors, ahead of a September 28-29 meeting where a further rate hike is priced around 70 to 75%.
+
+Today's appearance is a routine parliamentary hearing rather than a policy decision, so the direct market impact should be limited unless Bullock's answers shift the tone from recent RBA communication. Even so, any fresh comment on inflation persistence or the labour market could move rate pricing ahead of the September 28-29 meeting, where a further 25 basis point increase is currently priced at around 70 to 75%.
+
+The Australian dollar and short end yields are the most likely to react to any hawkish or dovish surprise in the Q&A, given how closely positioned markets already are for a hike. With trimmed mean inflation still running above the RBA's 2 to 3% target band, traders will be listening for any signal on how much more tightening the board thinks is needed.
+
+Bullock fronts parliament today with a live rate call still hanging on next month's meeting.
+
+RBA Governor Michele Bullock appears before the House of Representatives Standing Committee on Economics today, alongside Deputy Governor Andrew Hauser, Assistant Governor (Economic) Sarah Hunter and Assistant Governor (Financial System) Brad Jones
+
+The RBA raised its cash rate by 25 basis points at each of its first three 2026 meetings (3 February, 17 March, 5 May), taking it to 4.35%, before holding twice since (6 June, 11 August)
+
+Trimmed mean inflation, the RBA's preferred underlying measure, was running at 3.6% annually as of the July data, still above the 2-3% target band
+
+The RBA's next decision falls on 28-29 September, with a further 25 basis point hike currently priced at around 70 to 75%
+
+Today's hearing is a routine parliamentary appearance rather than a scheduled monetary policy speech, though any comment on inflation or rates could still move pricing ahead of next month's meeting
+
+Reserve Bank of Australia Governor Michele Bullock appears before the House of Representatives Standing Committee on Economics today, accompanied by Deputy Governor Andrew Hauser, Assistant Governor (Economic) Sarah Hunter and Assistant Governor (Financial System) Brad Jones. The appearance is a routine parliamentary hearing at which the Governor updates the committee on the Bank's operations before taking questions, rather than a scheduled monetary policy speech, but the timing puts it firmly on the radar of currency and rates traders.
+
+The RBA is in the midst of a rate hiking cycle that resumed early this year. The board lifted the cash rate by 25 basis points at each of its first three meetings of 2026, on 3 February, 17 March and 5 May, taking it to 4.35%. It has since held twice, at its 6 June and 11 August meetings, judging that the earlier increases needed time to work through the economy. At the August meeting the board kept policy on hold unanimously, noting that financial conditions had tightened following the three earlier hikes and that the economy appeared to be slowing broadly as expected.
+
+Inflation remains the key swing factor. The RBA's preferred trimmed mean measure, which strips out the most volatile price moves, was running at 3.6% year on year as of the July data, unchanged from the prior reading and still above the top of the bank's 2% to 3% target band. Headline CPI eased to 3.5% over the same period. That combination, cooling headline inflation alongside sticky underlying price pressure, is the backdrop against which markets are pricing today's testimony and next month's decision.
+
+The board's next scheduled meeting falls on 28-29 September, and a further 25 basis point increase is currently priced at around 70% to 75%, reflecting a market view that the inflation fight is not yet over even as the economy shows signs of slowing. Today's committee hearing gives Bullock and her colleagues a chance to address that pricing directly through questions from MPs, though any market reaction is likely to hinge on unscripted responses rather than a prepared statement.
+
+There's also a running, mostly quietly spoken tension between the RBA and the government over spending's role in inflation. Bullock has acknowledged in past parliamentary hearings that public demand feeds into the same aggregate demand pressures the Bank is trying to cool, telling one committee plainly that it doesn't take much additional spending to make the job of returning inflation to target more challenging. Treasurer Jim Chalmers has pushed back on any suggestion the government is the main culprit, pointing instead to private demand and global factors such as elevated energy prices. Neither side tends to press the point too hard in public, and today's hearing is unlikely to change that, but the underlying friction over how much fiscal policy is complicating the RBA's task remains part of the backdrop to any further hike.
+
+Australian Treasurer Chalmers
+================================================================================
+
