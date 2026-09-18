@@ -206,3 +206,19 @@ Source: boj.or.jp
 At the Monetary Policy Meeting held today, the Policy Board of the Bank of Japan decided, by a 7-2 majority vote, to set the following guideline for money market operations for the intermeeting period: [Note] The Bank will encourage the uncollateralized overnight call rate to remain at around 1.25 percent. In accordance with the change in the guideline for money market operations, the Bank decided, by a 7-2 majority vote, to change the interest rates applied to its measures. Interest rate applied to the complementary deposit facility The interest rate applied to the complementary deposit facility (the interest rate applied to current account balances held by financial institutions at the Bank, excluding required reserve balances) will be 1.25 percent.BOJ board members Asada, Sato opposed rate decisionBOJ's Asada said: recent CPI rise below 2% means economic conditions aren't necessarily robustBOJ's Sato: current economic and price trends have not significantly accelerated, so raising rates is not suitableBOJ: Economy, prices tracking baseline projection in outlook report
 ================================================================================
 
+================================================================================
+[2026-09-18 06:06 UTC] German producer prices in August 2026: +4.6% on August 2025  (impact: low)
+URL: https://www.forexfactory.com/news/1418834-german-producer-prices-in-august-2026-46-on
+Source: destatis.de
+--------------------------------------------------------------------------------
+The producer prices of industrial products were 4.6% higher in August 2026 than in August 2025. The Federal Statistical Office (Destatis) also reports that producer prices in August 2026 were up 1.1% on July 2026.The increase in producer prices compared with the same month a year earlier is primarily due to higher energy prices (+8.3%). The prices of ...
+================================================================================
+
+================================================================================
+[2026-09-18 06:02 UTC] Retail sales, Great Britain: August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1418832-retail-sales-great-britain-august-2026
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+The quantity of goods bought (volume) in retail sales is estimated to have risen by 0.9% in the three months to August 2026, compared with the three months to May 2026. Non-store retailers' sales volumes rose following a particularly strong June period, while food stores did well across the latest three months. Retail sales volumes are estimated to have ...
+================================================================================
+
