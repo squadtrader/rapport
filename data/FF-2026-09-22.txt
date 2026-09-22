@@ -351,3 +351,11 @@ Source: @captgirish1
 API: Crude: +1.786M Cushing: +2.082M Gasoline: -2.16M Distillates: -2.164M
 ================================================================================
 
+================================================================================
+[2026-09-22 23:01 UTC] AU: September sees output growth ease to three-month low  (impact: low)
+URL: https://www.forexfactory.com/news/1419783-au-september-sees-output-growth-ease-to-three-month
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+Although September 'flash' PMI® data from S&P Global indicated a fourth successive month of expansion in Australian private sector output, the upturn slowed to a modest rate that was the weakest seen across the third quarter. A fresh fall in export business weighed on growth in overall new orders, with a slower expansion in new business triggering the first ...
+================================================================================
+
