@@ -343,3 +343,11 @@ Source: bundesbank.de
 Ladies and gentlemen, It is a pleasure to speak to you this evening. The Society of Professional Economists was originally established back in 1953. That was four years before the Bundesbank was created. Much has changed in the global economic landscape since then. Growth and prosperity have risen to unprecedented levels due to globalisation, the ...
 ================================================================================
 
+================================================================================
+[2026-09-22 20:47 UTC] API:  Crude: +1.786M, Cushing: +2.082M, Gasoline: -2.16M,  Distillates: -2.164M  (impact: low)
+URL: https://www.forexfactory.com/news/1419766-api-crude-1786m-cushing-2082m-gasoline-216m
+Source: @captgirish1
+--------------------------------------------------------------------------------
+API: Crude: +1.786M Cushing: +2.082M Gasoline: -2.16M Distillates: -2.164M
+================================================================================
+
