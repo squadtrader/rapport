@@ -326,3 +326,19 @@ Source: @financialjuice
 BoE Breeden: It is not at all obvious that there is a path to lower energy prices.BoE Breeden: Indirect pass-through of energy price rises are limited so far, which suggests slack in the economy.BoE Breeden: The larger and longer the energy shock, the more likely policy will need to respond.BoE Breeden: You can't wait too long for conclusive evidence of 2nd round effects.
 ================================================================================
 
+================================================================================
+[2026-09-24 14:11 UTC] Paulson: Opening Remarks  (impact: low)
+URL: https://www.forexfactory.com/news/1428156-paulson-opening-remarks
+Source: philadelphiafed.org
+--------------------------------------------------------------------------------
+Thank you, Julapa, and good morning, everyone.1 Welcome to the 10th Annual Fintech Conference! Whether you’re attending in person or online, we are glad you are here. Many thanks to our partners at the Wharton School of the University of Pennsylvania, the School of International and Public Affairs at Columbia University, the University of Cambridge, and the Brookings Institution for your support of this conference. Twenty-twenty-six has been a year of milestone events — including the 250th anniversary of the Declaration of Independence, signed just two blocks from where I’m standing. Now, a 10-year anniversary isn’t quite as momentous as two-and-a-half centuries, but it still speaks to something we take seriously. Over the past 10 years, this gathering has grown into one of the field's most valuable forums — bringing together regulators, academics, established financial institutions, and the innovators pushing the industry forward. The conference has consistently produced insights that shape how we think about fintech and the broader financial system. I’d like to thank the organizing committee for putting together another dynamic agenda.Fed's Paulson: The US central bank may need to raise interest rates again to lower inflation.Fed's Paulson: September rate hike helped move policy to better inflation-fighting posture.Fed's Paulson: I will support doing what's needed to get inflation back to 2%.
+================================================================================
+
+================================================================================
+[2026-09-24 14:01 UTC] US Monthly New Residential Sales, August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1428151-us-monthly-new-residential-sales-august-2026
+Source: census.gov
+--------------------------------------------------------------------------------
+The U.S. Census Bureau and the U.S. Department of Housing and Urban Development jointly announced the following new residential sales statistics for August 2026. Sales of new single-family houses in August 2026 were at a seasonally-adjusted annual rate of 684,000, according to estimates released jointly today by the U.S. Census Bureau and the Department of ...
+================================================================================
+
