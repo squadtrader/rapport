@@ -110,3 +110,11 @@ Source: @NodeWire
 Bessent: Agreed To Extend Busan Trade Truce With China Bessent: Us-china Trade Truce Extended To Jan. 10
 ================================================================================
 
+================================================================================
+[2026-09-24 00:33 UTC] Japanese business activity growth slips to four-month low in September, while inflationary pressures ease only slightly  (impact: low)
+URL: https://www.forexfactory.com/news/1428005-japanese-business-activity-growth-slips-to-four-month-low
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+Japanese business activity growth softened in September, according to the latest S&P Global Flash PMI® data, with the rate of expansion slipping to a four-month low. While the upturn continued to be led by the manufacturing industry, both goods producers and service providers recorded slower rates of output and new order growth compared to the previous ...
+================================================================================
+
