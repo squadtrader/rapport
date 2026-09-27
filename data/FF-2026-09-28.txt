@@ -38,3 +38,19 @@ Source: @financialjuice
 Trump tells Axios: expects US negotiators to hold more talks with Iran this weekTrump To Axios: The Iranians Want To Make A Deal, But It's Not The One I Want, And We Probably Would Have Agreed To It A Year Ago. ...Trump To Axios: Iran Overestimated Its Strengths ...
 ================================================================================
 
+================================================================================
+[2026-09-27 23:51 UTC] Japan Monthly Report on the Services Producer Price Index (Preliminary Figures for August 2026)  (impact: low)
+URL: https://www.forexfactory.com/news/1428723-japan-monthly-report-on-the-services-producer-price
+Source: boj.or.jp
+--------------------------------------------------------------------------------
+The Services Producer Price Index (All items) rose 3.7 percent from the previous year. The Services Producer Price Index (All items <excluding International transportation>) rose 3.2 percent from the previous year.tables
+================================================================================
+
+================================================================================
+[2026-09-27 23:51 UTC] BOJ: Minutes of the Monetary Policy Meeting on July 30 and 31  (impact: low)
+URL: https://www.forexfactory.com/news/1428722-boj-minutes-of-the-monetary-policy-meeting-on
+Source: boj.or.jp
+--------------------------------------------------------------------------------
+The Bank had been conducting money market operations in accordance with the guideline for money market operations decided at the previous meeting on June 15 and 16, 2026.7 The uncollateralized overnight call rate had been in the range of 0.976 to 0.981 percent. Meanwhile, in June 2026, the Bank conducted Japanese government bond (JGB) purchases of about 2.7 trillion yen per month. In July 2026, it cut down the monthly purchase amount by about 200 billion yen, to about 2.5 trillion yen per month; this was in accordance with the plan for the outright purchases of JGBs decided at the June 2026 meeting. B. Recent Developments in Financial Markets In the money market, the uncollateralized overnight call rate had been at around 1.0 percent. The general collateral (GC) repo rate had been at around the same level as the uncollateralized overnight call rate. As for interest rates on term instruments, yields on threemonth treasury discount bills (T-Bills) had increased slightly. The Tokyo Stock Price Index (TOPIX) was more or less unchanged over the intermeeting period, albeit with fluctuations stemming from developments in prices overseas of semiconductor-related stocks and developments in crude oil prices. Yields on 10-year JGBs had increased, as a wait-and-see approach had been observed among investors, mainly in view of uncertainties over the situation in the Middle East and speculation over future fiscal and monetary policies. The liquidity indicBOJ july meeting minutes: members agreed financial conditions remain accommodative
+================================================================================
+
