@@ -446,3 +446,41 @@ The view sits against a market that has moved firmly towards a hike. A Reuters p
 Attention now turns to the RBA's statement and Bullock's press conference for any signal on whether November remains live, and to how quickly markets bring forward pricing for easing if the tightening cycle ends.
 ================================================================================
 
+================================================================================
+[2026-09-28 23:32 UTC] ING cuts year-end AUD/USD target to 0.72 but sees an RBA hike blocking a retest of June lows
+URL: https://investinglive.com/central-banks/ing-cuts-year-end-aud-usd-target-to-0-72-but-sees-an-rba-hike-blocking-a-retest-of-june-lows/
+Tags: AUD, RBA
+--------------------------------------------------------------------------------
+Summary
+
+ING expects the RBA to hike 25bp to 4.6% today, citing sticky core inflation, fuel costs and a tight labour market. It sees the hike supporting AUD and has cut its year-end AUD/USD target to 0.72 from 0.73, and flags a possible test below 0.70.
+
+With most of the hike already in the price, the Australian dollar reaction is likely to hinge on the RBA's statement and Governor Bullock's press conference, especially on whether November stays open. Oil is the swing factor behind that question, because fuel pass-through is a central part of the RBA's inflation worry, so Iran diplomacy headlines feed directly into rate expectations. A deal that pulls crude lower could ease that concern, while renewed escalation would reinforce it. The global bond selloff and US Treasury yields above 5.2% remain a headwind for AUD/USD regardless of the RBA outcome.
+
+ING sees the RBA delivering a hawkish hike today on sticky inflation and a resilient jobs market, giving a bruised Australian dollar some support but not a clear run.
+
+ING expects the RBA to lift the cash rate 25bp to 4.6% today, saying the economy continues to run hot, with a tight labour market, upside surprise in second-quarter GDP and stronger inflation readings, despite some cooling in housing.
+
+It sees inflation risks tilted to the upside after the US-Iran escalation, noting Australia relies on imported diesel, petrol and jet fuel, and cites RBA estimates that a 10% rise in fuel prices could add more than 0.3 percentage point to headline inflation.
+
+ING expects trimmed mean inflation to have held at 3.6% in August, a third straight month, challenging the RBA's forecast of 3.3% by year-end.
+
+Labour demand remains strong, with unemployment at 4.6%, three-month average job creation of around 34,000 and record participation of around 67%.
+
+ING says AUD/USD looks undervalued after a rough week and cut its year-end target to 0.72 from 0.73, with a test below 0.70 possible near term but a retest of the roughly 0.69 June lows avoidable with a hike.
+
+ING forecasts one hike each from the RBA and the Fed, with the Fed's coming in December, and says an October Fed hike would keep the US dollar in demand.
+
+ING expects the Reserve Bank of Australia to deliver a 25 basis point rate hike to 4.6% today, arguing that the economy continues to run hot across several fronts. In a preview published on September 25, the bank said the labour market remains tight, second-quarter GDP growth surprised to the upside and recent inflation readings have come in stronger than expected. While the housing market has shown signs of cooling, ING expects the RBA to stress that inflation risks remain tilted to the upside and that further vigilance is needed to return price pressures sustainably to target.
+
+ING sets out three reasons for the hawkish tilt. First, it says the escalation in the US-Iran conflict has raised inflation risks. Although Australia is a major exporter of LNG and thermal coal, it relies heavily on imported oil products such as diesel, petrol and jet fuel, and higher global oil prices have already lifted domestic fuel costs, raising input costs across transport, mining and agriculture. ING cited RBA estimates that a 10% rise in fuel prices could add more than 0.3 percentage point to headline inflation over one to two quarters, with indirect effects adding a further 0.2 to 0.25 percentage point. It expects crude oil prices to moderate, but says domestic fuel prices are likely to remain sticky.
+
+Second, ING said trimmed mean inflation was likely to have held at 3.6% year on year in August for a third consecutive month. That suggests core inflation accelerated in the third quarter rather than easing, challenging the RBA's expectation that it would slow to 3.3% by year-end. Third, labour demand remains strong despite unemployment rising to 4.6%. Full-time employment growth strengthened in July and August, three-month average job creation accelerated to around 34,000, the fastest since the conflict began in February, and participation reached a record of around 67%, which ING said raises the risk that wage and underlying inflation pressures stay persistent.
+
+On the currency, ING said the Australian dollar had a rough week, hit by weak risk sentiment and the global bond selloff, and that its short-term fair value model shows AUD/USD undervalued beyond a 1.5 standard deviation band. It said the US dollar leg is the big question, as an October Fed hike could keep the greenback in demand and delay a recovery, but that if the next Fed hike comes only in December, as it expects, AUD could top the G10 scorecard in a US dollar correction. ING noted markets price around 22bp for the RBA this week and roughly another 40bp over the next nine months, against around 90bp for the Fed by July 2027, leaving less room for a dovish repricing in Australia.
+
+ING forecasts one hike each from the RBA and the Fed, and said the rate differential should turn more positive for AUD/USD. It cut its year-end AUD/USD target to 0.72 from 0.73. In the very near term, a test below 0.70 is the risk, it said, but an RBA hike should prevent a retest of the roughly 0.69 June lows.
+
+Attention now turns to the RBA's statement and Bullock's press conference for any signal on the path beyond today.
+================================================================================
+
