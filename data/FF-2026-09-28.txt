@@ -150,3 +150,27 @@ Source: @LiveSquawk
 Iran Agrees To Suspend Uranium Enrichment In Exchange For US Sanctions Relief - Al Hadath
 ================================================================================
 
+================================================================================
+[2026-09-28 17:30 UTC] Fed's Barkin: Low unemployment rate is a key factor for consumption  (impact: low)
+URL: https://www.forexfactory.com/news/1428881-feds-barkin-low-unemployment-rate-is-a-key
+Source: @financialjuice
+--------------------------------------------------------------------------------
+Fed's Barkin: Low unemployment rate is a key factor for consumptionFed's Barkin: Wouldn't say AI is immune to rate pressure
+================================================================================
+
+================================================================================
+[2026-09-28 17:26 UTC] Cook: An Update on AI and the Economy  (impact: low)
+URL: https://www.forexfactory.com/news/1428879-cook-an-update-on-ai-and-the-economy
+Source: federalreserve.gov
+--------------------------------------------------------------------------------
+Thank you, Freada and Mitch, for that kind introduction. I appreciate the invitation to speak here at Oakland Tech Week and for the opportunity to return to the East Bay, where I lived and spent several formative years when I attended graduate school at Berkeley.1 Oakland was a vibrant, exciting place then and is an even more vibrant and exciting place now, and I am happy to have the opportunity to engage with you on a critical topic: artificial intelligence (AI) and its effects on our economy. In fact, my interest in the economics of innovation and artificial intelligence began at Cal. One of the most intriguing, impactful courses I took was on growth theory taught by Paul Romer who posited that investing in science and ideas could produce continuous, unbounded growth and later received the Nobel Prize for his seminal contributions advancing our thinking related to economic growth. I believe we are living in an era that, coupled with the historic, post-World War II investment in basic science, is seeing these and similar ideas coming to fruition and being tested in the global economy today. AI is poised to become the most significant technological shift of our lifetime. I view it as a general-purpose technology, on par with or exceeding breakthroughs, such as the steam engine, electricity, and the internet. Those innovations spread throughout the economy, sparked downstream innovation, and improved over time.2 AI is doing the same. As a long-time researcher of the economics of innovation and current monetary policymaker, I have observed these developments with keen interest. AI affects nearly every aspect of my role at the Federal Reserve, including monetary policy, financial stability, bank supervision, financial market infrastructure, and our own operational preparedness.3 While AI introduces an infinite set of exciting possibilities, it also offers us much to contemplate in a sober way. From the data on which AI models are trained to AI safety, I have long been an advocate of responsible AI development.4 Whether all the beneficial possibilities of AI are realized—and how—will depend on how researchers, consumers, businesses, and policymakers across the country rise to meet its opportunities and its challenges. To fully recognize the benefits of AI, we must pair optimism with caution and be cognizant of valid concerns AI may pose for privacy, bias, workers, fraud, cybersecurity, and intellectual property rights. For our part at the Fed, as a supervisor of banking organizations, we have encouraged, and continue to encourage, responsible use of AI within the financial sector in a manner that is consistent with safe and sound practices and in compliance with applicable law. Beyond that, any specific role for the government in the path of AI's trajectory is for elected officials to decide. I will continue to monitor closely the speed, direction, and magnitude of AI development as I assess the economic outlook, the appropriate path of monetary policy, and financial stability.Fed's Cook: Expect to see continued inflation pressure in coming months, from artificial intelligence and conflict in the Middle EastFed's Cook: Hope pace of AI adoption will minimize net job lossesFed's Cook: Those gains will not come in time to offset broadening inflation this year; signs of broadening pressure in inflation data*cook: Attentive To Risk Ai Causes Temp. Rise In Jobless Rate *cook: Recent Fed Rate Hike Meant To Address Too-high Inflation *cook: Labor Market Seems Well Positioned To Handle Higher Rates
+================================================================================
+
+================================================================================
+[2026-09-28 17:20 UTC] US source involved in Iran negotiations: The gaps are wide and the obstacles are significant  (impact: medium)
+URL: https://www.forexfactory.com/news/1428877-us-source-involved-in-iran-negotiations-the-gaps
+Source: @zerohedge
+--------------------------------------------------------------------------------
+An American source involved in the negotiations with Iran told Al Arabiya: The gaps are wide and the obstacles are significant
+================================================================================
+
