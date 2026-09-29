@@ -150,3 +150,19 @@ Source: fhfa.gov
 U.S. house prices rose nationwide in July, up 0.3 percent from the previous month, according to the U.S. Federal Housing (FHFA) seasonally adjusted monthly House Price Index (FHFA HPI®). House prices rose 2.6 percent from July 2025 to July 2026. The previously reported 0.0 percent price movement in June remained unchanged. For the nine census divisions, ...
 ================================================================================
 
+================================================================================
+[2026-09-29 14:01 UTC] US Consumer Confidence Fell in September  (impact: medium)
+URL: https://www.forexfactory.com/news/1429046-us-consumer-confidence-fell-in-september
+Source: prnewswire.com
+--------------------------------------------------------------------------------
+The Conference Board Consumer Confidence Index® fell by 6.7 points to 81.9 (1985=100) in September, down from 88.6 in August. The Present Situation Index—based on consumers' assessment of current business and labor market conditions—retreated by 7.9 points to 109.3. The Expectations Index—based on consumers' short-term outlook for income, business, and ...
+================================================================================
+
+================================================================================
+[2026-09-29 14:01 UTC] US Job Openings and Labor Turnover – August 2026  (impact: medium)
+URL: https://www.forexfactory.com/news/1429045-us-job-openings-and-labor-turnover-august
+Source: bls.gov
+--------------------------------------------------------------------------------
+The number of job openings was little changed at 7.1 million in August, the U.S. Bureau of Labor Statistics reported today. Hires changed little at 5.2 million, while total separations were unchanged at 5.1 million. Within separations, quits (3.1 million) were unchanged, while layoffs and discharges (1.6 million) were essentially unchanged. This release ...
+================================================================================
+
