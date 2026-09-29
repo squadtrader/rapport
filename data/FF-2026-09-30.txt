@@ -302,3 +302,11 @@ Source: federalreserve.gov
 Thank you for inviting me to speak here today. Last year at Sibos I leaned into the conference theme and discussed how a range of emerging technologies could shape the next frontier in global payments. Consistent with this year's theme, today I want to focus more specifically on the state of artificial intelligence (AI) in payments and raise a few questions about how this technology could change the way payment systems operate. As I have discussed before, within the financial sector, the payments industry has long been at the forefront of using AI to improve operations. There is a rich history of deploying machine learning to combat payments fraud. The industry was also an early adopter of large language models (LLMs) for payment reconciliation and similar tasks. Now it is helping to build foundational infrastructure for AI agents to operate more broadly in the economy. These agents can plan and execute multistep processes using LLMs, enabling those agents to transact autonomously. Given the global audience for this event, I'll start by discussing the implications of AI for the efficiency and security of cross-border payments. Then I will turn to a potentially transformative topic for the payments industry—agentic commerce. Potential for Cross-Border PayFeds Waller Makes No Comments On Monetary Policy Or Economic Outlook In Remarks On Payments In The Age Of Ai Agents
 ================================================================================
 
+================================================================================
+[2026-09-29 19:58 UTC] Trump: Iran Doing Very Poorly, Don't Know If They Are Going To Give Up Yet  (impact: low)
+URL: https://www.forexfactory.com/news/1429127-trump-iran-doing-very-poorly-dont-know-if
+Source: @DeItaone
+--------------------------------------------------------------------------------
+Trump: Iran Doing Very Poorly, Don't Know If They Are Going To Give Up Yet
+================================================================================
+
