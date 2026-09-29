@@ -310,3 +310,11 @@ Source: @DeItaone
 Trump: Iran Doing Very Poorly, Don't Know If They Are Going To Give Up Yet
 ================================================================================
 
+================================================================================
+[2026-09-29 20:46 UTC] API: Crude: 1.019M, Gasoline: +2.991M, Distillate: -.286M  (impact: low)
+URL: https://www.forexfactory.com/news/1429132-api-crude-1019m-gasoline-2991m-distillate-286m
+Source: @FirstSquawk
+--------------------------------------------------------------------------------
+U.s. Api Crude Oil Stock Change Was A Build Of 1.019 Mln, Versus A Forecast 1.9 Mln Draw, With Gasoline Stocks Up 2.991 Mln And Distillate Stocks Down 0.286 Mln
+================================================================================
+
