@@ -20,3 +20,19 @@ As a result, the daily fixing is often interpreted as a policy signal rather tha
 In periods of heightened global volatility, such as shifts in US rate expectations, trade tensions or capital flow pressures, the fixing takes on added significance. For investors, it provides insight into Beijing’s currency priorities, balancing competitiveness, capital stability and financial market confidence.
 ================================================================================
 
+================================================================================
+[2026-09-29 01:16 UTC] PBOC sets USD/ CNY central rate at 6.7411 (vs. estimate at 6.7177)
+URL: https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7411-vs-estimate-at-6-7177/
+Tags: pboc, CNH, CNY
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate.More hereon this.
+
+PBoC injects 90.5bn yuan via 7-day reverse repos at 1.40%
+
+PBoC injects 698.5bn yuan via overnight reverse repos
+================================================================================
+
