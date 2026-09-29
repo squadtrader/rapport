@@ -190,3 +190,73 @@ That especially as traders are still very much on the fence ahead of the Novembe
 So, the CPI report tomorrow will still matter. But if Bullock's message sticks, then it may just matter more as confirmation of where inflation has been rather than as a clean signal of where interest rates go next.
 ================================================================================
 
+================================================================================
+[2026-09-29 16:59 UTC] BoE’s Taylor questions whether a single “insurance hike” would be seen as the start of a series
+URL: https://investinglive.com/central-banks/boe-s-taylor-questions-whether-a-single-insurance-hike-would-be-seen-as-the-start-of-a-series/
+Tags: BOE
+--------------------------------------------------------------------------------
+Summary
+
+He says policy is restrictive enough for now, while watching for signs that higher energy prices are feeding into persistent inflation.
+
+Does not know if the BoE can do a single “insurance hike” that would not be misinterpreted as the start of a series.
+
+Every time oil futures curves rise, the greater the risk they get to a 2022-type inflation scenario.
+
+If wage growth expectations stay near 3%, that would be reassuring.
+
+Not seeing any clear signal of building second-round effects.
+
+BoE agents’ survey of firms’ wage intentions, due in January 2027, will be a very significant data point.
+
+The current policy stance is restrictive enough.
+
+Evidence points against a general inflation shock.
+
+Case for further rate increases is not compelling to him unless energy prices remain high for an extended period and generate clearer signals of broader inflation persistence.
+
+The right policy response is vigilant but disciplined; monetary policy should not react mechanically to energy price movements that remain primarily relative-price shocks.
+
+Analysis:Taylor is drawing a line between an energy-driven rise in prices and an inflation problem that spreads through the economy. For now, he sees policy as restrictive enough and no clear evidence of those second-round effects. That argues against an immediate rate increase, even as rising oil futures keep the risk on the BoE’s radar.
+
+The January wage intentions survey is a key test. If wage expectations remain near 3%, Taylor says that would be reassuring. If they rise, the case for holding rates steady becomes harder. His concern about an “insurance hike” adds another complication: traders might read one precautionary increase as the beginning of a series.
+================================================================================
+
+================================================================================
+[2026-09-29 16:45 UTC] Fed’s Barr expects GDP growth to pick up in the second half of the year
+URL: https://investinglive.com/central-banks/fed-s-barr-expects-gdp-growth-to-pick-up-in-the-second-half-of-the-year/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Barr sees a potential longer-term boost from AI, but says inflation remains a concern and policy will likely need adjustment.
+
+Expects GDP growth to pick up a bit in the second half of the year, from a 2% pace in the first half.
+
+Risks to achieving the inflation target have increased; risks to the labor market have receded.
+
+There is a need to recalibrate policy; base case is that further policy adjustments likely will be needed.
+
+Labor market solid, supported by business investment and consumer spending.
+
+Inflation is a key concern; Fed has been “knocked off course” to its 2% goal.
+
+Does not see a clear trend toward a timely return to 2% inflation.
+
+Makes sense to pencil in an AI productivity boost in the medium term, but difficult to project how or when.
+
+Is optimistic AI will boost productivity in the longer term.
+
+Too early to know if AI will push up the neutral rate of interest.
+
+AI buildout likely to be a strong boost to US economic activity in the next year or so.
+
+Should be prepared for serious short-term disruptions in the labor market from AI.
+
+Broad productivity gains from AI may take some time.
+
+Analysis:Barr’s message is mixed, but inflation is the immediate policy concern. He sees a solid labor market and somewhat faster growth ahead, while saying the risks of missing the inflation target have increased. His call for further policy adjustments does not, on its own, specify their direction. Traders will need clearer evidence that inflation is moving back toward 2% before treating an AI-driven productivity boost as a near-term answer to that concern.
+
+AI could support investment and growth over the next year or so, according to Barr. He is less certain about when broader productivity gains will arrive and warns of possible labor market disruption along the way. That distinction matters: stronger activity from building AI capacity does not necessarily mean an immediate improvement in economy-wide productivity.
+================================================================================
+
