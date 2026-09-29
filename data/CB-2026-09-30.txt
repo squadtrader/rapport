@@ -260,3 +260,45 @@ Analysis:Barr’s message is mixed, but inflation is the immediate policy concer
 AI could support investment and growth over the next year or so, according to Barr. He is less certain about when broader productivity gains will arrive and warns of possible labor market disruption along the way. That distinction matters: stronger activity from building AI capacity does not necessarily mean an immediate improvement in economy-wide productivity.
 ================================================================================
 
+================================================================================
+[2026-09-29 17:35 UTC] Fed's Musalem touts having a framework as the backbone of communication strategy
+URL: https://investinglive.com/central-banks/fed-s-musalem-touts-having-a-framework-as-the-backbone-of-communication-strategy/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+No comments on monetary policy or the outlook
+
+A predictable, explained framework is part of what makes a central bank democratically legitimate
+
+If the public understands the framework, private expectations line up with the Fed's intentions, improves trade-offs between inflation and employment
+
+A well-communicated framework also guards against inflationary and deflationary spirals
+
+Delegated power over interest rates also obligates the Fed to explain 'how and why that power is used'
+
+Market guess 'adds noise,' and results in higher and more volatile interest rates and financing costs for businesses and households
+
+The 'hall of mirrors' occurs when the Fed announces a forecast, not a framework
+
+Communicating the framework makes policy more effective, lowers costs for households and businesses
+
+A central bank that keeps its framework to itself forces market participants to guess at its reaction, rather than focusing on data
+
+Central banks should avoid communications and actions with no framework to make sense of them
+
+Central banks should also avoid 'exiting the conversation altogether,' would pose risks in terms of inflation
+
+A well-articulated framework should include two or three likely scenarios
+
+Central bankers needn't make promises, but should tell the public how and why the central bank makes policy decisions
+
+St. Louis Fed President Alberto Musalem delivered a speech on central bank communication and there's nothing worth trading because it's a philosophy lecture.
+
+Musalem argues that the Fed should communicate a reaction function rather than a forecast, warning that announcing forecasts creates a "hall of mirrors" where markets and policymakers chase each other's projections. That's a thinly veiled knock on the dot plot and on forward guidance that promises a path rather than explaining the conditions behind it.
+
+The comments also widely echo early criticisms of Warsh's communication strategy, which seems to have now shifted. He warns against exiting the conversation altogether," which he says would pose inflation risks. That reads as pushback against the camp that wants the Fed to speak less and rely less on guidance. Musalem's alternative is a middle ground: lay out two or three likely scenarios, make no promises, but explain the how and why.
+
+It's all sensible but I don't know how this big 'change' at the FOMC is going to amount to anything different. They like to talk and they answer questions, that's plenty for the market to go on.
+================================================================================
+
