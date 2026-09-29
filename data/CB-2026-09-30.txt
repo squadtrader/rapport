@@ -160,3 +160,33 @@ The market pricing for November still shows roughly 41% odds of another 25 bps r
 However, AUD/USD has now fallen from around 0.7015 earlier to 0.6980 levels currently. That likely reflects the signal from Bullock thattoday's rate hike does not necessarily mark the beginning of another tightening sequence.
 ================================================================================
 
+================================================================================
+[2026-09-29 06:15 UTC] RBA governor Bullock plays down August CPI, shifts focus to rate-hike lag
+URL: https://investinglive.com/central-banks/rba-governor-bullock-plays-down-august-cpi-shifts-focus-to-rate-hike-lag/
+Tags: RBA, AUD
+--------------------------------------------------------------------------------
+Summary
+
+Bullock says that while the August CPI matters, markets should not read too much into a backward-looking inflation print
+
+RBA governor, Michele Bullock's press conference is a rather interesting one today. She did her part in clarifying the rate decision and how upside risks to inflation are playing out, but at the same time she is also trying to stop markets from turning tomorrow’s August CPI report into an all-or-nothing signal for the next policy move.
+
+Bullock said that she would not put "too much emphasis" on the number, arguing that the RBA needs to think forward rather than react mechanically to data showing what happened a month ago.
+
+The key point here is essentially the lag from monetary policy.
+
+Before today, the RBA had already raised interest rates three times between February and May. And Bullock mentions that the full impact can take 12 to 18 months to work its way through the economy. Her argument is that when you throw in today's rate hike into the mix, a good chunk of the tightening story is still travelling through mortgages, household spending and demand.
+
+Now, that does not make tomorrow’s CPI report irrelevant. Far from it.
+
+Bullock said that if the numbers do come in as expected, it would confirm that inflation was “unacceptably high” in the first half of the year. But it would not necessarily tell the RBA what inflation will look like a few months from now, let alone next year.
+
+And that's the key takeaway for markets here.
+
+A hot CPI print tomorrow can still lift the aussie and encourage traders to price in another RBA rate hike, particularly with upside inflation risks still in play. However, Bullock is clearly trying to lower the odds that one monthly number becomes the entire policy story.
+
+That especially as traders are still very much on the fence ahead of the November meeting, with the odds of another 25 bps rate hike sitting at around 41% now.
+
+So, the CPI report tomorrow will still matter. But if Bullock's message sticks, then it may just matter more as confirmation of where inflation has been rather than as a clean signal of where interest rates go next.
+================================================================================
+
