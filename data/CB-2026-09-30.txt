@@ -1,0 +1,22 @@
+================================================================================
+[2026-09-29 00:25 UTC] PBOC is expected to set the USD/CNY reference rate at 6.7177 – Reuters estimate
+URL: https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7177-reuters-estimate/
+Tags: pboc, CNH, CNY
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The People’s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets.
+
+China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC. The current trading band permits the currency to move plus or minus 2% from the official midpoint during onshore trading hours.
+
+Each morning, the PBOC determines the midpoint based on a range of inputs. These include the previous day’s closing price, movements in major currencies, particularly the US dollar, broader international FX conditions, and domestic economic considerations such as capital flows, growth momentum and financial stability objectives. The midpoint is not a purely mechanical calculation, allowing policymakers discretion to guide market expectations.
+
+Once the midpoint is announced, onshore USD/CNY is free to trade within the allowable band. If market pressures push the yuan toward either edge of that range, the central bank may step in to smooth volatility. Intervention can take the form of direct buying or selling of yuan, adjustments to liquidity conditions, or guidance through state-owned banks.
+
+As a result, the daily fixing is often interpreted as a policy signal rather than just a technical reference point. A stronger-than-expected CNY midpoint is typically read as a sign the PBOC is leaning against depreciation pressure, while a weaker fixing for the CNY can indicate tolerance for a softer currency, often in response to dollar strength or domestic economic headwinds.
+
+In periods of heightened global volatility, such as shifts in US rate expectations, trade tensions or capital flow pressures, the fixing takes on added significance. For investors, it provides insight into Beijing’s currency priorities, balancing competitiveness, capital stability and financial market confidence.
+================================================================================
+
