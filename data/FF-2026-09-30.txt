@@ -382,3 +382,19 @@ Source: rba.gov.au
 All growth rates for the financial aggregates are seasonally adjusted, and adjusted for the effects of breaks in the series. Data for the levels of financial aggregates are not adjusted for series breaks, and growth rates should not be calculated from data on the levels of credit. Historical levels and growth rates for the financial aggregates have been ...
 ================================================================================
 
+================================================================================
+[2026-09-30 06:04 UTC] GDP quarterly national accounts, UK: April to June 2026  (impact: high)
+URL: https://www.forexfactory.com/news/1429182-gdp-quarterly-national-accounts-uk-april-to-june
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+UK gross domestic product (GDP) is estimated to have grown by 0.5% in Quarter 2 (Apr to June) 2026 (revised up by 0.1 percentage points from the previous estimate), following an unrevised increase of 0.6% in Quarter 1 (Jan to Mar) 2026. GDP for 2025 as a whole is estimated to have increased by 1.2%, revised down by 0.1 percentage points from the previous ...
+================================================================================
+
+================================================================================
+[2026-09-30 06:02 UTC] Balance of payments, UK: April to June 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1429181-balance-of-payments-uk-april-to-june-2026
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+The underlying UK current account deficit, excluding precious metals, narrowed to £11.3 billion, or 1.4% of gross domestic product (GDP) in Quarter 2 (Apr to June) 2026; this is a change of £3.0 billion compared with the deficit of £14.3 billion in the previous quarter. The UK current account deficit, including trade in precious metals, narrowed by £1.2 ...
+================================================================================
+
