@@ -504,3 +504,37 @@ PBoC injects 833.5bn yuan via overnight reverse repos
 No 7-day reverse repos today
 ================================================================================
 
+================================================================================
+[2026-09-30 15:15 UTC] Atlanta Fed GDPNow cuts Q3 US growth estimate to 3.7% from 5.0%
+URL: https://investinglive.com/central-banks/atlanta-fed-gdpnow-cuts-q3-us-growth-estimate-to-3-7-from-5-0/
+Tags: USD
+--------------------------------------------------------------------------------
+Summary
+
+Atlanta Fed GDPNow tumbles (but remains positive) as trade deficit widens
+
+Q3 2026 real GDP growth estimate: 3.7% annualized, down from5.0%on September 25.
+
+Real consumer spending growth estimate: 3.5%, down from4.2%.
+
+Real gross private domestic investment growth estimate: 20.7%, up from18.7%.
+
+Net exports contribution: −2.60 percentage points, compared with−1.37 percentage pointspreviously.
+
+Next GDPNow update: Thursday, October 1.www.atlantafed.org
+
+Advance goods trade balance: −$132.6 billion vs −$115.0 billion expected.
+
+July goods trade balance: −$118.9 billion.
+
+The deficit widened by $13.7 billion from July, and was$17.6 billion larger than expected.investinglive.com
+
+The Atlanta Fed lowered its GDPNow estimate for third-quarter US growth to3.7% from 5.0%, following this morning’s Census Bureau and Bureau of Economic Analysis releases. Growth is still projected to be solid, but the downgrade takes some heat out of the outlook.
+
+The US reported amuch wider-than-expected August goods deficitof$132.6 billion, compared with$115.0 billion expectedand$118.9 billion in July. That weaker trade result helps explain why GDPNow now projects net exports to subtract2.60 percentage pointsfrom third-quarter growth, versus1.37 percentage pointspreviously. Softer projected consumer spending added to the downgrade, while stronger investment provided a partial offset.investinglive.com
+
+Quick analysis:The headline is weaker, but the details matter. A larger trade deficit weighs on the GDP calculation without necessarily signaling a broad collapse in domestic demand. The consumer spending downgrade is the more direct sign of softer demand, while investment remains an offset. The update could ease pressure on Treasury yields and the dollar and temper expectations for further Fed tightening, although inflation and employment data will remain central to that decision.
+
+What this report measures:GDPNow estimates inflation-adjusted gross domestic product using incoming economic data before the government releases its quarterly GDP report. Its seasonally adjusted annualized rate expresses growth as if the quarter’s pace continued for a full year. Imports are subtracted in the GDP calculation to remove foreign production already included in spending or investment; GDPNow is a changing model estimate, rather than an official forecast from Atlanta Fed policymakers.
+================================================================================
+
