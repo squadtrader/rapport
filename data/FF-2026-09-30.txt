@@ -534,3 +534,11 @@ Source: snb.ch
 Report for the attention of the Governing Board of the Swiss National Bank for its quarterly monetary policy assessment of September 2026 The report describes economic and monetary developments in Switzerland and explains the inflation forecast. It shows how the SNB views the economic situation and the implications for monetary policy it draws from this assessment. • On 24 September 2026, the SNB decided to leave its policy rate at 0%. Medium-term inflationary pressure had increased only slightly compared to June. Monetary policy is appropriate to keep inflation within the range consistent with price stability and supports economic development. The SNB is also willing to be active in the foreign exchange market as necessary to ensure appropriate monetary conditions.SNB: Swiss economy grew robustly in Q3, company survey showedSNB: Companies plan to increase hiring, staff levels too low.SNB: Companies expect turnover to keep rising in the coming quarters.
 ================================================================================
 
+================================================================================
+[2026-09-30 14:14 UTC] Chicago Business Barometer - Rebounded to 58.8 in September  (impact: low)
+URL: https://www.forexfactory.com/news/1429263-chicago-business-barometer-rebounded-to-588-in
+Source: drive.google.com
+--------------------------------------------------------------------------------
+The Chicago Business BarometerTM, produced with MNI, rebounded 11.7 points to 58.8 in September. The Barometer is back in expansionary territory after one month below the neutral 50 mark and is now at its highest since May. • The rise was driven by increases in Production, New Orders, Supplier Deliveries and Order Backlogs. A decline in Employment provided ...
+================================================================================
+
