@@ -342,3 +342,43 @@ Source: anz.co.nz
 Business confidence eased 2 points in September to +52. Expected own activity was steady at +48. Reported past activity fell 5 points to +11. Inflation indicators were little changed. Inflation expectations were steady at 3.25%, cost expectations were up 1 point to net 82% expecting higher costs, and pricing intentions eased 3 points to a net 48% expecting ...
 ================================================================================
 
+================================================================================
+[2026-09-30 01:47 UTC] China: Services activity growth accelerates for second straight month  (impact: low)
+URL: https://www.forexfactory.com/news/1429159-china-services-activity-growth-accelerates-for-second-straight
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+China’s service sector expanded at a faster rate in September, according to the latest RatingDog PMI® survey data, which is compiled by S&P Global. Stronger inflows of new work boosted activity levels at the end of the third quarter and supported a further increase in employment. Business confidence regarding the year ahead also improved among service ...
+================================================================================
+
+================================================================================
+[2026-09-30 01:46 UTC] China: Manufacturing output expands at fastest pace in five months  (impact: low)
+URL: https://www.forexfactory.com/news/1429157-china-manufacturing-output-expands-at-fastest-pace-in
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+Business conditions in China’s manufacturing sector improved at a stronger pace at the end of the third quarter, according to the latest PMI® survey data. Growth in manufacturing production accelerated amid rising demand from both domestic and overseas customers. Firms therefore increased their purchasing activity and workforce numbers to cope with the ...
+================================================================================
+
+================================================================================
+[2026-09-30 01:32 UTC] Building Approvals, Australia: August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1429152-building-approvals-australia-august-2026
+Source: abs.gov.au
+--------------------------------------------------------------------------------
+The August 2026 seasonally adjusted estimate: • Total dwellings approved fell 6.1% to 16,953. • Private sector houses rose 3.7% to 10,885, while private sector dwellings excluding houses fell 21.2% to 5,674. • The value of residential building fell 0.6% to $11.30b. • The value of non-residential building fell 44.8% to $5.53b.tablechartThe seasonally ...
+================================================================================
+
+================================================================================
+[2026-09-30 01:31 UTC] Consumer Price Index, Australia, August 2026  (impact: high)
+URL: https://www.forexfactory.com/news/1429154-consumer-price-index-australia-august-2026
+Source: abs.gov.au
+--------------------------------------------------------------------------------
+In the 12 months to August 2026: • The Consumer Price Index (CPI) rose 4.0%, up from 3.5% in the 12 months to July 2026. • Trimmed mean inflation was 3.6%, unchanged from the 12 months to July 2026. In the month of August, the CPI rose 0.4% in original and 0.7% in seasonally adjusted terms.tablechartsCPI annual inflation was 4.0 per cent in the 12 ...
+================================================================================
+
+================================================================================
+[2026-09-30 01:31 UTC] AU Financial Aggregates August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1429153-au-financial-aggregates-august-2026
+Source: rba.gov.au
+--------------------------------------------------------------------------------
+All growth rates for the financial aggregates are seasonally adjusted, and adjusted for the effects of breaks in the series. Data for the levels of financial aggregates are not adjusted for series breaks, and growth rates should not be calculated from data on the levels of credit. Historical levels and growth rates for the financial aggregates have been ...
+================================================================================
+
