@@ -572,3 +572,25 @@ Softer inflation normally weighs on Treasury yields and the US dollar while supp
 What this report measures:The Dallas Fed’s trimmed mean personal consumption expenditures (PCE) inflation measure removes the largest price increases and decreases to help identify the underlying inflation trend. The Dallas Fed publishes one-month annualized, six-month annualized and 12-month readings, which traders monitor alongside headline and core PCE inflation.
 ================================================================================
 
+================================================================================
+[2026-09-30 15:55 UTC] ECB’s Schnabel: High costs passed through to consumers more quickly when economy resilient
+URL: https://investinglive.com/central-banks/ecb-s-schnabel-high-costs-passed-through-to-consumers-more-quickly-when-economy-resilient/
+Tags: EUR
+--------------------------------------------------------------------------------
+Summary
+
+Robust credit growth suggests financial conditions are not yet restrictive, although rising global yields could dampen price pressures.
+
+High costs passed through to consumers more quickly when economy resilient.
+
+Robust credit dynamics suggest that financial conditions are not yet restrictive.
+
+Possible economy responds more to the recent global yield rise than assumed; would dampen price pressures.
+
+Can return inflation to target more gradually when expectations anchored.
+
+Analysis:The message is mixed. A resilient economy allows businesses to pass higher costs through to consumers more quickly, keeping inflation pressures in play. Meanwhile, robust credit growth suggests financial conditions are not yet restrictive. Those comments lean hawkish, as they question how much monetary policy is restraining demand.
+
+However, Schnabel also leaves room for patience. Higher global yields could slow the economy more than expected, helping ease price pressures. If inflation expectations remain anchored—meaning households and businesses still expect inflation to return to target—the ECB can take a more gradual approach. The key question is whether higher borrowing costs start to restrain demand, or whether economic resilience keeps the cost increases flowing through to consumers.
+================================================================================
+
