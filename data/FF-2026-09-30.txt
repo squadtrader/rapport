@@ -422,3 +422,11 @@ Source: insee.fr
 Over the course of a year, according to the preliminary estimate made at the end of the month, consumer prices are projected to rise by 3.0% in September 2026, following a 2.4% increase in August. Energy prices are expected to accelerate again, driven by higher prices for petroleum products and gas. Services inflation is projected to increase slightly, ...
 ================================================================================
 
+================================================================================
+[2026-09-30 08:06 UTC] German Bavaria CPI YoY Actual 3.2% (Previous 2.9%)  (impact: low)
+URL: https://www.forexfactory.com/news/1429193-german-bavaria-cpi-yoy-actual-32-previous-29
+Source: @financialjuice
+--------------------------------------------------------------------------------
+Bavaria Cpi Yoy Actual 3.2% (forecast -, Previous 2.9%) $macroBavaria Cpi Mom Actual 0.6% (forecast -, Previous 0.2%) $macro#Germany regional CPI Septemebr 2026 - Baden W 2.9% vs 2.6% pr y/y. Bavaria 3.2% vs 2.9% pr. NRW 3.3% vs 2.9% pr. Saxony 3.4% vs 2.9% pr Hesse 3.4% vs 3.0% pr. Brandenburg 3.6% vs 3.1% pr. #EUR
+================================================================================
+
