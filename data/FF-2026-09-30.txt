@@ -670,3 +670,19 @@ Source: @NodeWire
 Fed's Kashkari: Inflation Still Too High, About 3%, New Data Doesn't Alter Outlook ...Kashkari says consumers are still spending and job seekers are finding positionsFed's Kashkari: uncertain about current neutral rateKashkari says the Fed should not blindly follow markets, but cannot ignore their signalsKashkari doubts the economy is struggling outside the AI sector
 ================================================================================
 
+================================================================================
+[2026-09-30 23:51 UTC] Japan Tankan Outline (September 2026)  (impact: low)
+URL: https://www.forexfactory.com/news/1429388-japan-tankan-outline-september-2026
+Source: boj.or.jp
+--------------------------------------------------------------------------------
+tables
+================================================================================
+
+================================================================================
+[2026-09-30 23:51 UTC] BOJ: Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1429387-boj-summary-of-opinions-at-the-monetary-policy
+Source: boj.or.jp
+--------------------------------------------------------------------------------
+Japan's economy has recovered moderately, although some weakness has been seen in part, partly due to the impact of the situation in the Middle East. Regarding the outlook, Japan's economy is expected to continue growing moderately. This is because, although the impact of the situation in the Middle East is expected to push down economic activity, the economy is likely to be underpinned by factors such as the government's various measures, in addition to an increase in global AI-related demand. The somewhat weak figures for domestic demand in the April-June GDP statistics are considered to be attributable to technical factors regarding the treatment of, for example, the sale of patent rights abroad and the provision of free school lunches. Overall, both economic activity and prices have been developing generally in line with the projections made in the July 2026 Outlook for Economic Activity and Prices, and attention continues to be warranted on upward deviations in prices, more so than on downward deviations in economic activity.BOJ summary: one member says policy phase shifted, focus must be on anchoring underlying inflation near 2%BoJ summary: one member said the central bank must speed up rate hikes if inflation rises above target
+================================================================================
+
