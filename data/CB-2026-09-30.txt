@@ -594,3 +594,35 @@ Analysis:The message is mixed. A resilient economy allows businesses to pass hig
 However, Schnabel also leaves room for patience. Higher global yields could slow the economy more than expected, helping ease price pressures. If inflation expectations remain anchored—meaning households and businesses still expect inflation to return to target—the ECB can take a more gradual approach. The key question is whether higher borrowing costs start to restrain demand, or whether economic resilience keeps the cost increases flowing through to consumers.
 ================================================================================
 
+================================================================================
+[2026-09-30 17:04 UTC] Goldman Sachs moves its call for the next Fed rate hike to December from October
+URL: https://investinglive.com/central-banks/goldman-sachs-moves-its-call-for-the-next-fed-rate-hike-to-december-from-october/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+The market is pricing in a 40% chance of a Fed hike in the month of October (October 28)
+
+Goldman Sachs has changed its forecast for the next Fed rate hike from October to December.
+
+Yesterday, John Williams, the New York Fed president and a permanent FOMC voter, saidone more rate hike this year may be enough, provided the economy develops as expected. However, he sees“no need for urgency” after September’s hike, giving the Fed time to review more data before acting again.
+
+Growth:GDP rising 2.25% this year, with economic momentum strong and potentially strengthening.
+
+Employment:Unemployment at 4% during 2027.
+
+Inflation:3.5% this year, returning to the 2% target in 2028.
+
+Risks:Growing AI investment could add inflation pressure. The Fed must prevent supply shocks from making higher inflation persistent.
+
+The message on October:Williams did not rule out a hike, but his comments supported the possibility of waiting. At the time, the October hike odds fell to54% from 64%, while the US 2-year yield declined2.5 basis points to 4.90%. Today, the odds for a hike are down to 40% with the 2 year yield at 4.887%
+
+Although Williams’ comments were viewed as more dovish, his outlook remains conditional. Incoming data will determine both whether another rate hike is needed and when it might come.
+
+Another consideration is the calendar. The October meeting falls at the end of the month, less than a week before the November midterm elections. In my view, a hike that close to Election Day could invite criticism from President Trump and other Republicans that the Fed was trying to influence the results. That does not mean the Fed would avoid a necessary move, but it adds political sensitivity to the timing.
+
+Meanwhile,the market is already doing some of the tightening for the Fed. The 10-year yield has risen from around4.61% on August 25 to 5.293% currently (see chart below), an increase of roughly67 basis points—nearly 68 basis points. The 2-year yield has climbed from4.26% on August 13 to 4.89%, a rise of63 basis points.
+
+Those higher yields tighten financial conditions by raising borrowing costs for households and businesses. That could give the Fed an argument for pausing in October while it assesses the incoming data and the impact of the tightening already delivered by the bond market.
+================================================================================
+
