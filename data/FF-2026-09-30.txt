@@ -542,3 +542,11 @@ Source: drive.google.com
 The Chicago Business BarometerTM, produced with MNI, rebounded 11.7 points to 58.8 in September. The Barometer is back in expansionary territory after one month below the neutral 50 mark and is now at its highest since May. • The rise was driven by increases in Production, New Orders, Supplier Deliveries and Order Backlogs. A decline in Employment provided ...
 ================================================================================
 
+================================================================================
+[2026-09-30 14:40 UTC] EIA: US crude inventories up by 922,000 barrels  (impact: low)
+URL: https://www.forexfactory.com/news/1429269-eia-us-crude-inventories-up-by-922000-barrels
+Source: breakingthenews.net
+--------------------------------------------------------------------------------
+Commercial crude oil inventories in the United States, excluding those in the Strategic Petroleum Reserve, rose by 922,000 barrels to 427.3 million barrels in the week ending September 25, the Energy Information Administration (EIA) said in a report on Wednesday. Refineries processed 16.3 million barrels per day (bpd) in the reported week and operated at ...
+================================================================================
+
