@@ -538,3 +538,37 @@ Quick analysis:The headline is weaker, but the details matter. A larger trade de
 What this report measures:GDPNow estimates inflation-adjusted gross domestic product using incoming economic data before the government releases its quarterly GDP report. Its seasonally adjusted annualized rate expresses growth as if the quarter’s pace continued for a full year. Imports are subtracted in the GDP calculation to remove foreign production already included in spending or investment; GDPNow is a changing model estimate, rather than an official forecast from Atlanta Fed policymakers.
 ================================================================================
 
+================================================================================
+[2026-09-30 15:28 UTC] US August Dallas Fed Trimmed mean PCE inflation at 1.9% vs 2.2% expected
+URL: https://investinglive.com/central-banks/us-august-dallas-fed-trimmed-mean-pce-inflation-at-1-9-vs-2-2-expected/
+Tags: USD
+--------------------------------------------------------------------------------
+Summary
+
+Good news if throw out the highs and lows from the PCE data.
+
+Dallas Fed PCE: 1.9% vs 2.2% expected.
+
+Prior revised to 1.9% from 2.2%.
+
+The August Dallas Fed PCE inflation reading came in at1.9%, below the2.2% expectedand equal to the revised prior reading of1.9% (was 2.2%), according to the supplied release table.
+
+The softer reading points toward easing underlying inflation pressures.
+
+Quick analysis:The downside surprise could ease pressure on the Fed to raise rates but there is still work to do.
+
+Earlier today, the August Personal Consumption Expenditures report also showed inflation below expectations but numbers that were higher than the Dallas numbers:
+
+Core PCE y/y: 3.0% vs 3.3% expected. Prior 3.3%.
+
+Core PCE m/m: +0.2% vs +0.3% expected. Prior +0.2%.
+
+Headline PCE y/y: 3.4% vs 3.7% expected. Prior 3.7%.
+
+Headline PCE m/m: +0.3% vs +0.4% expected. Prior +0.2%.
+
+Softer inflation normally weighs on Treasury yields and the US dollar while supporting equities, although one reading alone does not settle the policy outlook.
+
+What this report measures:The Dallas Fed’s trimmed mean personal consumption expenditures (PCE) inflation measure removes the largest price increases and decreases to help identify the underlying inflation trend. The Dallas Fed publishes one-month annualized, six-month annualized and 12-month readings, which traders monitor alongside headline and core PCE inflation.
+================================================================================
+
