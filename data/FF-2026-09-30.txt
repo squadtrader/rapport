@@ -334,3 +334,11 @@ Source: meti.go.jp
 tables
 ================================================================================
 
+================================================================================
+[2026-09-30 00:29 UTC] ANZ New Zealand Business Outlook: Cautiously moving forward  (impact: low)
+URL: https://www.forexfactory.com/news/1429138-anz-new-zealand-business-outlook-cautiously-moving-forward
+Source: anz.co.nz
+--------------------------------------------------------------------------------
+Business confidence eased 2 points in September to +52. Expected own activity was steady at +48. Reported past activity fell 5 points to +11. Inflation indicators were little changed. Inflation expectations were steady at 3.25%, cost expectations were up 1 point to net 82% expecting higher costs, and pricing intentions eased 3 points to a net 48% expecting ...
+================================================================================
+
