@@ -262,3 +262,19 @@ Source: federalreserve.gov
 Thank you, Keith, and while it is always an honor to represent the Federal Reserve and speak at public events, being here today is truly a special privilege for me. In the 17 years that I have spent in different roles for the Fed, one of the things that I am most proud of is the modest contribution I made, while here in St. Louis, to the growth and success of FRED (Federal Reserve Economic Data). Among all the Federal Reserve's accomplishments over the years, I consider FRED to be the greatest public good that we have ever created. As a trusted and reliable resource available to all, FRED is the goodwill ambassador for the Federal Reserve around the world. A crucial reason for that reputation and success has been the willingness of the leaders of the Federal Reserve Bank of St. Louis to keep their eyes on the horizon of what FRED could be, as a tool for users around the world to improve understanding of the economy through data access and charting, as technology marches forward. We open a new chapter in that endeavor at this conference, which is a chance for all of us to explore trust in data, data accessibility, and storytelling with data. The backdrop for our discussion is the technological earthquake of artificial intelligence (AI), which is bringing new opportunities and challenges for FRED and others in this audience. Technological leaps, in fact, have always driven the evolution of FRED, so before I get into AI, for the larger audience outside this room, let me start with a little of that history. In 1961, St. Louis Fed Research Director Homer Jones started to mail out a typed weekly digest of economic data from a variety of government agencies to Fed policymakers and staff, academics, journalists, and other members of the public. A telephone answering machine laterFeds Waller doesnt comment on rates, economic outlook in text
 ================================================================================
 
+================================================================================
+[2026-10-01 14:45 UTC] Yen is surging. No information about intervention or rate checks at this point  (impact: high)
+URL: https://www.forexfactory.com/news/1429497-yen-is-surging-no-information-about-intervention-or
+Source: @Min_FX
+--------------------------------------------------------------------------------
+[Dealer's Voice] The Japanese yen is surging. While there are growing concerns about intervention, no information about intervention or rate checks has been heard at this time.
+================================================================================
+
+================================================================================
+[2026-10-01 14:33 UTC] EIA: US gas inventories up by 64 billion cubic feet  (impact: low)
+URL: https://www.forexfactory.com/news/1429496-eia-us-gas-inventories-up-by-64-billion
+Source: breakingthenews.net
+--------------------------------------------------------------------------------
+Working gas in storage across the United States reached 3,415 billion cubic feet in the week ending September 25, the Energy Information Administration (EIA) shared in a report on Thursday. The figure represents a net increase of 64 billion cubic feet compared to the previous week. Compared to the same period one year ago, gas stocks declined by 138 billion ...
+================================================================================
+
