@@ -22,3 +22,11 @@ Source: abs.gov.au
 • The seasonally adjusted balance on goods decreased $856m in August. • Goods credits (exports) increased $1,707m (3.7%) driven by Non-monetary gold and Coal, coke and briquettes. • Goods debits (imports) increased $2,563m (5.8%) driven by ADP equipment and Non-monetary gold.tableschartsRural goods fell $62m (1.0%), driven by Cereal grains and cereal ...
 ================================================================================
 
+================================================================================
+[2026-10-01 06:11 UTC] UK: Annual house price growth halves in September  (impact: medium)
+URL: https://www.forexfactory.com/news/1429416-uk-annual-house-price-growth-halves-in-september
+Source: nationwide.co.uk
+--------------------------------------------------------------------------------
+September saw UK annual house price growth halve to 0.8%, the weakest rate of growth since December 2025. Prices were down 0.2% month-on-month, after taking account of seasonal effects. “Market activity and house prices have remained subdued in recent months, in part reflecting the uncertain economic backdrop. Geopolitical tensions remain high, with the ...
+================================================================================
+
