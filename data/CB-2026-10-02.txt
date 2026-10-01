@@ -108,3 +108,29 @@ The tankan added support for the hawks. The index for large manufacturers rose t
 The BOJ will weigh the tankan in its quarterly growth and inflation forecasts this month, which should offer clues on timing. Softer than expected U.S. inflation data may also reduce the need to hike quickly to avoid yen falls that raise import costs, which keeps the October versus December question open.
 ================================================================================
 
+================================================================================
+[2026-10-01 17:02 UTC] Fed’s Schmid: Rising long-term rates are starting to strain housing and commercial lending
+URL: https://investinglive.com/central-banks/fed-s-schmid-rising-long-term-rates-are-starting-to-strain-housing-and-commercial-lending/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Barkin and Collins point to the AI investment boom as a source of stronger demand and economic resilience.
+
+Collins discussed rising borrowing costs at a Richmond Fed conference in Asheville, N.C., on Thursday, according to Axios.
+
+Jeff Schmid, Kansas City Fed president:Likened the challenge of separating strong demand from supply-driven inflation to a seven-layer dip: With AI and data centers, “there’s too much beans in that dip.”
+
+Susan Collins, Boston Fed president:AI investment “does have broader effects, not just in particular sectors,” but it “remains to be seen” whether investment will continue at its current pace.
+
+Tom Barkin:“I think you’re seeing this trillion-dollar AI buildout, and I think it’s not surprising that rates go up if you’ve got a lot more demand out there.”
+
+Jeff Schmid:“Even on the mortgage rate side, it’s starting to affect home prices, which is how the price of credit works relative to valuation.”
+
+Jeff Schmid:“You’re starting to see some friction in some of the long-market users of credit,” pointing to multifamily housing and commercial lending.
+
+Analysis:The market is doing some tightening for the Fed with the 10 year yield up 65 basis points from August 25 low, but the impact is uneven. Higher long-term borrowing costs are starting to bite in housing and commercial lending. For a beginner, the connection is straightforward: Higher financing costs make projects more expensive and reduce what buyers can afford to pay for property.
+
+At the same time, the AI buildout is supporting demand and helping growth hold up despite those higher costs. That complicates the Fed’s job. These comments offer a mixed economic assessment rather than a clear signal on the next rate decision. The key question is whether AI spending maintains its pace—or whether pressure on borrowers begins to produce a broader slowdown.
+================================================================================
+
