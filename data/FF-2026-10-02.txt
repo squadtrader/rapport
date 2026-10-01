@@ -206,3 +206,27 @@ Source: @financialjuice
 Fed's Collins: Economic growth is near trend, if not more than that; labor market near full employment, but inflation is too highFed's Collins: We won't get ahead of the next meeting
 ================================================================================
 
+================================================================================
+[2026-10-01 13:32 UTC] Canada: Modest growth sustained in September but spike in cost inflation and fall in confidence signalled  (impact: low)
+URL: https://www.forexfactory.com/news/1429477-canada-modest-growth-sustained-in-september-but-spike
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+There was mixed news on the performance of Canada’s manufacturing economy during September. Output rose, whilst employment growth was sustained, but confidence in the outlook weakened considerably and overall sales fell due to tariffs. Meanwhile, input costs rose to the greatest degree since July 2022 as supply-side challenges intensified over the month. ...
+================================================================================
+
+================================================================================
+[2026-10-01 13:31 UTC] Lagarde: Where AI risks meet  (impact: low)
+URL: https://www.forexfactory.com/news/1429476-lagarde-where-ai-risks-meet
+Source: ecb.europa.eu
+--------------------------------------------------------------------------------
+It is a pleasure to welcome you to the tenth annual conference of the European Systemic Risk Board (ESRB), as we mark 15 years since its creation. The ESRB was born of a hard lesson laid bare by the global financial crisis and reinforced by Europe’s sovereign debt crisis. Risks had been building across institutions and markets, while the view of any one authority remained incomplete. Europe needed a way to see the financial system as a whole, so it brought central banks and supervisors together around one table to provide that overall perspective.[ 1 ] 15 years on, the rising importance of artificial intelligence (AI) is putting that system-wide view to the test. Generative AI is already widely used in finance. Nearly nine out of ten significant euro area banks use it.[ 2 ] Furthermore, in a recent survey of EU securities market firms, seven out of ten respondents expected to increase their investment in AI.[ 3 ] There is good reason for that interest. AI can help financial institutions analyse vast amounts of data more quickly and improve how they assess risk.[ 4 ] More broadly, the potential productivity gains could allow firms to offer customers a better service while using their resoECB's President Lagarde: Widespread use of similar AI models could reinforce financial market price moves
+================================================================================
+
+================================================================================
+[2026-10-01 13:20 UTC] Fed's Barkin: Federal Deficits adding to upward pressure on yields  (impact: low)
+URL: https://www.forexfactory.com/news/1429473-feds-barkin-federal-deficits-adding-to-upward-pressure
+Source: @MaceNewsMacro
+--------------------------------------------------------------------------------
+RICHMOND FED'S BARKIN: FEDERAL DEFICITS ADDING TO UPWARD PRESSURE ON YIELDS #Barkin #FederalReserve #economy
+================================================================================
+
