@@ -430,3 +430,11 @@ Source: bankofengland.co.uk
 The September 2026 DMP survey was conducted between 4-18 September 2026 and received 1,993 responses. Firms reported that their realised annual own-price growth was 3.7% in the three months to September, unchanged from the three months to August. Note that the DMP covers own prices from firms across the whole economy, not just consumer-facing firms. ...
 ================================================================================
 
+================================================================================
+[2026-10-02 09:01 UTC] Euro area annual inflation up to 3.8%  (impact: low)
+URL: https://www.forexfactory.com/news/1429647-euro-area-annual-inflation-up-to-38
+Source: ec.europa.eu
+--------------------------------------------------------------------------------
+Euro area annual inflation is expected to be 3.8% in September 2026, up from 3.2% in August according to a flash estimate from Eurostat, the statistical office of the European Union. Looking at the main components of euro area inflation, energy is expected to have the highest annual rate in September (18.8%, compared with 14.3% in August), followed by ...
+================================================================================
+
