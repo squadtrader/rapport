@@ -378,3 +378,70 @@ Last month, traders were more confident that the ECB had to raise interest rates
 As a reminder, the ECB is still very much adhering to its meeting-by-meeting approach rather than committing to a preset path followingthe September rate hike. And for now, perhaps waiting to December might offer the ECB something that October cannot. And that is more time to see whether the energy shock is actually feeding into broader prices and wages.
 ================================================================================
 
+================================================================================
+[2026-10-02 10:59 UTC] How have interest rate expectations changed after this week's events?
+URL: https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-5/
+Tags: market overview
+--------------------------------------------------------------------------------
+Summary
+
+We've got a dovish repricing across the board as central banks dialed down their hawkish tone
+
+Rate hikes by year-end
+
+RBNZ:33 bps (52% probability ofrate hikeat the next meeting)
+
+2027: 106 bps
+
+BoE:31 bps (82% probability ofrate hikeat the next meeting)
+
+2027: 92 bps
+
+BoC:26 bps (65% probability of no change at the next meeting)
+
+2027: 110 bps
+
+Fed:25 bps (76% probability of no change at the next meeting)
+
+2027: 80 bps
+
+BoJ:21 bps (82% probability of no change at the next meeting)
+
+2027: 90 bps
+
+ECB:19 bps (79% probability of no change at the next meeting)
+
+2027: 65 bps
+
+RBA:10 bps (75% probability of no change at the next meeting)
+
+2027: 24 bps
+
+SNB:4 bps (85% probability of no change at the next meeting)
+
+2027: 56 bps
+
+Last week's market pricinghere. The 2027 pricing indicates the total amount of tigthening expected by the end of 2027, not how much is expected in 2027 alone.
+
+The dovish repricing this week has been driven mainly by some optimism around US-Iran talks and explicit pushback from key Fed officials against October rate hike bets.
+
+On the geopolitcal side, there's been some hope of a potential phased agreement involving the reopening of the Strait of Hormuz and an easing of the US economic blockade. Iran's government spokesperson  said this week that the Foreign Minister
+        Araghchi presented to the cabinet "a US proposal", although no further
+        details were given.
+
+Keep in mind, though, that Trump has also told
+        reporters that he must decide whether to “blow Iran up or make a deal”, adding that the conflict would end “very soon, one way or the other”. He also mentioned that the US could resume bombing Iran after the midterm elections.
+
+The most important catalyst, though, were Fed's Williams and Fed's Jefferson comments pushing back against October rate hike bets.  Williams said there was "no need for urgency" after the September rate increase and suggested that, assuming the economic outlook holds, only one more hike may be appropriate later this year.
+
+Then Jefferson reinforced the message, saying that future adjustments should depend on more data and that policymakers may need more time before deciding on the next move.
+
+As a result, October rate hike pricing collapsed, with the odds going from 70% to just 25% now. Given the Fed's influence on global financial markets, we've seen a dovish repricing for other central banks too.
+
+On the ECB side, we've seen some notable dovish repricing mainly because of two key reasons. First, the rise in inflation is overwhelmingly being driven by the energy shock, while core inflation has been relatively stable. That gives the ECB some justification to wait some more time before considering further tightening.
+
+Second, the deterioration in financial conditions and the widening French sovereign spread complicate the ECB's policy. Higher borrowing costs and sovereign-risk concerns create a reason for the ECB to avoid fast tightening in financial conditions.
+
+French bond spreads have widened sharply, while borrowing costs across Europe have increased. The spread between the German and French 10y bond yields reached the highest level since 2012 and sparked fears of another possible debt crisis. That creates a difficult environment for the ECB because further rate hikes could exacerbate sovereign financing stress.
+================================================================================
+
