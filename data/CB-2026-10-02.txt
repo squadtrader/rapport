@@ -344,3 +344,37 @@ The Tokyo figures are viewed as a leading indicator for nationwide inflation and
 Some economists expect core inflation to keep trending higher as energy costs from the Middle East conflict feed through to other prices, and see the BOJ raising rates again by December. The strength of the September data is likely to sharpen debate over whether the next move could come as early as the October meeting:
 ================================================================================
 
+================================================================================
+[2026-10-02 07:47 UTC] ECB policymaker Rehn flags energy and AI risks as rate outlook stays uncertain
+URL: https://investinglive.com/central-banks/ecb-policymaker-rehn-flags-energy-and-ai-risks-as-rate-outlook-stays-uncertain/
+Tags: ECB, EUR, Inflation
+--------------------------------------------------------------------------------
+Summary
+
+Higher energy prices are keeping inflation risks alive, but tighter financial conditions complicate the ECB's next move
+
+In his latest comments today, ECB governing council member Olli Rehn is highlighting just how uncomfortable the policy balance is becoming for the central bank. He mentioned that:
+
+Higher energy prices bring us closer to the ECB's adverse scenario for inflation
+
+ECB projections are subject to very high, pervasive uncertainty
+
+Rise in long-term rates will slow growth and reduce passthrough of energy shock to prices, wages
+
+One uncertainty is possibility of a sudden reversal in market sentiment towards AI
+
+For some context, the ECB's September projections underscored the baseline scenario of inflation averaging 3.0% this year and 2.5% in 2027. And under its adverse scenario, inflation is seen rising to 3.2% next year instead.
+
+So, Rehn's comments are mainly trying to frame the impact of higher energy prices to that particular scenario and how the ECB might have to respond otherwise.
+
+That leads into his argument on the rise in long-term rates weighing on economic growth and, in turn, reducing how much of the energy shock firms can pass through to consumers. In other words, that leaves the ECB caught between higher inflation pressure from energy and tighter financial conditions doing some of the monetary tightening for it.
+
+His AI warning adds another layer to that uncertainty, with any sharp reversal in technology valuations potentially tightening financial conditions even further.
+
+For markets, that perhaps helps to explain why the next step is not being treated as a done deal.
+
+Last month, traders were more confident that the ECB had to raise interest rates again before year-end with another 25 bps rate hike priced for December. But now, the market pricing puts the odds of an October rate hike at around 27%, while another hike in December is priced closer to 64% only.
+
+As a reminder, the ECB is still very much adhering to its meeting-by-meeting approach rather than committing to a preset path followingthe September rate hike. And for now, perhaps waiting to December might offer the ECB something that October cannot. And that is more time to see whether the energy shock is actually feeding into broader prices and wages.
+================================================================================
+
