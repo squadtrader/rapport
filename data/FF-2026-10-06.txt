@@ -86,3 +86,11 @@ Source: sentix.de
 The assessment of the global aggregate in the sentix Economic Sentiment Index rose once again in October 2026. This sixth consecutive rise, taking the index to 16.8 points, marks the highest level since February 2022. This is a surprising finding against the backdrop of rising global interest rates, but is largely attributable to the US econo-my and the ...
 ================================================================================
 
+================================================================================
+[2026-10-05 08:49 UTC] Saudi East-West Pipeline Stopped Due To New Attack  (impact: low)
+URL: https://www.forexfactory.com/news/1429879-saudi-east-west-pipeline-stopped-due-to-new-attack
+Source: @FirstSquawk
+--------------------------------------------------------------------------------
+Saudi East-west Pipeline Stopped Due To New Attack.
+================================================================================
+
