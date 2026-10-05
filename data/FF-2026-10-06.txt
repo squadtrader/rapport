@@ -110,3 +110,19 @@ Source: sentix.de
 The assessment of the global aggregate in the sentix Economic Sentiment Index rose once again in October 2026. This sixth consecutive rise, taking the index to 16.8 points, marks the highest level since February 2022. This is a surprising finding against the backdrop of rising global interest rates, but is largely attributable to the US econo-my and the ...
 ================================================================================
 
+================================================================================
+[2026-10-05 14:00 UTC] US Services PMI at 54.9%; September 2026 ISM Services PMI Report  (impact: medium)
+URL: https://www.forexfactory.com/news/1429978-us-services-pmi-at-549-september-2026-ism
+Source: prnewswire.com
+--------------------------------------------------------------------------------
+Economic activity in the services sector continued to expand in September, say the nation's purchasing and supply executives in the latest ISM® Services PMI® Report. The Services PMI® registered 54.9 percent, the 27th consecutive month in expansion territory. The report was issued today by Steve Miller, CPSM, CSCP, Chair of the Institute for Supply Management® (ISM®) Services Business Survey Committee: "In September, the Services PMI® registered 54.9 percent, a decrease of 0.5 percentage point compared to August's figure of 55.4 percent. The Business Activity Index remained in expansion territory in September, decreasing 5.2 percentage points to 56.5 percent from August's reading of 61.7 percent. The New Orders Index registered 59.8 percent, 1.1 percentage points below August's figure of 60.9 percent. The Employment Index moved into expansion territory for the first time in three months with a reading of 50.1 percent, a 2.3-percentage point increase from the 47.8 percent recorded in August. "The Supplier Deliveries Index registered 53.2 percent, 1.9 percentage points higher than the 51.3 percent recorded in August. This is the 22nd consecutive month that the index has been in expansion territory, indicating slower supplier delivery performance. (Supplier Deliveries is the only ISM® PMI® Reports index that is inversed; a reading of above 50 percent indicates slower deliveries, which is typical as the economy improves and customer demand increases.)Us Sep Ism Services Pmi 54.9 (55.4 Aug) Us Sep Ism Services Employment 50.1 (47.8 Aug) Us Sep Ism Services Production 56.5 (61.7 Aug) Us Sep Ism Services New Orders 59.8 (60.9 Aug) Us Sep Ism Services Prices Paid 74.0 (72.6 Aug)
+================================================================================
+
+================================================================================
+[2026-10-05 13:46 UTC] Sharpest rise in US service sector business activity since July 2021  (impact: low)
+URL: https://www.forexfactory.com/news/1429973-sharpest-rise-in-us-service-sector-business-activity
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+US service sector business activity surged higher in September, rising at the fastest pace in over five years on the back of a further sharp increase in new orders. Business confidence also strengthened and was at a one-year high, while companies responded to rising workloads by ramping up hiring activity. The strong growth in the sector was accompanied by ...
+================================================================================
+
