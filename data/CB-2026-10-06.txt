@@ -210,3 +210,97 @@ Market pricing is currently showing a roughly 64% chance of another rate hike by
 In any case, Ueda's comments continue to reinforce the main point that rates are still likely heading higher. The bigger question is how quickly the BOJ wants to get there.
 ================================================================================
 
+================================================================================
+[2026-10-06 16:02 UTC] BoJ’s Sato supports further rate hikes but avoids specifying timing. USDJPY remains confined.
+URL: https://investinglive.com/central-banks/boj-s-sato-supports-further-rate-hikes-but-avoids-specifying-timing-usdjpy-remains-confined/
+Tags: JPY
+--------------------------------------------------------------------------------
+Summary
+
+Concerns about weakening personal consumption temper support for further policy tightening.
+
+Bank of Japan board member Sato supports raising interest rates in stages but expressed concern about weakening personal consumption, according to Kyodo:
+
+Expressed concern about weakening personal consumption and avoided specifying when the next interest rate hike would occur.
+
+“Agrees with the policy of adjusting (the policy interest rate) in stages,” aligning with the Bank of Japan’s stance of continuing to raise interest rates.
+
+Analysis:The message leans hawkish on direction but cautious on timing. Sato supports further rate hikes, but the concern about consumption suggests the pace still matters. Higher rates can help contain inflation, but they can also put more pressure on household spending.
+
+For yen traders, support for further tightening provides a supportive policy signal. However, these comments offer little clarity on when the next hike might come. The question is whether consumption holds up well enough to allow the BoJ to take the next step.
+
+USDJPY holds between moving average support and key resistance
+
+The USDJPY has shown little reaction to Sato’s comments and remains in a relatively narrow trading range. The low for the day is 157.78, the high is 158.24, and the current price is near 158.08. Buyers and sellers are waiting for the next shove.
+
+The 100- and 200-hour moving averages define support
+
+The low in the Asia-Pacific session stalled near the 100- and 200-hour moving averages. Those averages now come in at:
+
+100-hour moving average: 157.84
+
+200-hour moving average: 157.75
+
+That area remains the key downside barometer. Stay above it, and buyers keep their opportunity to push higher.Move below and stay below, and the technical bias shifts more firmly toward the sellers.
+
+157.112:The previously broken 38.2% retracement.
+
+156.36–156.726:The next swing area.
+
+The midpoint and 200-day moving average cap the upside
+
+158.419:The 50% midpoint of the move down from the July 23 high.
+
+158.508:The 200-day moving average.
+
+Buyers need to get above that area—and stay above—to increase the bullish bias. A sustained break would open the door toward:
+
+159.02:The swing highs from September 2 and September 24.
+
+159.54:The 100-day moving average.
+
+159.726:The 61.8% retracement.
+
+Sato provides the fundamental bias. Price still needs to confirm.
+
+Sato’s support for further rate hikes leans supportive of the yen and, by extension, points toward a lower USDJPY. Her caution on timing, however, tempers that signal. It also takes two to tango in a currency pair, with the dollar side influencing the next move.
+
+For now,sellers still need a sustained break below the 100- and 200-hour moving averages to take greater control.Until that happens, support is holding and resistance remains overhead. The technical levels give traders a way to define their risk and judge whether the next move is gaining traction.
+================================================================================
+
+================================================================================
+[2026-10-06 16:08 UTC] Fed’s Daly: More tightening depends on whether AI, tariff and energy shocks persist
+URL: https://investinglive.com/central-banks/fed-s-daly-more-tightening-depends-on-whether-ai-tariff-and-energy-shocks-persist/
+Tags: USD
+--------------------------------------------------------------------------------
+Summary
+
+The San Francisco Fed president supports September’s rate hike but leaves the door open to holding steady if inflation pressures fade.
+
+San Francisco Fed president Mary Daly, speaking to Axios, outlined how overlapping inflation risks will shape her outlook for further rate hikes:
+
+AI-related supply pressures could last beyond the one-to-three-year period over which the Fed typically expects shocks to fade.
+
+Some businesses are securing future memory-chip supplies and redesigning products to reduce their reliance on chips.
+
+AI demand could compete for chips used in cars, appliances and other goods, spreading price pressures beyond data centers.
+
+Increasing reliance on borrowing could make those large technology companies more sensitive to financing costs.
+
+Believes tighter policy can restrain inflation even if the biggest AI spenders are relatively insensitive to interest rates.
+
+Supported September’s rate hike because inflation risks had increased.
+
+Further tightening may be unnecessary if tariffs, higher oil prices and AI-related pressures prove temporary.
+
+Another round of tariffs could create a second shock before the effects of the first have faded.
+
+The Fed will continue watching the labor market while assessing whether underlying inflation is gaining momentum.
+
+Analysis
+
+Daly supported the September hike, but she is not committing to another one. The distinction is whether these inflation shocks fade or keep feeding into prices. If energy pressures ease and tariff effects work through the system, she leaves room for the Fed to hold steady. If those pressures persist—or another shock comes along—additional tightening remains on the table.
+
+The AI angle adds a complication. Higher rates can slow borrowing and spending, but they cannot quickly increase chip supplies. Meanwhile, the biggest AI spenders may keep investing even as other businesses feel the squeeze from higher financing costs. For traders, the message is conditional: easing supply pressures would strengthen the case for a pause. Broader price increases and stronger underlying inflation would strengthen the case for another hike.
+================================================================================
+
