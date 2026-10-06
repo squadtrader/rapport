@@ -270,3 +270,11 @@ Source: @financialjuice
 ECBs Lane: When we look forward to how much fiscal policy will support the economy in 2027 and 2028, that will be different from 2026ECBs Lane: The Resilience Of The Economy Means That So Far We Have Not Seen The Materialisation Of The Downside Risk To Activity That Could Have Happened.ECBs Lane: We have identified broader financial conditions, including long-term interest rates, as an important factor that enters the monetary policy decisionsECBs Lane: Widespread fiscal expansion not helping with inflation
 ================================================================================
 
+================================================================================
+[2026-10-06 08:31 UTC] Slowest fall in UK construction output since January  (impact: low)
+URL: https://www.forexfactory.com/news/1430103-slowest-fall-in-uk-construction-output-since-january
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+The headline seasonally adjusted S&P Global UK Construction Purchasing Managers’ Index™ (PMI®) – an index tracking changes in total industry activity – picked up from 44.3 in August to 46.1 in September, which signalled the least marked downturn in output volumes for eight months. Slower rates of contraction were seen in the residential, commercial and ...
+================================================================================
+
