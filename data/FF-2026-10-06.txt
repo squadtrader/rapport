@@ -214,3 +214,11 @@ Source: mof.go.jp
 tables
 ================================================================================
 
+================================================================================
+[2026-10-06 04:31 UTC] Many in BoJ wary of raising interest rates in October: Sources  (impact: low)
+URL: https://www.forexfactory.com/news/1430083-many-in-boj-wary-of-raising-interest-rates
+Source: @financialjuice
+--------------------------------------------------------------------------------
+Many in BoJ wary of raising interest rates in October: sourcesBOJ may indicate underlying inflation has roughly reached 2% target at October meeting, sources say
+================================================================================
+
