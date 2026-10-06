@@ -230,3 +230,27 @@ Source: destatis.de
 Real (price adjusted) new orders in manufacturing were down 10.6% in August 2026 month on month after seasonal and calendar adjustment, according to provisional figures of the Federal Statistical Office (Destatis). When large-scale orders are excluded, new orders were 0.1% lower than in the previous month. The less volatile three-month on three-month ...
 ================================================================================
 
+================================================================================
+[2026-10-06 06:47 UTC] In August 2026, French manufacturing output rebounded partially (+0.3%)  (impact: low)
+URL: https://www.forexfactory.com/news/1430096-in-august-2026-french-manufacturing-output-rebounded-partially
+Source: insee.fr
+--------------------------------------------------------------------------------
+In August 2026, production partially rebounded in the manufacturing industry (+0.3% after -0.8% in July 2026). Overall, it fell again (-0.3% after -0.6%). In August 2026*, manufacturing output rebounded in the production of "other industrial products" (metallurgy, chemicals, pharmaceuticals, etc.) (+1.2% after -1.2%), as well as, more moderately, in the ...
+================================================================================
+
+================================================================================
+[2026-10-06 06:40 UTC] BOJ's Gov Ueda: Financial Conditions Remain Accommodative And Supportive Of Economic Activity Despite September Rate Hike  (impact: low)
+URL: https://www.forexfactory.com/news/1430095-bojs-gov-ueda-financial-conditions-remain-accommodative-and
+Source: @RedboxWire
+--------------------------------------------------------------------------------
+Boj Gov Ueda: Financial Conditions Remain Accommodative And Supportive Of Economic Activity Despite September Rate HikeBoj Gov Ueda: Anchoring Underlying Inflation Around 2% Is ImportantBoj Gov Ueda: Underlying Inflation Moving Closer To 2%
+================================================================================
+
+================================================================================
+[2026-10-06 06:30 UTC] BoJ's Governor Ueda: We're to keep raising rates in response to economy and inflation  (impact: medium)
+URL: https://www.forexfactory.com/news/1430094-bojs-governor-ueda-were-to-keep-raising-rates
+Source: @financialjuice
+--------------------------------------------------------------------------------
+BoJ's Governor Ueda: Japan's economy is recovering moderately, albeit with some weaknessesBoJ's Governor Ueda: Business sentiment is favorableBoJ's Governor Ueda: Financial conditions are accommodativeBoJ's Governor Ueda: We're to keep raising rates in response to economy and inflationBoJ's Governor Ueda: Pace and timing of future policy adjustment will be decided based on the likelihood of our baseline projections materialising, as well as risks
+================================================================================
+
