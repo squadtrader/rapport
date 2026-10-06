@@ -406,3 +406,11 @@ Source: @MarketsCapApp
 Trump: Iran must be finished up; the question is how
 ================================================================================
 
+================================================================================
+[2026-10-06 20:52 UTC] API Crude: -2.1M, Gasoline: -1.4M, Distillate: +0.461, Cushing: +0.866  (impact: low)
+URL: https://www.forexfactory.com/news/1430258-api-crude-21m-gasoline-14m-distillate-0461-cushing
+Source: @FirstSquawk
+--------------------------------------------------------------------------------
+The U.s. Api Crude Oil Stock Change Was A Draw Of 2.1 Mln, Versus A Prior Build Of 1.019 Mln, With Gasoline Stocks Down 1.4 Mln, Distillate Stocks Up 0.461 Mln And Cushing Stocks Up 0.866 Mln
+================================================================================
+
