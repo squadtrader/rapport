@@ -222,3 +222,11 @@ Source: @financialjuice
 Many in BoJ wary of raising interest rates in October: sourcesBOJ may indicate underlying inflation has roughly reached 2% target at October meeting, sources say
 ================================================================================
 
+================================================================================
+[2026-10-06 06:08 UTC] Germany: New orders in manufacturing in August 2026: -10.6% on the previous month  (impact: low)
+URL: https://www.forexfactory.com/news/1430089-germany-new-orders-in-manufacturing-in-august-2026
+Source: destatis.de
+--------------------------------------------------------------------------------
+Real (price adjusted) new orders in manufacturing were down 10.6% in August 2026 month on month after seasonal and calendar adjustment, according to provisional figures of the Federal Statistical Office (Destatis). When large-scale orders are excluded, new orders were 0.1% lower than in the previous month. The less volatile three-month on three-month ...
+================================================================================
+
