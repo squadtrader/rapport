@@ -86,3 +86,11 @@ Source: @FirstSquawk
 Spot Gold Extends Losses, Last Down Nearly 2% At $4,081.01/ozSpot Platinum Extends Losses, Down Over 5% To $1,614.27/ozSpot Silver Falls Over 3% To $59.66/oz
 ================================================================================
 
+================================================================================
+[2026-10-07 14:39 UTC] EIA: US crude inventories down by 3.2 million barrels  (impact: low)
+URL: https://www.forexfactory.com/news/1430415-eia-us-crude-inventories-down-by-32-million
+Source: breakingthenews.net
+--------------------------------------------------------------------------------
+Commercial crude oil inventories in the United States, excluding the Strategic Petroleum Reserve, fell by 3.2 million barrels to 424 million barrels in the week ending October 2, the Energy Information Administration (EIA) reported on Wednesday. The figure marked a bigger-than-expected draw. The country's inventories now stand 1% below the five-year average ...
+================================================================================
+
