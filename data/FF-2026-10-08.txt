@@ -30,3 +30,11 @@ Source: destatis.de
 Production in industry in real terms (price adjusted) was up 2.0% in August 2026 month on month after seasonal and calendar adjustment, according to provisional data provided by the Federal Statistical Office (Destatis). The less volatile three-month on three-month comparison showed that production was 0.4% higher in the period from June to August 2026 than ...
 ================================================================================
 
+================================================================================
+[2026-10-07 07:07 UTC] The French trade balance is improving due to a greater decrease in imports than in exports  (impact: low)
+URL: https://www.forexfactory.com/news/1430324-the-french-trade-balance-is-improving-due-to
+Source: finances.gouv.fr
+--------------------------------------------------------------------------------
+In August 2026, the trade balance improved by €0.5 billion, reaching -€6.1 billion, following the deterioration observed in July (-€0.8 billion). This improvement was due to a greater decrease in imports (-€0.9 billion) than in exports (-€0.4 billion). The decline in imports in August 2026 was primarily linked to a decrease in supplies of transport ...
+================================================================================
+
