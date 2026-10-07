@@ -70,3 +70,51 @@ The split is about when, not whether. Both camps point to the same drivers: crud
 Beyond the headline decision, investors will watch for any change to the RBI's neutral stance, revisions to its inflation and growth forecasts, comments on the rupee, and possible steps to absorb surplus liquidity. The next policy meeting concludes on 4 December.
 ================================================================================
 
+================================================================================
+[2026-10-07 18:01 UTC] FOMC Minutes: Most participants assessed another hike would likely be appropriate by year end
+URL: https://investinglive.com/central-banks/fomc-minutes-most-participants-assessed-another-hike-would-likely-be-appropriate-by-year-end/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Highlights of the minutes of the Sept 15-16 FOMC
+
+Ahead of the Minutes, the market was pricing in a 19% chance of a hike this month and fully priced for a December hike.
+
+All participants supported raising rates to 3.75-4.00%
+
+Most participants say another hike will likely be appropriate by year-end
+
+Almost all assessed that labour market risks had diminished and were now broadly balanced
+
+A majority said the labour market had strengthened a bit recently
+
+Inflation risks skewed to the upside; some said more skewed in recent months
+
+Many saw a higher rate path as prudent on risk-management grounds
+
+A number said a higher path was needed based on their modal outlook
+
+Several viewed the current policy rate as not restrictive or only mildly restrictive
+
+A couple raised their estimate of the neutral rate
+
+Some worried that after more than five years of above-target inflation, expectations and wage and price setting could be affected
+
+Many said the longer energy prices stay high, the greater the risk of broader price pressures
+
+Some said the AI buildout could push demand ahead of supply over the medium term
+
+Many said financial conditions remained supportive of growth despite higher Treasury yields
+
+Staff estimated August PCE at 3.8% headline and 3.4% core (3.6%/3.2% under the new BEA methodology)
+
+Staff doesn't see inflation back at 2% until 2029
+
+The vote was 12-0, but the minutes go further:all participantssupported the move, including the seven non-voters. Waller and Williams were flirting with a pause two weeks before the meeting, and the August CPI print erased that completely.
+
+The line the market will focus on is "most participants assessed that another increase... would likely be appropriate by year end." Note the phrasing: by year end, not at the next meeting. That's the escape hatch Williams walked through in Buffalo on September 29 when he said there was "no need for urgency."
+
+everal participants don't even think policy is restrictive at 3.75-4.00%. A couple bumped up their neutral rate estimates. A "number" of officials needed the hike based on their central forecast, not as insurance. That's the Logan/Hammack/Kashkari camp, and it's bigger than three people now. When you've got officials arguing a 4% fed funds rate is barely restrictive with core PCE at 3.4%, the terminal debate isn't about one more hike.
+================================================================================
+
