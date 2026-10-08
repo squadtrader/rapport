@@ -262,3 +262,163 @@ PBOC CNY reference rate setting for the trading session ahead.
 more to come
 ================================================================================
 
+================================================================================
+[2026-10-08 10:00 UTC] BOE policymaker Greene warns of second-round UK inflation risks, voices concern over wage growth
+URL: https://investinglive.com/central-banks/boe-policymaker-greene-warns-of-second-round-uk-inflation-risks-voices-concern-over-wage-growth/
+Tags: BOE, GBP, Inflation, interest rates
+--------------------------------------------------------------------------------
+Summary
+
+Greene's concerns reinforce her more hawkish stance, as markets are pricing in an 84% chance of a November rate hike
+
+BOE monetary policy committee member, Megan Greene, is continuing to sound the alarm over persistent inflation risks in the UK, with her latest remarks today offering little reason to think that she will be backing away from her more hawkish stance.
+
+I do think UK will see some second-round effects from current inflation cycle
+
+Early indications are that UK wages will grow around 3.5% next year, and that worries me
+
+Her remarks aren't exactly all too surprising, considering her recent policy leaning. As a reminder, Greene was among the three policymakers at the central bank who voted for a 25 bps rate hike in September. She argued that waiting for clearer evidence of persistent inflation could leave the central bank having to play catch-up down the road.
+
+As such, her comments above only reinforce that thinking.
+
+Her concern isn't simply about wages growing at 3.5% in the year ahead, it is that higher prices will eventually feed into wage negotiations and in turn encourage businesses to raise prices further. And that's the sort of inflation cycle the BOE would rather avoid.
+
+In any case, markets are already pricing in roughly an 84% probability of a 25 bps rate hike in November, so Greene's continued hawkish message isn't necessarily going to shift expectations dramatically. She has already made her position quite clear since the last meeting.
+
+What matters for November is whether enough of the six members who voted to hold rates in September can be convinced that waiting any longer carries greater risks than acting now.
+================================================================================
+
+================================================================================
+[2026-10-08 12:22 UTC] BOE's Bailey: Mon pol needs an unwavering commitment to returning inflation to target
+URL: https://investinglive.com/central-banks/boe-s-bailey-mon-pol-needs-an-unwavering-commitment-to-returning-inflation-to-target/
+Tags: BOE
+--------------------------------------------------------------------------------
+Summary
+
+Comments from the Bank of England Governor
+
+Policymakers should strengthen core financial markets so they can absorb future shocks without amplifying them
+
+We must strengthen the resilience of core markets
+
+Greater absorbtion of government debt has come with greater fragility
+
+When shocks become more frequent, underlying growth is weaker and the succession of shocks leads to a higher level of gov't debt
+
+It's much harder to use the balance sheet to cusion a severe downturn
+
+We are seeing volatile markets
+
+Market moves are some way from normal but we are not seeing illiquidity or stress
+
+When he's talking about core markets, I take that as meaning gilts and market plumbing.
+
+What's striking is the sudden urgency. The rising in yields has sharpened central bankers to their core roles and highlighted the risks they need to manage.
+
+10-year gilts are up 4 bps to 5.49% today.
+================================================================================
+
+================================================================================
+[2026-10-08 18:12 UTC] Fed's Musalem says more monetary policy firming will be required
+URL: https://investinglive.com/central-banks/fed-s-musalem-says-more-monetary-policy-firming-will-be-required/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Comments from the St Louis Fed President
+
+The economy is pretty strong right now, best thing Fed can do is lower inflation
+
+Contacts mostly worried about inflation, does not see job market worries
+
+Current level of inflation requires Fed to think about rate increases
+
+Goes into all meetings with an open mind
+
+To bring inflation back to target more monetary policy firming will be required
+
+Market inflation expectations remain anchored, doesn’t see Fed credibility questioned
+
+Nominal yields rising because real yields rising in part due to rate expectations
+
+There is a risk consumer vigor could wane
+
+Job market is overall balanced and stable, no need to cool job market to get inflation down
+
+St. Louis Fed President Alberto Musalem says more monetary policy firming will be required to bring inflation back to target.
+
+He said the economy is pretty strong right now and that the best thing the Fed can do is lower inflation. The current level of inflation requires the Fed to think about rate increases, he said, though he goes into all meetings with an open mind.
+
+Musalem described the job market as overall balanced and stable and said there’s no need to cool it to get inflation down. His business contacts are mostly worried about inflation rather than employment. He did flag a risk that consumer vigor could wane.
+
+On markets, he said inflation expectations remain anchored and he doesn’t see the Fed’s credibility being questioned. He attributed the rise in nominal yields to higher real yields, driven in part by rate expectations.
+
+The comments put him at the hawkish end of the committee, in contrast with the more patient tone from New York Fed President John Williams and Vice Chair Philip Jefferson last week, who hinted that they didn't want to hike rates again this month.
+================================================================================
+
+================================================================================
+[2026-10-08 08:38 UTC] Fed's Waller says more hikes are needed but can be flexible about the pace, downplays September NFP weakness
+URL: https://investinglive.com/central-banks/fed-s-waller-says-more-hikes-are-needed-but-can-be-flexible-about-the-pace-downplays-september-nfp-weakness/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Fed Governor Waller is speaking about the economic outlook  at the Central Bank of the Republic of Turkey in Istanbul.
+
+More hikes needed but flexible about the pace
+
+Further hikes do not need to come at consecutive meetings
+
+Inflation too high, with AI buildout, ongoing energy shock among a range of persistent inflationary forces
+
+There is evidence that economy is strengthening in the second half of 2026
+
+Concerned high inflation, now approaching 5-1/2 years above target, will put inflation expectations at risk
+
+Labor market was "solid and stable" in September even though number of jobs created was down
+
+Anticipates additional hikes if data comes in as expected
+
+Fed communications can avoid the promises of forward guidance, but still improve outcomes with 'signaling' to markets about possible policy choices
+
+Full speech on the economic outlookhere
+
+Live broadcasthere
+
+Federal Reserve Governor Christopher Waller said that additional rate hikes will likely be needed to bring inflation back to the Fed’s 2% target, although he added that the pace of tightening can remain flexible. Speaking at the Central Bank of the Republic of Türkiye’s Istanbul Economic Forum, Waller said further hikes do not necessarily need to come at consecutive meetings, leaving the door open to a pause at the Fed’s October 27–28 meeting. If the economy and inflation evolve as expected, however, he anticipates additional increases will eventually be required.
+
+Waller's main concern remains persistent inflation and the risk that it becomes embedded in expectations. He noted that inflation has now been above the Fed’s 2% target for around five and a half years, while the economy appears to have strengthened in the second half of 2026. He highlighted several persistent inflationary forces, including the ongoing energy shock linked to the Iran conflict and rising demand associated with the AI buildout. At the same time, he described the labor market as “solid and stable” despite the slowdown in job creation in September, suggesting that the Fed has room to keep its focus firmly on inflation without being overly concerned about causing a damaging economic slowdown. Yesterday'sFOMC minutessimilarly showed concern that energy costs and AI-related investment could keep inflation pressures elevated.
+
+Waller also addressed the Fed’s approach to forward guidance and communication. Rather than committing to a predetermined rate path, he argued that policymakers can still signal the range of policy choices they are considering while retaining flexibility to respond to incoming data. In his view, this allows markets to form expectations about the likely direction of policy without the Fed making promises it may later have to reverse.
+
+The market reaction to his remarks has been relatively muted so far, as a pause in October has been already priced in after Fed's Williams and Fed's Jefferson push back, as well as the softer than expected NFP report. Right now, the market is pricing just a 20% chance of a rate hike in October as the US CPI data next week could still move the needle. Looking ahead, traders are expecting at least three more rate hikes by the end of 2027, taking the FFR range to 4.50-4.75%.
+================================================================================
+
+================================================================================
+[2026-10-08 10:41 UTC] PBOC reiterates yuan stance in another subtle message to the US and Trump
+URL: https://investinglive.com/central-banks/pboc-reiterates-yuan-stance-in-another-subtle-message-to-the-us-and-trump/
+Tags: pboc, CNY, CNH
+--------------------------------------------------------------------------------
+Summary
+
+Beijing doubles down on its currency stability pledge, pushing back against US concerns over yuan manipulation
+
+If you've been following China's messaging on the yuan over the past few months, the latest remarks from the PBOC today should sound rather familiar.
+
+The central bank is once again reiterating that Beijing has neither the need nor the intention to weaken its currency in order to gain a competitive advantage in international trade. And let's not beat around the bush here, there is a subtle dig at the US and Trump buried in that message.
+
+In any case, the key takeaway here isn't so much what is being said but rather how consistently Beijing is choosing to reinforce said message.
+
+PBOC governor, Pan Gongsheng, has been making the same point for much of this year.He already did so back in March, beforerepeating it again in early September. As such, the latest remarks today are hardly a change in policy direction.
+
+So, why is Beijing continuing to hammer home the same message then?
+
+Well, I would argue that this goes beyond simply wanting to reassure markets about yuan stability. Underneath that mask, it also serves as a rather pointed reminder to the US that Beijing has no intention of engaging in competitive currency devaluation.
+
+That is especially relevant given that Washington has a longstanding scrutiny of China's exchange rate practices. As a reminder, the US Treasury kept China on its Monitoring List in its July currency report - citing "concerns over transparency" while stopping short of formally labelling Beijing as a currency manipulator.
+
+Against that backdrop, China's repeated remarks can be read as a pushback against suggestions that it might deliberately weaken the yuan to support exports.
+
+Having said that, there is still a key difference between allowing the yuan to depreciate and deliberately engineering a weaker currency for a trade advantage. I would say for traders, the PBOC's daily yuan fixings will still offer a better and more timely gauge of how closely policymakers want to toe that differentiating line.
+================================================================================
+
