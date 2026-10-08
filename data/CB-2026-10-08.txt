@@ -202,3 +202,63 @@ The stability of five-year expectations remains the Fed's key reassurance. Wheth
 New York Fed.
 ================================================================================
 
+================================================================================
+[2026-10-08 02:07 UTC] Japan's answer to FedWatch: TFX launches BoJ meeting-by-meeting rate futures
+URL: https://investinglive.com/central-banks/japan-s-answer-to-fedwatch-tfx-launches-boj-meeting-by-meeting-rate-futures/
+Tags: BOJ, Bonds
+--------------------------------------------------------------------------------
+Summary
+
+The Tokyo Financial Exchange will launch futures tied to the BoJ's target overnight rate this month, letting traders position for moves between policy meetings, as September volume in its three-month TONA futures fell nearly 50% from a year earlier.
+
+A liquid meeting-by-meeting contract would give the yen market something it has lacked: a clear, quotable read on the odds of a BoJ hike at each decision. That could make yen moves around BoJ meetings more orderly, as surprises get priced earlier, while sharpening reactions to data and official comments between meetings. Easier hedging of short-term rate risk may also support activity in front-end Japanese government bonds and yen carry trades, where the cost of being caught out by a hike has risen. Liquidity is the key test: a thinly traded contract will produce noisy signals rather than reliable odds.
+
+Japan is finally getting its own version of the tool Wall Street uses to bet on Fed decisions, and the BoJ's quickening hiking cycle is the reason.
+
+The Tokyo Financial Exchange (TFX) will launch futures this month (I haven't a specific date yet, exchange has not published this) linked to the overnight unsecured call rate (TONA), the short-term rate the Bank of Japan targets
+
+The contract is designed to let traders hedge or position for rate changes in the period between BoJ policy meetings
+
+TFX said its existing three-month TONA futures no longer meet traders' needs as the pace of BoJ policy changes has picked up
+
+Volume in the three-month contract fell nearly 50% from a year earlier in September, despite widespread expectations of further BoJ tightening
+
+A TFX executive said interest rate volatility and demand for derivatives are both rising
+
+Japan is set to get a sharper tool for betting on Bank of Japan decisions, as the Tokyo Financial Exchange prepares to launch futures that let traders position for rate moves at individual policy meetings.
+
+The new contract, due to launch this month, is linked to the Tokyo Overnight Average Rate (TONA), the uncollateralised overnight rate at which banks lend to each other and which the BoJ targets with its policy. It is designed to let traders hedge or take positions on rate changes in the window between two BoJ meetings, according to reports citing the exchange.
+
+The move responds to a change in how the BoJ operates. The central bank raised interest rates to a 31-year high last month, and Governor Kazuo Ueda has signalled a new phase aimed at preventing inflation from overshooting its target, leaving the door open to further increases. When a central bank is on hold, investors have little need to price each meeting separately. Once it is actively hiking, every decision becomes a live event that traders want to hedge.
+
+TFX said its existing three-month TONA futures had failed to meet that need, because they do not isolate the outcome of a single meeting. A director in the exchange's wholesale business said rate volatility has increased and demand for derivatives is rising.
+
+The trading figures point to the gap. Despite broad expectations of further BoJ tightening, volume in the three-month contract has fallen in recent months, with September activity down nearly 50% from a year earlier. That suggests traders are hedging BoJ risk through other instruments rather than abandoning it.
+
+The comparison with the US is instructive. Fed funds futures underpin widely quoted measures of the probability of Fed rate moves at each meeting, which have become a standard reference for markets and media alike. A liquid meeting-based TONA contract could in time offer something similar for the BoJ, giving yen traders a clearer, real-time read on hike odds.
+
+Whether it does will depend on uptake. The first test is how much volume the contract attracts around the next BoJ decisions, and whether its pricing proves a reliable guide to what the central bank actually does.
+================================================================================
+
+================================================================================
+[2026-10-08 00:26 UTC] PBOC is expected to set the USD/CNY reference rate at 6.7254 – Reuters estimate
+URL: https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7254-reuters-estimate/
+Tags: pboc, CNH, CNY
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+================================================================================
+
+================================================================================
+[2026-10-08 01:18 UTC] PBOC sets USD/ CNY reference rate for today at 6.7367 (vs. estimate at 6.7254)
+URL: https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7367-vs-estimate-at-6-7254/
+Tags: pboc, CNH, CNY
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+more to come
+================================================================================
+
