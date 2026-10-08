@@ -118,3 +118,87 @@ The line the market will focus on is "most participants assessed that another in
 everal participants don't even think policy is restrictive at 3.75-4.00%. A couple bumped up their neutral rate estimates. A "number" of officials needed the hike based on their central forecast, not as insurance. That's the Logan/Hammack/Kashkari camp, and it's bigger than three people now. When you've got officials arguing a 4% fed funds rate is barely restrictive with core PCE at 3.4%, the terminal debate isn't about one more hike.
 ================================================================================
 
+================================================================================
+[2026-10-07 22:14 UTC] ICYMI: Fed minutes: most officials see another hike by year end after unanimous rise to 3.75-4%
+URL: https://investinglive.com/central-banks/icymi-fed-minutes-most-officials-see-another-hike-by-year-end-after-unanimous-rise-to-3-75-4/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Minutes released Wednesday showed Federal Reserve officials unanimously backed September's quarter-point hike to 3.75-4%, with most seeing another increase likely by year end as energy prices and the AI buildout keep inflation risks tilted higher.
+
+The minutes back a hawkish read of the Fed path, keeping a further hike at the 27-28 October meeting or in December firmly in play and supporting front-end Treasury yields. The explicit link between prolonged high energy prices and broader inflation makes oil a direct input into Fed pricing: further supply shocks in the Gulf would likely strengthen the case for additional tightening rather than be looked through. For the dollar, the hawkish tone is partly offset by tightening abroad, with the ECB also raising rates, which has narrowed rate differentials. Equity investors may take some comfort that officials see financial conditions as still supportive of growth.
+
+The Fed didn't just raise rates in September; most of its policymakers were already pencilling in another hike before the year is out, with oil and the AI boom keeping them wary of inflation.
+
+All participants supported the 15-16 September decision to raise the fed funds target range by a quarter point to 3.75-4%, approved 12-0
+
+Most participants judged a further increase would likely be appropriate by year end, while stressing decisions would depend on incoming data
+
+Officials said inflation progress had stalled, citing higher oil and fuel prices from geopolitical developments and surging AI-related investment; risks were seen as tilted to the upside
+
+Staff estimated headline PCE inflation at 3.8% in August and core at 3.4%, and do not see inflation returning to 2% until 2029
+
+The labour market was viewed as near maximum employment, with unemployment at 4.1% and a majority seeing some recent strengthening
+
+Several officials viewed policy as not restrictive or only mildly restrictive, and a couple had raised their estimates of the neutral rate
+
+Federal Reserve policymakers unanimously supported raising interest rates in September, and most of them judged that another increase would likely be appropriate before the end of the year, according to minutes of the 15-16 September meeting released on Wednesday at 2pm US Eastern time (1800 GMT).
+
+The Federal Open Market Committee voted 12-0 to lift the federal funds target range by a quarter point to 3.75-4%. Participants pointed to inflation that remained elevated, a labour market close to full employment with some signs of strengthening, and solid economic growth. Almost all judged that while inflation risks were tilted to the upside, risks to employment had faded and were now broadly balanced.
+
+Officials said they had not seen enough progress on bringing inflation down in recent months. They cited geopolitical developments that had pushed up crude oil and refined fuel prices, alongside a surge in AI-related investment, as key sources of pressure. Many participants warned that the longer energy prices stayed high, the greater the risk that cost increases in specific sectors would spread into broader price pressures. Some voiced concern that more than five years of above-target inflation could begin to affect expectations and wage and price setting.
+
+Fed staff estimated that the headline personal consumption expenditures price index rose 3.8% in the year to August, with the core measure at 3.4%. Staff raised their inflation forecasts for 2026 through 2028 and projected inflation would not reach the 2% goal until 2029.
+
+Opinions differed on the rationale for tightening. Many participants saw a higher rate path as prudent insurance against persistent inflation, while a number viewed it as necessary based on their central economic outlook. A couple said they had raised their estimates of the neutral interest rate, and several suggested that policy was not restrictive, or only mildly so, even after the hike.
+
+On the economy, officials noted that the scale and pace of the AI buildout had continued to surprise to the upside and was boosting business investment. Several observed that stock market gains were supporting spending by higher-income households, while lower and middle-income households were being squeezed by higher energy costs.
+
+Looking ahead, participants said they would approach each meeting with an open mind. The committee next meets on 27-28 October, when incoming inflation data and energy market developments will shape whether the next hike comes sooner or later.
+
+Federal Reserve Chair Warsh
+================================================================================
+
+================================================================================
+[2026-10-07 22:44 UTC] NY Fed survey: US one-year inflation expectations jump to 3.9%, highest since May 2023
+URL: https://investinglive.com/central-banks/ny-fed-survey-us-one-year-inflation-expectations-jump-to-3-9-highest-since-may-2023/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+US consumers' one-year inflation expectations rose to 3.9% in September from 3.6%, the highest since May 2023, New York Fed data showed, while five-year expectations held at 3% and expected pay growth slipped to 2.6%, implying a real income squeeze.
+
+The jump in near-term expectations lands squarely on the Fed's main stated worry and strengthens the case for another hike before year end, supporting front-end Treasury yields and the dollar. Rising expected gasoline price growth shows how energy costs are feeding household inflation psychology, which makes oil supply disruptions a more direct risk to the Fed outlook. Stable five-year expectations limit the alarm for longer-dated bonds for now. Consumers also turned less bullish on equities, with fewer expecting stock prices to be higher in a year.
+
+American households now expect prices to rise half as fast again as their pay over the coming year, the kind of gap that keeps the Fed leaning towards higher rates.
+
+Median one-year inflation expectations rose to 3.9% in September from 3.6%, the highest since May 2023; three-year expectations edged up to 3.3% and five-year held at 3.0%
+
+Expected price rises increased for gas (4.8%), food (5.5%), medical care (9.2%), college (7.5%) and rent (6.8%)
+
+Labour market expectations improved: perceived job loss probability fell to 13.5%, its lowest since December 2024, and job finding expectations rose
+
+Expected earnings growth fell to 2.6%, while expected spending growth rose to 5.5%, the highest since May 2023
+
+Households reported a worse financial situation and expect further deterioration; perceived credit access worsened
+
+The survey came hours before Fed minutes showing most officials see another rate hike as likely by year end
+
+US consumers' expectations for inflation over the next year rose to their highest level in more than three years in September, according to the Federal Reserve Bank of New York'sSurvey of Consumer Expectationsreleased on Wednesday.
+
+Median one-year-ahead inflation expectations increased by 0.3 percentage point to 3.9%, the highest reading since May 2023, while the three-year measure rose 0.1 point to 3.3%. Five-year expectations were unchanged at 3.0%. Disagreement among respondents widened at all horizons, and uncertainty about inflation increased over one and three years.
+
+The rise was broad across household costs. Expected price growth increased for gasoline to 4.8%, food to 5.5%, medical care to 9.2%, rent to 6.8% and college costs to 7.5%, the last a jump of 1.4 points in a single month.
+
+The survey points to a squeeze on household budgets. Expected earnings growth fell 0.3 point to 2.6%, well below expected inflation, yet households anticipate lifting their spending by 5.5% over the coming year, the highest since May 2023. Respondents reported a worse financial situation than a year ago and expect conditions to deteriorate further. They also saw credit as harder to obtain, although the perceived chance of missing a minimum debt payment fell to 12.2%.
+
+Labour market expectations improved. The perceived probability of losing one's job in the next year fell to 13.5%, the lowest since December 2024, while expectations of finding a new job and of quitting voluntarily both rose. The share expecting higher unemployment a year from now eased to 43.9%.
+
+The release arrived hours before minutes of the Fed's September meeting, which showed officials unanimously backed a quarter-point hike to 3.75-4%, with most judging another increase likely by year end. Several officials in the minutes noted elevated short-term inflation expectations, and some warned that more than five years of above-target inflation could begin to influence expectations and wage and price decisions. One-year expectations have climbed from 3.0% in February, so September's reading gives that concern more weight.
+
+The stability of five-year expectations remains the Fed's key reassurance. Whether that anchor holds as energy prices stay high will be central to the debate at the 27-28 October policy meeting.
+
+New York Fed.
+================================================================================
+
