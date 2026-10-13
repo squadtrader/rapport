@@ -130,3 +130,79 @@ On the economy, the board noted June quarter growth was a little stronger than e
 Members acknowledged the trade-off between inflation and employment had worsened because of global cost pressures, and said returning inflation to target would require accepting slower growth in demand and jobs. The board will remain attentive to incoming data and said it will do what is necessary, including increasing the cash rate further if required.
 ================================================================================
 
+================================================================================
+[2026-10-13 20:08 UTC] Fed’s Collins backs another rate hike by year-end, flags three inflation pressures
+URL: https://investinglive.com/central-banks/fed-s-collins-backs-another-rate-hike-by-year-end-flags-three-inflation-pressures/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Boston Fed President Susan Collins expects the Fed to raise rates a bit further before end-2026 to bring inflation back to 2%, citing energy costs tied to the Middle East war, tariffs and AI build-out. She backed September’s hike to 3.75%-4.00%.
+
+Collins’ remarks reinforce expectations of another quarter-point rise before year-end, with recent Fed commentary leaning towards December rather than this month’s meeting. That should keep front-end Treasury yields supported and limit room for a sustained dollar pullback while hikes stay in play. For oil traders, the significance is the feedback loop: further gains in crude and refined products tied to the Middle East war now feed straight into Fed hike expectations, so energy strength carries rates and dollar consequences. A softer run of data would be the main thing to cool that pricing.
+
+Collins sees a resilient economy as giving the Fed licence to keep tightening, with war-driven fuel costs the clearest reason inflation won’t get back to target on its own.
+
+Boston Fed President Susan Collins expects a further rate increase to be appropriate before the end of 2026
+
+She supported last month’s quarter-point hike that took the policy rate to 3.75%-4.00%
+
+Collins called the risk of high inflation elevated and the Fed’s main focus, with inflation above target for more than five years
+
+Her baseline sees healthy growth, a broadly balanced job market near full employment and a gradual return of inflation to 2%
+
+She flagged data-centre and AI investment, tariffs and Middle East war-driven energy costs as risks, expecting headline and core inflation above target in coming months
+
+Timing of the next move depends on data; several officials have signalled December rather than the October 27-28 meeting
+
+Boston Federal Reserve President Susan Collins said on Tuesday she expects the US central bank will need to lift interest rates again before the end of 2026, arguing that further tightening is needed to return inflation to the Fed’s 2% target in a timely and lasting way.
+
+In prepared remarks for a banking conference at the Boston Fed, reported by Reuters, Collins said she had supported the Federal Open Market Committee’s decision last month to raise its policy rate by a quarter of a percentage point to a range of 3.75% to 4.00%. She indicated that a modest additional increase would likely be appropriate this year, while stressing that her view on both the need for and timing of further action would rest on the full body of incoming data and how it shapes the balance of risks.
+
+Collins framed the inflation fight as the Fed’s central task. With growth holding up and the labour market broadly balanced, she said policymakers have room to concentrate on bringing inflation back to target, a goal the Fed has now missed for more than five years. She described the risk of persistently high inflation as elevated and the central bank’s main focus at present.
+
+Her baseline outlook was largely constructive. In what she called the most likely scenario, the economy keeps growing at a healthy pace, the job market stays close to full employment and inflation eases gradually back to 2%, helped by ongoing efficiency gains that keep supply and demand in balance. She added that a stable labour market should continue to underpin consumer spending.
+
+Collins nonetheless identified three forces that could complicate that path: heavy investment in data centres and other artificial intelligence infrastructure, the continuing effect of tariffs, and higher energy costs linked to the war in the Middle East. She said she expects both headline and core inflation to run above target again in the coming months, pointing to the recent jump in prices for refined products such as jet fuel, diesel and heating oil.
+
+Projections published at the September meeting already pencilled in another increase before year-end. Several Fed officials have signalled in recent weeks that the move is more likely to come in December than at the October 27-28 meeting, and Collins’ comments keep a further hike firmly on the table while leaving its timing open. She said the policy path into the new year would depend on the data.
+================================================================================
+
+================================================================================
+[2026-10-13 18:20 UTC] Fed Williams: Sees no need for rate hike in 2027 at this time
+URL: https://investinglive.com/central-banks/fed-williams-sees-no-need-for-rate-hike-in-2027-at-this-time/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+NY Fed Pres. Williams is speaking.Treasury yields move lower and the dollar extends losses as Williams sees inflation approaching the Fed’s target next year.
+
+Currently sees no need for rate hike in 2027.
+
+Said there are still signs inflation will slow “quite a bit” and approach the Fed’s 2% target next year.
+
+One more interest rate hike appropriate this year
+
+The rate path will be about maintaining a balanced economy.
+
+Not seeing broader price pressure outside AI and energy.
+
+No sign the labor market is contributing to inflation
+
+2-year:4.795%, unchanged.
+
+10-year:5.217%, down 2.7 basis points.
+
+30-year:5.561%, down 3.7basis points.
+
+Treasury yields moved lower following the comments. The dollar index also extended losses, trading down 0.36% at 102.17.
+
+Analysis:Williams’ comments lean dovish. He sees inflation moving toward the Fed’s target next year and currently sees no need for a 2027 rate hike. That takes some pressure off expectations for further tightening, but it does not amount to a signal that rate cuts are coming.
+
+The immediate reaction was lower Treasury yields and a weaker dollar. The key word is “currently.” The inflation data still need to support his outlook. If price pressures remain stubborn, that policy assessment can change.
+
+There is only a 14% chance of Federal Reserve rate hike between now and the end of the year.
+
+For October the chance of a rate hike is only 19%.
+================================================================================
+
