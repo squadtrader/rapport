@@ -270,3 +270,43 @@ Source: destatis.de
 The selling prices in wholesale trade were 8.7% higher in September 2026 than in September 2025. Compared with the same month a year earlier, the rate of change was +6.8% in August 2026, and +5.3% in July 2026. A higher price increase than that in September 2026 was last recorded in February 2023 (+9.5% on February 2022). The price increase registered in ...
 ================================================================================
 
+================================================================================
+[2026-10-14 13:31 UTC] The Conference Board Leading Economic Index (LEI) for the UK Ticked Down in August  (impact: low)
+URL: https://www.forexfactory.com/news/1431445-the-conference-board-leading-economic-index-lei-for
+Source: conference-board.org
+--------------------------------------------------------------------------------
+The Conference Board Leading Economic Index® (LEI) for the United Kingdom ticked down by 0.1% in August 2026 to 74.5 (2016=100), after also decreasing by 0.1% in July. As a result, the UK LEI contracted by 1.5% over the six-month period from February to August 2026, greater than the rate of decline of 0.7% observed over the previous six-month period between ...
+================================================================================
+
+================================================================================
+[2026-10-14 12:30 UTC] US Consumer Price Index - September 2026  (impact: high)
+URL: https://www.forexfactory.com/news/1431415-us-consumer-price-index-september-2026
+Source: bls.gov
+--------------------------------------------------------------------------------
+The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.6 percent on a seasonally adjusted basis in September after rising 0.4 percent in August, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months, the all items index increased 3.7 percent before seasonal adjustment. The index for gasoline rose 9.1 percent in September, accounting for over half of the monthly all items increase. The energy index increased 5.2 percent over the month following a 2.1-percent increase in August. The shelter index rose 0.4 percent in September after rising 0.3 percent in August. The index for food was unchanged in September, as the index for food away from home increased 0.2 percent and the index for food at home fell 0.1 percent. The index for all items less food and energy rose 0.3 percent in September, as it did in August. Indexes that increased over the month include recreation, used cars and trucks, education, airline fares, medical caConsumer prices rose 0.6% in September, putting annual inflation rate at 3.7% September brought little relief to the accelerating cost of living, as consumer prices increased again and kept the inflation rate well above the Federal Reserve’s goal. The consumer price index, a broad measure of goods and services costs across the U.S. economy, rose a seasonally adjusted 0.6% for the month, putting the 12-month rate at 3.7%, the Bureau of Labor Statistics reported Wednesday. Economists surveyed by Dow Jones expected respective gains of 0.6% and 3.6%. Stripping out volatile food and energy costs, so-called core CPI rose 0.3% for the month and was up 2.6% on an annual basis, compared to respective estimates for 0.2% and 2.5%. Surging energy costs were again the primary culprit in the inflation picture. The energy index jumped 5.2% as tensions continued between the U.S. and Iran in a war launched in late February that shows no signs of ending anytime soon.Core CPI printed at +0.33% in September, about a tenth of a point higher than most forecasters had anticipated. The 3-month annualized rate rose to 3.4% from 2% in August.CPI categoriesRate-Hike Odds, Bond Yields Explode Higher After Hotter-Than-Expected CPI Expectations were for a hot headline and cool core heading into this morning's most-watched macro signal from CPI with the October FOMC decision on the line. FedSpeak has clearly pushed the market to back away from a hawkish view, today's data may force a change. Headline CPI did indeed come hot in September - but as expected - at +0.6% MoM, which pulls it up 3.7% YoY (hotter than the 3.6% YoY exp)...chartCore CPI also printed hotter than expected, up 0.3% MoM (+0.2% MoM exp). That has pulled Core CPI up 2.6% YoY (above the expected 2.5%)...chartServices was the big driver of Core's jump...chartBoth Goods and Services price gains accelerated in September...chart
+================================================================================
+
+================================================================================
+[2026-10-14 12:30 UTC] Canada building permits, August 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1431414-canada-building-permits-august-2026
+Source: statcan.gc.ca
+--------------------------------------------------------------------------------
+In August, the total value of building permits issued in Canada rose $1.1 billion (+8.8%) to $13.6 billion. The increase in construction intentions was led by the residential sector (+$1.1 billion), while the non-residential sector (-$29.8 million) showed little change. On a constant dollar basis (2023=100), the total value of building permits issued in ...
+================================================================================
+
+================================================================================
+[2026-10-14 12:09 UTC] ECB's Simkus: Recent data suggest more tightening may be needed  (impact: low)
+URL: https://www.forexfactory.com/news/1431413-ecbs-simkus-recent-data-suggest-more-tightening-may
+Source: @financialjuice
+--------------------------------------------------------------------------------
+ECB's Simkus: Recent data suggest more tightening may be neededECB's Simkus: French yields rising due to economic developments.ECB's Simkus: Don't see a role for ECB in France at presentECB's Simkus: We don't see evident second-round effects yet.
+================================================================================
+
+================================================================================
+[2026-10-14 10:36 UTC] Fed's Bowman: We have time to see how the economy evolves before considering further rate hikes  (impact: low)
+URL: https://www.forexfactory.com/news/1431390-feds-bowman-we-have-time-to-see-how
+Source: @MaceNewsMacro
+--------------------------------------------------------------------------------
+FEDERAL RESERVE VICE CHAIR MICHELLE BOWMAN AT IIF EVENT IN BANGKOK: WE HAVE TIME TO SEE HOW THE ECONOMY EVOLVES BEFORE CONSIDERING FURTHER RATE HIKES #federalreserve #useconomy #michellebowman #interestrates #monetarypolicyMORE FED'S BOWMAN: I DO NOT FEEL ANY URGENCY TO TIGHTEN POLICY FURTHER #federalreserve #useconomy #michellebowman #interestrates #monetarypolicy
+================================================================================
+
