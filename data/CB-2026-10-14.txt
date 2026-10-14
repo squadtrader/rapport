@@ -280,3 +280,251 @@ Together, the comments point to a Fed that agrees on the near-term direction but
 The Fed raised its policy rate by a quarter point to 3.75%-4.00% in September. Williams’ comments late that month led markets to largely price out a hike at the October 27-28 meeting, leaving December as the more likely timing for the next move.
 ================================================================================
 
+================================================================================
+[2026-10-14 02:22 UTC] Goldman Sachs says RBA minutes lower bar for November hike, with three hawkish signals
+URL: https://investinglive.com/central-banks/goldman-sachs-says-rba-minutes-lower-bar-for-november-hike-with-three-hawkish-signals/
+Tags: RBA, AUD
+--------------------------------------------------------------------------------
+Summary
+
+Goldman Sachs says RBA minutes were more hawkish than the press conference and lowered the bar for a November rate hike, though it still expects a hold at 4.60%, with the outcome hinging on Australian third-quarter inflation data due 28 October.
+
+Goldman’s read raises the risk that the next RBA move comes sooner than its own base case. That leaves the third-quarter CPI release as the main event for the Australian dollar and short-dated bond yields. The minutes’ emphasis on domestic capacity shifts the focus from energy pass-through to underlying inflation, so even a moderate headline print could carry hawkish weight if services and core measures stay firm. Oil still matters at the margin: the minutes noted that domestic fuel prices were running well above the RBA’s August assumptions, and a renewed jump in crude tied to the Iran war would strengthen the case for tightening. Market pricing had already leaned toward further hikes before the September decision, so a hot CPI reading could quickly firm up expectations for November.
+
+Goldman isn’t calling a November hike yet, but it thinks theRBA minuteshave opened the door, and the CPI report later this month will decide whether the board walks through it.
+
+Goldman Sachs economists said minutes of the RBA’s September meeting were more hawkish than the press conference that followed the decision, citing three reasons
+
+Among them, the minutes showed increased concern about domestic capacity pressures, with July’s stronger-than-expected CPI data seen as evidence of that
+
+Goldman still expects the RBA to keep the cash rate at 4.60% in November, but says the minutes have lowered the bar for another hike, conditional on third-quarter CPI
+
+The minutes showed the board judged excess demand to be greater than previously assessed and said it would raise rates further if required
+
+Third-quarter CPI data are due on 28 October, ahead of the RBA’s 2 to 3 November meeting
+
+Minutes of the Reserve Bank of Australia’s September policy meeting have likely lowered the bar for another interest rate increase in November, according to Goldman Sachs economists. The bank still expects rates to stay on hold.
+
+In a report, three members of Goldman’s economics research team said they viewed the minutes, released on Tuesday, as more hawkish than Governor Michele Bullock’s press conference after the decision, for three reasons. Among them, the economists said the minutes showed increased concern about domestic capacity pressures, with the board treating July’s stronger-than-expected inflation data as evidence of that.
+
+Goldman continues to expect the RBA to hold the cash rate at 4.60% at its next meeting. However, it judged that the minutes have lowered the threshold for a further hike in November, depending on the outcome of the third-quarter consumer price index report.
+
+The minutes support that reading. They showed the board unanimously raised rates by 25 basis points at the 28 to 29 September meeting because several upside risks to inflation flagged in August had either materialised or were building. Those risks included a broader Middle East conflict pushing oil prices higher, cost pressures from the global AI boom, and tighter domestic capacity than assumed. Members said excess demand in the economy appeared greater than previously assessed. Staff increasingly questioned whether the unemployment rate consistent with target inflation was higher than thought, and business surveys pointed to a drift higher in firms’ inflation expectations.
+
+The board also noted that, if global neutral interest rates have risen, the previous 4.35% cash rate was less restrictive than it had been two years earlier. It said holding steady while other central banks tightened could loosen Australian financial conditions through a weaker currency. Members concluded that they would remain attentive to incoming data and would raise rates further if required.
+
+The third-quarter CPI report, due on 28 October at 00:30 GMT (20:30 ET on 27 October), now looks pivotal. The RBA’s next decision follows on 3 November at 03:30 GMT (22:30 ET on 2 November), alongside its updated quarterly forecasts. A strong reading on underlying and services inflation would test Goldman’s hold call and could push the board toward a second consecutive increase.
+
+If nothing in November the RBA has another crack in December before a long break until the next meeting 8–9 February 2027:
+================================================================================
+
+================================================================================
+[2026-10-14 00:33 UTC] How Singapore’s monetary policy works: the S$NEER band explained in three levers
+URL: https://investinglive.com/central-banks/how-singapore-s-monetary-policy-works-the-s-neer-band-explained-in-three-levers/
+Tags: SGD
+--------------------------------------------------------------------------------
+Summary
+
+Singapore steers inflation through its currency, not interest rates. MAS manages the S$NEER, a trade-weighted Singapore dollar, within an undisclosed band it can tighten or ease via its slope, width and centre, reviewed four times a year.
+
+How Singapore’s monetary policy works: the S$NEER band explained in three levers
+
+Most central banks fight inflation by raising or cutting interest rates. Singapore does it differently. The Monetary Authority of Singapore steers the economy by managing the value of the Singapore dollar against a basket of its trading partners’ currencies. When MAS “tightens,” it lets the currency strengthen faster, which makes imports cheaper and cools inflation. When it “eases,” it slows or reverses that appreciation.
+
+That is whyWednesday’s decision to hold policy steadywas framed entirely in terms of an exchange rate band, with no mention of an interest rate.
+
+Why Singapore uses the exchange rate
+
+Singapore is one of the most open economies in the world. It imports most of what it consumes, from food and fuel to raw materials, and trade flows are large relative to the size of its economy. That makes the exchange rate a far more powerful influence on prices than domestic interest rates.
+
+There is also a practical constraint. Singapore allows capital to move freely in and out of the country. A central bank with open capital flows can control either its exchange rate or its interest rates, but not both. MAS chose the exchange rate in 1981, and local interest rates largely follow global rates, particularly those in the US.
+
+What is the S$NEER?
+
+The S$NEER, or Singapore dollar nominal effective exchange rate, measures the Singapore dollar against a weighted basket of the currencies of Singapore's main trading partners. MAS does not publish the basket's composition or weights. It manages the S$NEER within a policy band, stepping into the currency market when needed to keep it there.
+
+The three levers
+
+MAS adjusts policy through three features of the band, none of which it discloses precisely.
+
+Slope: the speed of appreciation.The band is set on a gradual path, usually an upward one. A steeper slope means the Singapore dollar is allowed to strengthen faster, which is a tightening. A flatter slope is an easing. On Wednesday, MAS kept the slope unchanged.
+
+Centre: the starting level.MAS can shift the midpoint of the band up or down in one step, known as re-centring. Moving the centre higher delivers an immediate, one-off strengthening, a stronger tightening signal than steepening the slope. MAS left the centre unchanged on Wednesday.
+
+Width: how much movement is tolerated.A wider band gives the currency more room to fluctuate, usually used in periods of market volatility. A narrower band signals tighter control. The width was also unchanged.
+
+Analysts estimate the band’s width and slope from the currency’s movements, but MAS keeps the exact parameters private. That gives it room to act without inviting speculation against fixed levels.
+
+How often MAS decides
+
+MAS reviews policy four times a year, in January, April, July and October, having moved from a twice-yearly schedule in 2024. Decisions are released early in the Singapore morning, which is around midnight GMT.
+
+The inflation measure that matters
+
+MAS focuses on core inflation, which excludes accommodation and private transport costs. Those categories are heavily influenced by government policy and housing and car-ownership cycles, so stripping them out gives a cleaner read on underlying price pressures. On Wednesday, MAS forecast core inflation to average 1.5% to 2.0% for 2026 and to ease more discernibly from mid-2027.
+
+What Wednesday’s decision means
+
+By leaving all three levers unchanged, MAS kept the Singapore dollar on its existing appreciating path. That is still a restraint on imported inflation, just not an increased one. All 10 analysts polled by Reuters had expected a tightening, most likely through a steeper slope, so the hold was a dovish surprise relative to expectations, even though the policy setting itself remains a tightening bias.
+
+Key takeaway for traders
+
+When reading an MAS statement, watch for the words “slope,” “width” and “centre.” Any change to them is the policy decision. For the Singapore dollar, the slope sets the medium-term direction against the basket, while a re-centring can produce a sharp immediate move. Because Singapore’s inflation is so sensitive to import costs, especially energy, oil prices are often a better guide to the next MAS move than local interest rates.
+================================================================================
+
+================================================================================
+[2026-10-14 02:37 UTC] Lagarde: no second-round effects yet, but ECB can’t wait until they are in full view
+URL: https://investinglive.com/central-banks/lagarde-no-second-round-effects-yet-but-ecb-can-t-wait-until-they-are-in-full-view/
+Tags: ECB, EUR
+--------------------------------------------------------------------------------
+Summary
+
+ECB President Lagarde said inflation is rising mainly but not only on energy, with no second-round effects yet, though the ECB cannot wait until they are in full view. She said the solution to French debt lies first in French fiscal policy.
+
+Lagarde’s message leans hawkish at the margin. A central bank that will act on early hints, without waiting for clear evidence of second-round effects, could move sooner than markets expect if wage settlements firm. That supports front-end European yields and the euro on a relative basis. Energy is the key transmission channel. With inflation driven mainly by energy prices, a further jump in oil or gas from Gulf escalation would raise the odds of pre-emptive tightening, making crude and TTF gas direct inputs into ECB pricing. Her comments on France offer no backstop signal, so the French-German yield spread remains exposed to Paris’s budget politics.
+
+Lagarde sees no wage-price spiral yet, but she has made clear the ECB will act on the first signs rather than wait for proof.
+
+ECB President Christine Lagarde said inflation has been rising predominantly, but not exclusively, because of energy prices
+
+She said there are no second-round effects yet, but the ECB cannot wait until they are in full view and will look for early hints
+
+The ECB is monitoring wage expectations embedded in collective bargaining agreements as an early warning sign
+
+Asked about French debt, Lagarde said the primary solution lies in French fiscal policy
+
+She described euro area growth of 1.1% in 2026 as not brilliant but not bad, and said she will not run for French president
+
+European Central Bank President Christine Lagarde said the euro area has yet to see second-round effects from higher energy prices, but signalled the central bank would not wait for them to become fully visible before responding.
+
+Lagarde said inflation has been rising predominantly, though not exclusively, as a result of energy prices. While there is no sign yet of those increases feeding through into broader wages and prices, she said policymakers must anticipate and look for early hints. The ECB is paying particular attention to collective bargaining arrangements, where expectations of future wage increases tend to show up first.
+
+Second-round effects occur when an initial price shock, such as a jump in energy costs, prompts workers to seek higher wages and companies to raise prices further, turning a temporary spike into more persistent inflation. Lagarde’s emphasis on acting before those effects are fully evident suggests a readiness to respond pre-emptively if wage settlements begin to firm.
+
+On the economy, Lagarde said growth is not brilliant, but that euro area growth of 1.1% in 2026 is not bad.
+
+Asked about France’s debt, she said the primary and first solution lies in French fiscal policy. The remark puts the onus on Paris rather than the ECB as French borrowing costs face pressure. Goldman Sachs noted in a recent client discussion that the spread between French and German government bond yields has widened sharply amid political tensions over the French budget, an issue it expects to persist ahead of the French presidential election in the first half of next year.
+
+Lagarde, who is French, also said she will not run for president of France.
+
+Her comments leave energy prices and wage negotiations as the key indicators for the ECB’s next steps. A renewed rise in energy costs, or early evidence of stronger pay demands, would increase pressure on policymakers to act before inflation becomes entrenched.
+================================================================================
+
+================================================================================
+[2026-10-14 00:29 UTC] PBOC is expected to set the USD/CNY reference rate at 6.6922 – Reuters estimate
+URL: https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6922-reuters-estimate/
+Tags: pboc, CNY, CNH
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The People’s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets.
+
+China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC. The current trading band permits the currency to move plus or minus 2% from the official midpoint during onshore trading hours.
+
+Each morning, the PBOC determines the midpoint based on a range of inputs. These include the previous day’s closing price, movements in major currencies, particularly the US dollar, broader international FX conditions, and domestic economic considerations such as capital flows, growth momentum and financial stability objectives. The midpoint is not a purely mechanical calculation, allowing policymakers discretion to guide market expectations.
+
+Once the midpoint is announced, onshore USD/CNY is free to trade within the allowable band. If market pressures push the yuan toward either edge of that range, the central bank may step in to smooth volatility. Intervention can take the form of direct buying or selling of yuan, adjustments to liquidity conditions, or guidance through state-owned banks.
+
+As a result, the daily fixing is often interpreted as a policy signal rather than just a technical reference point. A stronger-than-expected CNY midpoint is typically read as a sign the PBOC is leaning against depreciation pressure, while a weaker fixing for the CNY can indicate tolerance for a softer currency, often in response to dollar strength or domestic economic headwinds.
+
+In periods of heightened global volatility, such as shifts in US rate expectations, trade tensions or capital flow pressures, the fixing takes on added significance. For investors, it provides insight into Beijing’s currency priorities, balancing competitiveness, capital stability and financial market confidence.
+================================================================================
+
+================================================================================
+[2026-10-14 01:15 UTC] PBOC sets USD/ CNY mid-point today at 6.7249 (vs. estimate at 6.6922)
+URL: https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7249-vs-estimate-at-6-6922/
+Tags: pboc, CNH, CNY
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead, strongest for CNY since 2 February 2023
+
+The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate.More here on this.
+
+injects 56bn yuan via 7-day reverse repos at 1.4%, unchnaged rate
+================================================================================
+
+================================================================================
+[2026-10-14 00:52 UTC] Singapore: MAS could tighten again in 2027 if inflation risks materialise, says ANZ
+URL: https://investinglive.com/central-banks/singapore-mas-could-tighten-again-in-2027-if-inflation-risks-materialise-says-anz/
+Tags: SGD
+--------------------------------------------------------------------------------
+Summary
+
+ANZ, among the few to forecast Wednesday’s MAS policy hold, says the tightening cycle is not over and MAS could tighten again if inflation risks materialise next year, as the effects of April and July tightenings are still feeding through.
+
+ANZ’s view tempers any dovish reading of Wednesday’s surprise hold. If markets come to see it as a pause within a tightening cycle, any Singapore dollar weakness against its trading partners could prove limited. The bar for a further move now appears to be evidence that inflation risks are materialising, which puts imported energy costs at the centre of the outlook. A renewed surge in oil or refined product prices tied to Gulf escalation would be the most likely trigger for MAS to steepen the slope of its policy band again. Easing in crude would strengthen the case for an extended hold.
+
+ANZ reads the MAS hold as a breather, not a turning point: the earlier tightenings need time to work, but the door to more remains open.
+
+ANZ, one of the few forecasters to predict theMonetary Authority of Singapore would hold policyon Wednesday, said MAS could tighten again if inflation risks materialise next year
+
+Khoon Goh, ANZ’s head of Asia research, said the effects of MAS’s two tightenings in April and July are still feeding through, so the central bank sees no need to act further for now
+
+He noted that third-quarter GDP growth beat expectations and that MAS expects core inflation to stay slightly elevated in the near term
+
+Goh said the hold does not mean the tightening cycle is over
+
+The Monetary Authority of Singapore could resume tightening next year if upside risks to inflation materialise, according to ANZ, one of the few forecasters that correctly predicted the central bank would leave policy unchanged on Wednesday.
+
+Khoon Goh, head of Asia research at ANZ, said MAS judged there was no need to tighten further at this stage because the effects of its two earlier tightening moves, in April and July, are still feeding through the economy. Monetary policy works with a lag, and changes to the path of the Singapore dollar take time to show up in import prices and, in turn, consumer inflation.
+
+That was despite a stronger economic backdrop than expected. Goh noted that third-quarter GDP growth beat expectations and that MAS still expects core inflation to remain slightly elevated in the near term. He stressed, however, that the decision does not signal the end of the tightening cycle, and that MAS could tighten again if upside inflation risks emerge next year.
+
+ANZ’s call set it apart from the consensus. All 10 analysts polled by Reuters ahead of the decision had expected a tightening, making [Wednesday’s hold] a surprise to most of the market.
+
+MAS, whichmanages policy through the Singapore dollar’s trade-weighted exchange rate, kept the rate of appreciation, width and centre of its policy band unchanged. Because the band remains on an appreciating path, the decision leaves the existing tightening stance in place without adding to it. [Our explainer on how MAS policy works] sets out how the three levers operate.
+
+In its statement, the central bank said the economy should expand at a firm pace in the coming quarters before moderating as the AI cycle eases and global financial conditions tighten. It forecast core inflation to average 1.5% to 2.0% in 2026 and to ease more discernibly from mid-2027, but said risks to inflation remain tilted to the upside, including from a sharp and sustained rise in energy or food prices.
+
+ANZ’s assessment suggests the next move, if any, is more likely to be a tightening than an easing. The path of imported costs, particularly energy, and whether core inflation proves stickier than MAS expects will shape the outlook for its upcoming reviews.
+================================================================================
+
+================================================================================
+[2026-10-14 00:11 UTC] Singapore’s MAS holds policy steady, surprising all 10 analysts who expected tightening
+URL: https://investinglive.com/central-banks/singapore-s-mas-holds-policy-steady-surprising-all-10-analysts-who-expected-tightening/
+Tags: SGD
+--------------------------------------------------------------------------------
+Summary
+
+Singapore’s central bank kept policy unchanged on Wednesday, maintaining the S$NEER band’s rate of appreciation, width and centre, surprising all 10 analysts polled who expected tightening. MAS sees inflation risks still tilted to the upside.
+
+The decision is a dovish surprise against a unanimous call for tightening, which leaves the Singapore dollar vulnerable to some softening against its trading partners as positions built for a hawkish move unwind. The policy band still has an appreciating slope, though, so this is a pause in tightening, not an easing. Energy is the key swing factor. MAS explicitly flagged a sharp, sustained surge in energy prices as an upside risk, so a renewed jump in crude tied to Gulf escalation would put tightening firmly back on the table at the next review. Singapore’s position as a regional oil-trading and refining hub makes its imported inflation particularly sensitive to oil and refined product prices.
+
+MAS chose patience over pre-emption, betting that slightly elevated inflation will ease on its own as the AI boom cools and import costs fade.
+
+The Monetary Authority of Singapore kept the rate of appreciation, width and centre of its S$NEER policy band unchanged
+
+All 10 analysts polled by Reuters had expected MAS to tighten
+
+MAS sees the economy expanding at a firm pace in the near term, then moderating as the AI cycle eases from its exceptional pace and global financial conditions tighten
+
+Core inflation is forecast to average 1.5% to 2.0% in 2026, stay slightly elevated in the coming quarters and ease more discernibly from mid-2027
+
+MAS said risks to inflation remain tilted to the upside, citing the potential for a sharp, sustained surge in energy or food prices
+
+The Monetary Authority of Singapore kept its monetary policy settings unchanged on Wednesday, defying expectations for a tightening as it judged that slightly elevated inflation should ease over time.
+
+The central bank, which manages policy through the exchange rate, said it would maintain the current rate of appreciation of its policy band, known as the Singapore dollar nominal effective exchange rate or S$NEER. There will be no change to the width of the band or the level at which it is centred. The band is already on an appreciating path, which helps restrain imported inflation, so the decision leaves that tightening bias in place without adding to it. All 10 analysts polled by Reuters had expected MAS to tighten.
+
+MAS said the economy should continue to expand at a firm pace in the immediate quarters ahead, but moderate thereafter as the AI cycle eases from its exceptional pace and global financial conditions tighten. It expects AI-related activity to slow in the second half of 2027 and the economy’s positive output gap, a sign that demand is running ahead of capacity, to narrow through next year. The government will announce its growth forecasts for 2026 and 2027 in November.
+
+On prices, MAS expects firming imported cost pressures to keep both core and headline inflation at their current slightly elevated levels in the months ahead. Core inflation is forecast to average 1.5% to 2.0% for 2026 as a whole, before easing more discernibly from the middle of next year as import costs ebb.
+
+The central bank stressed that significant uncertainty surrounds the outlook and that, for now, risks to inflation remain tilted to the upside. A sharp and sustained surge in global energy or food prices could lift Singapore’s import costs by more than forecast. On the other hand, a larger-than-expected rise in interest rates or a sharper pullback in AI-related investment could drag on growth and, in turn, inflation.
+
+The hold suggests MAS is prepared to look through near-term price pressures on the view that they will fade, while keeping its appreciating policy stance in place. With risks still skewed to the upside, the path of energy prices and the strength of the AI cycle are likely to shape whether it moves at its next review.
+
+The Monetary Authority of Singapore is the coutnry's central bank.
+
+1.1% q/q
+
+expected 1.2%, prior 1.4%
+
+5.4% y/y
+
+expected 5%, prior 5.9%
+================================================================================
+
