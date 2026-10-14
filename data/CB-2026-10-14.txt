@@ -558,3 +558,37 @@ The Friday calendar is currently bare of Fed speakers but we will monitor that f
 In terms of economic data, we also get PPI and retail sales tomorrow so those will be key.
 ================================================================================
 
+================================================================================
+[2026-10-14 18:03 UTC] Fed's Beige Book:  Nine of 12 districts report growth as price pressures broaden
+URL: https://investinglive.com/central-banks/fed-s-beige-book-nine-of-12-districts-report-growth-as-price-pressures-broaden/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Highlights of the October 14, 2026 Summary of Commentary on Current Economic Conditions by Federal Reserve District
+
+Two districts reported moderate growth, three modest, four slight and three no change. In August, 10 grew and two were unchanged.
+
+Most districts reported little or no change in consumer spending.
+
+Employment was little changed: three districts saw modest gains, five slight and four no change.
+
+Three districts reported robust price growth, eight moderate and one modest.
+
+Four districts said the pace of price increases picked up.
+
+The outlook remains positive, but expectations are for slight growth, weighted toward manufacturing.
+
+The October Beige Book shows an economy losing a step while inflation pressures intensify. The national summary dropped its headline characterization of activity entirely. August said activity “increased modestly”; this report simply tallies the districts and notes that reports outside of manufacturing “indicate little growth overall.” Philadelphia and New York both slowed to slight growth from modest, while Chicago slipped to flat. Manufacturing is doing the heavy lifting, led by a sharp pickup in Dallas along with continued strength in data centers, power generation and defense.
+
+The consumer has stalled. August described spending as growing slightly; now most districts report little or no change, and more than half said spending was being driven by high-income households. The strain is spreading up the income ladder. San Francisco said pressure on lower-income families has spread to middle-income households, and New York noted rising 401(k) hardship withdrawals and earned-wage advances. In Cleveland, a record 87% of surveyed nonprofits said their clients’ finances deteriorated. Boston, Minneapolis and San Francisco all flagged a drop in Canadian tourists.
+
+Prices are the biggest shift. In August, only one district reported robust price growth and only one said the pace had accelerated. Now it’s three and four, respectively. Higher oil prices showed up in every district report, with diesel the most commonly cited cost. The forward-looking language is more concerning for the Fed: firms expect further increases as hedges and fixed contracts expire and get repriced. Philadelphia’s future prices indexes are among the highest readings in 35 years, and a New York food manufacturer said it hadn’t seen such broad-based pressures since the pandemic. Consumer-facing firms still can’t pass costs through, so margins are getting squeezed.
+
+Hiring was marginally better than August, but real wages are a growing issue. Boston staffing contacts said raises are lagging inflation, and cost-of-living demands came up in several districts. AI also featured more prominently, with five districts reporting firms trimming staff through attrition, delaying hiring or planning fewer new jobs.
+
+Higher rates are a new theme. Rising mortgage rates slowed housing further in Philadelphia, Kansas City said CRE loan spreads rose substantially, and Dallas bankers turned pessimistic, citing the Mideast conflict, inflation and the increase in the fed funds rate.
+
+The FOMC meets Oct. 27-28 and along withtoday's CPI report, this adds to the case for hiking rates. We will hear from Chair Warsh late tomorrow.
+================================================================================
+
