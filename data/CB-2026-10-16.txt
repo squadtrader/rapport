@@ -214,3 +214,235 @@ The headline stayed unchanged after rounding, but the underlying mix shifted. Ex
 The consumer upgrade is encouraging. However, inventories are still expected to account for roughly half of the headline growth estimate. That makes the composition worth watching: stronger spending supports the demand story, while a large inventory boost can be less durable if businesses subsequently slow their stockbuilding.
 ================================================================================
 
+================================================================================
+[2026-10-15 20:33 UTC] BOE, Bailey, Bangkok. What could possibly go wrong? Preview and 3 questions for the Governor
+URL: https://investinglive.com/central-banks/boe-bailey-bangkok-what-could-possibly-go-wrong-preview-and-3-questions-for-the-governor/
+Tags: BOE, GBP
+--------------------------------------------------------------------------------
+Summary
+
+Bank of England Governor Bailey speaks in Bangkok at 02:00 GMT (22:00 ET Thursday) as markets bet heavily on a November rate hike, with energy-driven inflation well above target and Bank Rate at 3.75% after a split 6-3 vote to hold in September.
+
+Sterling and short-dated gilts are most exposed to Bailey’s remarks, because front-end pricing already assumes a November hike is close to a done deal. If he endorses that view, rate support for the pound stays in place. Any hint of patience, or emphasis on the softer jobs market, could pull hike odds lower and weigh on the currency. Oil remains the swing factor: the Bank’s case for tightening rests on oil and gas prices staying well above pre-war levels, so any easing in Brent would weaken the hawkish argument more than anything Bailey says.
+
+Bailey has spent a month telling markets that high energy prices are making a hold harder to justify, and Bangkok is his chance to confirm or cool a November hike they have almost fully priced.
+
+Bailey appears in conversation at the IIF annual membership meeting in Bangkok at 02:00 GMT (22:00 ET Thursday)
+
+Bank Rate is 3.75%, unchanged since a 5-4 vote to cut last December
+
+The MPC held 6-3 in September, with three members voting to hike to 4% and Bailey voting to hold
+
+Inflation is well above the 2% target and expected to rise further as Iran war energy costs feed through
+
+The labour market has softened, which is the main argument for waiting
+
+Markets and most economists expect a hike at the 5 November meeting, a week after the 28 October Budget
+
+Bank of England Governor Andrew Bailey takes the stage at the Institute of International Finance’s annual membership meeting in Bangkok, held alongside the IMF and World Bank annual meetings, on Friday, with financial markets increasingly convinced that the Bank’s next move will be a rate rise. Bailey is due to appear in conversation with IIF President and Chief Executive Tim Adams at 02:00 GMT (22:00 US Eastern on Thursday), less than three weeks before the Monetary Policy Committee’s 5 November decision.
+
+Bank Rate stands at 3.75%, where it has been since a narrow 5-4 vote delivered a quarter-point cut last December. At its most recent meeting in September, the MPC held the rate by a 6-3 majority, according to the Bank’s published minutes. Bailey was among the six voting to hold, and the other three preferred an immediate increase to 4%.
+
+Inflation is the central problem. Consumer price inflation is running well above the 2% target, as it has for almost all of the past five years. The Bank expects it to climb further into early next year as higher oil, gas and electricity costs linked to the Iran war work through to household bills. The Bank has said those costs have so far had only a limited effect on wider wage and price setting. It has also said that the longer energy prices stay high, the more likely it becomes that Bank Rate will need to rise.
+
+The jobs market offers a partial counterweight. Unemployment has drifted higher and private-sector pay growth has eased, and the slack that implies is a key reason the majority preferred to wait in September.
+
+Bailey’s tone has hardened since that vote. He warned in late September that persistently high energy prices would make it harder to keep rates on hold, adding that the Bank could not wait for complete evidence on inflation expectations. He has since argued that looking through an energy shock only works while expectations stay anchored. Markets have taken the hint: traders price a high probability of a November hike, and a Reuters poll this week found a large majority of economists expect Bank Rate to rise to 4%.
+
+November pricing:whether Bailey endorses it or pushes back, having previously told lawmakers the Bank has no unconditional plan for rates.
+
+The Budget:how much weight he gives the 28 October Budget, which lands a week before the decision.
+
+The labour market:whether he dwells on its softness, which would suggest the majority is not yet ready to move.
+================================================================================
+
+================================================================================
+[2026-10-15 20:18 UTC] Economic and event calendar in Asia Friday, October 16, 2026 - Federal Reserve Chair Warsh speaking
+URL: https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-october-16-2026-federal-reserve-chair-warsh-speaking/
+Tags: Fed, BOC, BOE, ECB
+--------------------------------------------------------------------------------
+Summary
+
+There is a barrage of central bank chiefs speaking on the agenda today
+
+Coming up soon is Beth Hammack, president and chief executive officer of the Federal Reserve Bank of Cleveland. Earlier this week:
+
+And later in the session, Bailey, Nagel, Warsh and Macklem. I'll be back with previews soon, but for now:
+================================================================================
+
+================================================================================
+[2026-10-15 21:47 UTC] Fed's Hammack questions whether Fed policy is tight enough as inflation risks build
+URL: https://investinglive.com/central-banks/fed-s-hammack-questions-whether-fed-policy-is-tight-enough-as-inflation-risks-build/
+Tags: Fed, SPX, Bonds, USD
+--------------------------------------------------------------------------------
+Summary
+
+Cleveland Fed President Hammack warned on Thursday that if an inflationary mindset takes hold, the Fed may need to act more aggressively, adding that businesses face heavy input cost pressures and that financial conditions do not look restrictive.
+
+The remarks lean hawkish and add to the case for further Fed tightening, a backdrop that tends to support the dollar and push short-dated Treasury yields higher. Her view that financial conditions are not restrictive is the more market-relevant line, because it argues against any assumption that the September hike was enough. Fuel costs remain central to the input cost pressures firms are reporting, so oil prices are the variable most likely to shape whether her expectations worry materialises. A firmer rate path is also a headwind for gold, which has tended to fall as hike expectations rise.
+
+Hammack is less worried about where inflation is today than about Americans starting to expect it, and that distinction could lower her bar for backing another hike.
+
+Hammack said a worsening of inflation expectations would likely require more aggressive Fed action
+
+Warned that an inflationary mindset would make monetary policy’s job much harder
+
+Businesses are seeing significant input cost pressures, and lower-income Americans are struggling with inflation
+
+Said it is hard to know where the neutral rate sits
+
+Said financial conditions do not currently appear restrictive
+
+Was speaking at a Goldman Sachs event in New York
+
+Cleveland Federal Reserve President Beth Hammack warned on Thursday that a deterioration in the public’s inflation expectations would likely require a more forceful response from the central bank. Her remarks add to signs that policymakers are prepared to keep tightening.
+
+Speaking at an event hosted by Goldman Sachs in New York, Hammack said her main concern was the emergence of an inflationary mindset, in which households and businesses come to expect persistent price pressures. If that took hold, she said, it would become much harder for monetary policy to do its job, and the Fed might need to move further than it otherwise would.
+
+Hammack said businesses were reporting substantial pressure from input costs, and that she was hearing more from lower-income Americans who are struggling with inflation. She stressed the value of anecdotal reports from businesses and communities as a guide to the economy, alongside official data.
+
+On the policy stance, Hammack said it is difficult to pin down where the neutral interest rate lies, the level that neither stimulates nor restrains the economy. She added that financial conditions do not currently appear restrictive. That view implies current settings may not be doing enough to bring inflation down.
+
+Her comments come with the Fed already on a hiking path. The central bank raised its target range by a quarter point to 3.75% to 4.00% in September, its first increase in this cycle, and policymakers next meet on 27 and 28 October. Hammack votes on policy this year.
+
+Taken together, the remarks point to a preference for further tightening rather than any pause. Her emphasis on expectations, rather than the current inflation rate alone, matters. It suggests her threshold for supporting another hike could be lower if surveys or business reports show price pressures becoming entrenched. At the same time, she did not commit to the timing of any move.
+
+The comments are likely to reinforce market attention on Fed Chair Kevin Warsh, who speaks later in the Asian session, and on upcoming measures of inflation expectations.
+================================================================================
+
+================================================================================
+[2026-10-15 21:11 UTC] Macklem in Bangkok: oil, tariffs and job losses test the Bank of Canada’s hike case
+URL: https://investinglive.com/central-banks/macklem-in-bangkok-oil-tariffs-and-job-losses-test-the-bank-of-canada-s-hike-case/
+Tags: BOC, CAD
+--------------------------------------------------------------------------------
+Summary
+
+Bank of Canada Governor Macklem joins an IMF panel in Bangkok at 04:15 GMT (00:15 ET), with the policy rate at 2.25% and markets trimming October hike bets after heavy September job losses, though energy-driven inflation keeps December in play.
+
+The Canadian dollar and short-dated Canada yields are most exposed if Macklem is drawn on policy. With October hike odds already slashed after the jobs data, any hawkish signal would carry more surprise value than a cautious one. Oil cuts both ways for Canada: higher crude supports the terms of trade and the currency, but it is also the main source of above-target inflation, so a sustained move in prices would shift both the inflation debate and the loonie. Tariff headlines remain a second source of volatility.
+
+Macklem has argued the Bank can look through an oil shock only until it spreads, and two months of job losses have made markets doubt the spreading starts soon enough to justify an October hike.
+
+Macklem speaks on an IMF panel on AI and the global economy in Bangkok at 04:15 GMT (00:15 ET)
+
+The policy rate is 2.25%, unchanged since a cut in October 2025
+
+Headline inflation is above target on gasoline prices, while core measures sit near 2%
+
+New US tariffs and back-to-back monthly job losses have weakened the growth outlook
+
+Markets have cut the odds of an October hike, but still lean towards a move by December
+
+The next decision is 28 October, with September inflation data due on Monday
+
+Bank of Canada Governor Tiff Macklem joins a panel on artificial intelligence and the global economy at the IMF and World Bank annual meetings in Bangkok on Friday. It comes less than two weeks before the central bank’s 28 October rate decision. The session is scheduled for 04:15 GMT (00:15 US Eastern), according to the Bank’s media advisory. The topic is AI rather than monetary policy, so any comments on rates would most likely come in response to questions.
+
+The policy rate stands at 2.25%, where it has been since a quarter-point cut in October last year, according to the Bank of Canada. Governing Council has held at every decision since. The most recent hold was on 2 September, when it said it was prepared to adjust policy as needed.
+
+Headline inflation is running above the 2% target, pushed up by higher gasoline prices linked to the Middle East conflict and damaged refining capacity. Core measures, however, have stayed close to target, and the Bank has said it sees little sign so far of energy costs spreading into wider prices. In a speech last month, Macklem said the Bank can look through the direct effect of higher oil, but only while those pressures stay contained. He added that it does not want to be too slow to respond if they broaden.
+
+The growth picture complicates the decision. The economy rebounded strongly in the second quarter. However, new US tariffs following the breakdown of Canada-US trade talks have clouded the outlook, and Macklem has warned growth could slow sharply late this year if they persist.
+
+The labour market has also turned. Canada shed jobs in both August and September, and the unemployment rate rose back to where it started the year. That points to continued slack in the economy.
+
+The jobs data shifted expectations. Markets scaled back the odds of an October hike to well below even after the September report, while still leaning towards a move by December. Some economists now expect the Bank to hold this month, though others had been forecasting an increase.
+
+Inflation risk:whether he still sees energy-driven inflation as the bigger risk, or gives more weight to the weaker jobs market.
+
+Tariffs:how he judges the growth hit from US tariffs.
+
+October:whether he leaves the door open to a move this month. September inflation data on Monday is the next marker.
+================================================================================
+
+================================================================================
+[2026-10-15 20:56 UTC] Preview: Nagel and Klingbeil in Bangkok: three themes as the ECB weighs a December hike
+URL: https://investinglive.com/central-banks/preview-nagel-and-klingbeil-in-bangkok-three-themes-as-the-ecb-weighs-a-december-hike/
+Tags: ECB, EUR
+--------------------------------------------------------------------------------
+Summary
+
+Bundesbank President Nagel and German Finance Minister Klingbeil brief media in Bangkok at 02:30 GMT (22:30 ET Thursday), with the ECB deposit rate at 2.50% after two 2026 hikes and markets eyeing another in December as euro area inflation runs hot.
+
+The euro and short-dated Bunds are most sensitive to any steer from Nagel on December. A clear endorsement of a further hike would firm rate support for the single currency. Any nod to French fiscal strain as a reason for caution would point the other way. Oil remains the key driver of the ECB debate: Nagel has called it one of the indicators the Governing Council must now watch, so a sustained easing in crude and gas prices would weaken the case for more tightening. Klingbeil’s comments on German spending matter for Bund supply and longer-dated yields.
+
+Nagel is in Bangkok as one of the ECB’s firmer voices on tightening, but questions on French debt could test how far he is willing to push.
+
+Nagel and Klingbeil hold a joint press conference in Bangkok at 02:30 GMT (22:30 ET Thursday)
+
+The ECB raised its deposit rate in June and September, taking it to 2.50%
+
+Euro area inflation is well above target and rose again in September on energy costs
+
+Nagel says rates are around neutral but has not ruled out mildly restrictive settings
+
+Markets and most economists expect a hold on 29 October and a hike in December
+
+French bond spreads and Germany’s improving growth outlook are likely press conference themes
+
+Bundesbank President Joachim Nagel holds a joint press conference with German Finance Minister Lars Klingbeil in Bangkok on Friday, on the sidelines of the IMF and World Bank annual meetings. It comes less than two weeks before the European Central Bank’s 29 October policy decision. The briefing is scheduled for 02:30 GMT (22:30 US Eastern on Thursday).
+
+The ECB has been on a tightening path since the Iran war pushed energy costs higher. It raised its deposit rate by a quarter point in June and again in September, taking it to 2.50%, according to the ECB’s published key rates. Before that, the rate had been held at 2% for a year.
+
+Euro area inflation is running well above the 2% target and climbed further in September, driven mainly by energy. The ECB’s own September projections show inflation staying above target well into next year, with underlying price pressures still building into early 2027. The labour market has held steady, and wage growth has so far shown little response to the energy shock.
+
+Nagel is one of the Governing Council’s more hawkish voices. He said in late September that rates sit around neutral, but that a move into mildly restrictive territory could not be ruled out if price pressures persist. He has since argued that high uncertainty calls for flexibility rather than inaction, flagging low European gas storage as a particular vulnerability.
+
+Germany offers a brighter backdrop than it has for some time. Nagel has described a gradual recovery supported by foreign orders and public spending on infrastructure and defence. Berlin this month sharply raised its growth forecast for this year.
+
+Markets and most economists expect the ECB to hold in October before a further hike in December. Citigroup has argued that French fiscal strain could make December the last move. French bond spreads over Germany widened earlier this month to their highest in well over a decade.
+
+December:whether Nagel backs a further hike or leans towards waiting.
+
+France:how he answers questions on French debt, having said the ECB’s bond-market backstop is not designed to fix individual countries’ fiscal problems.
+
+German fiscal policy:what Klingbeil signals on German spending and borrowing, which feeds directly into Bund supply.++
+================================================================================
+
+================================================================================
+[2026-10-15 21:20 UTC] Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?
+URL: https://investinglive.com/central-banks/warsh-speaks-in-bangkok-after-hot-cpi-is-a-second-fed-hike-coming-in-october/
+Tags: Fed, Bonds, Nasdaq, SPX, USD
+--------------------------------------------------------------------------------
+Summary
+
+Fed Chair Kevin Warsh speaks at the IMF meetings in Bangkok at 03:30 GMT (23:30 ET Thursday), days after a hotter-than-expected September CPI lifted bets on more tightening, with the Fed funds range at 3.75%-4.00% after its first hike since 2023.
+
+This is the highest-impact appearance of the day. Short-dated Treasuries and the dollar are most exposed to any signal that October is live, after Wednesday’s inflation data lifted two-year yields sharply. Oil is the central variable: fuel costs tied to the Iran war are the main source of the latest inflation jump, so a sustained move in crude feeds directly into Fed hike expectations. A hawkish Warsh would likely add pressure on equities and gold, which slid after the CPI release as yields rose. A guarded performance, sticking to his dislike of forward guidance, would leave the hike debate resting on data.
+
+Warsh has spent two months arguing inflation will not fix itself, and a hot September CPI hands him the evidence just as markets debate whether the Fed’s second hike comes in October or December.
+
+Warsh appears in a moderated conversation at the IMF meetings in Bangkok at 03:30 GMT (23:30 ET Thursday)
+
+The Fed raised rates by a quarter point to 3.75%-4.00% in September, its first hike since 2023, on a unanimous vote
+
+September CPI beat forecasts, with headline and core inflation both rising on higher fuel costs
+
+Hiring has slowed sharply, but unemployment remains low and within a narrow range
+
+Most Fed officials projected at least one more hike this year; the next meeting is 27-28 October
+
+Warsh has said inflation is the bigger concern and opposes giving forward guidance
+
+Federal Reserve Chair Kevin Warsh appears in a moderated conversation at the IMF and World Bank annual meetings in Bangkok on Friday, days after US inflation data strengthened the case for further tightening. The session is scheduled for 03:30 GMT (23:30 US Eastern on Thursday), less than two weeks before the Federal Open Market Committee meets on 27 and 28 October.
+
+The Fed is on a hiking path. In September it raised the federal funds target range by a quarter point to 3.75% to 4.00%, its first increase since 2023, according to the Fed’s published statement. The vote was unanimous. The move reversed the last of three quarter-point cuts delivered in late 2025 and signalled a clear shift in priorities towards inflation.
+
+That shift was driven by prices. Inflation has run above the Fed’s 2% goal for years, and higher fuel costs linked to the Iran war have pushed it further from target. September consumer price data released on Wednesday showed headline inflation rising again and beating forecasts, with core inflation also edging higher. The Fed said in September that inflation remains elevated and that its decision would support a timelier return to target.
+
+The labour market, the other half of the Fed’s dual mandate, is less of a constraint for now. Hiring has slowed markedly in recent months and earlier figures have been revised lower. However, the unemployment rate has stayed within a narrow range and remains low by historical standards.
+
+Warsh has made his priorities clear. In his Jackson Hole speech in August he said inflation was too high and would not return to target on its own, arguing that underlying price pressures had not meaningfully improved. He judged inflation a bigger concern than the jobs market. He also said current rates were not restricting activity given strong investment and consumer spending, and described short-term rates as the Fed’s main tool against inflation. He has also said he opposes giving forward guidance on future meetings.
+
+Other officials have leaned the same way. Cleveland Fed President Beth Hammack is a voter this year and dissented in favour of a hike in July. She said this week she believes rates need to rise further to restrain demand, while keeping an open mind on the timing.
+
+Markets had leaned towards a hold in October after a weak September jobs report. Wednesday’s inflation data pushed Treasury yields higher as traders added to bets on further tightening. In September, most Fed officials projected at least one more increase by year-end.
+
+October:whether Warsh signals that an October move is live, or keeps to his line against previewing decisions.
+
+Energy:how he characterises the fuel-driven rise in inflation, and whether he sees signs of it spreading into wider prices and expectations.
+
+Jobs:whether the slowdown in hiring features in his assessment at all.
+
+AI investment:given the IMF setting, whether he returns to his argument that strong AI-related investment is one reason current rates are not holding back activity.
+================================================================================
+
