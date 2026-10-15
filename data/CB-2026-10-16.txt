@@ -172,3 +172,45 @@ The RBNZ’s stance stands out against shifts elsewhere in the region. Across th
 The key question for the late-October meeting is whether short-term price pressures from energy and the currency prove strong enough to justify acting now, or whether the bank’s confidence in inflation returning to target next year allows it to wait a little longer.
 ================================================================================
 
+================================================================================
+[2026-10-15 16:47 UTC] Atlanta Fed GDPNow holds at 3.6% for Q3 as consumer spending outlook improves
+URL: https://investinglive.com/central-banks/atlanta-fed-gdpnow-holds-at-3-6-for-q3-as-consumer-spending-outlook-improves/
+Tags: USD
+--------------------------------------------------------------------------------
+Summary
+
+Growth is tracking above Q1 and Q2, but inventories still account for roughly half of the estimated gain.
+
+The Atlanta Fed GDPNow growth forecast for Q3 remained unchanged as 3.6% after the data dump this morning. In their own words:
+
+The next GDPNow update isTuesday, October 20. Please see the "Release Dates" tab for a list of upcoming releases.The Atlanta Fed’s GDPNow is a running estimate of U.S. economic growth ahead of the official GDP report.
+
+What GDPNow measures
+
+GDPNow uses incoming economic reports—such as retail sales, trade, construction and inventories—to estimate the components of gross domestic product. It follows a methodology similar to the Bureau of Economic Analysis, which produces the official GDP figures. As new data arrive, the model updates its estimate.Federal Reserve Bank of Atlanta
+
+It is a model estimate.GDPNow is not an official forecast of the Atlanta Fed or the Federal Reserve, and economists do not make subjective adjustments to its results.
+
+It measures real growth, meaning growth after adjusting for inflation.
+
+It uses a seasonally adjusted annual rate.A 3.6% reading describes the pace if that quarter’s growth continued for a full year.
+
+It can change as reports arrive.It provides an early guide to the official GDP release, with uncertainty around the eventual result.Federal Reserve Bank of Atlanta
+
+What Q1 and Q2 GDP came in at
+
+Using the latest BEA estimates available as of October 15, all on the same real, annualized basis:
+
+Q1 2026: +2.5%.Revised higher from +2.1% in the September 30 annual update.
+
+Q2 2026: +2.2%.Revised higher from +1.5% in the third estimate released September 30.U.S. Bureau of Economic Analysis (BEA)
+
+Q3 2026: +3.6% GDPNow estimate, according to the update you provided. The BEA’s first official Q3 estimate is scheduled forOctober 29 at 8:30 AM ET.U.S. Bureau of Economic Analysis (BEA)
+
+What stands out in today’s update
+
+The headline stayed unchanged after rounding, but the underlying mix shifted. Expected real consumer spending growth improved from3.4% to 3.6%, while the expected inventory contribution slipped from1.96 to 1.87 percentage points.
+
+The consumer upgrade is encouraging. However, inventories are still expected to account for roughly half of the headline growth estimate. That makes the composition worth watching: stronger spending supports the demand story, while a large inventory boost can be less durable if businesses subsequently slow their stockbuilding.
+================================================================================
+
