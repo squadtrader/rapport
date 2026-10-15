@@ -748,3 +748,41 @@ On AI, he warned that hype could drive even more tech investment and risk overhe
 Goolsbee said he doesn’t want to tie his hands on policy and isn’t a fan of telegraphing moves ahead of meetings. After today's CPI report,the market is pricing in a 40% chance of a hike later this month. We will hear from Warsh late tomorrow then the Fed goes into blackout on Saturday.
 ================================================================================
 
+================================================================================
+[2026-10-14 23:29 UTC] ICYMI: Citi now expects a December Fed rate hike after hotter September US inflation
+URL: https://investinglive.com/central-banks/icymi-citi-now-expects-a-december-fed-rate-hike-after-hotter-september-us-inflation/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Citi now expects the Fed to hike rates by 25bp in December after hotter-than-expected September CPI, then hold until cuts begin in June 2027. Futures price roughly a 94% chance of a December hike and around 32% for the October 27-28 meeting.
+
+Citi’s shift removes one of the last prominent holdouts against a December hike, so the debate moves from whether the Fed tightens again to when. The swing in October pricing, which spiked after the data and then faded, shows traders are uncertain about the timing and are likely to react strongly to any Fed speaker who leans either way before the meeting. A higher-for-longer path, with cuts pushed out to mid-2027, tends to support the US dollar and Treasury yields and to weigh on rate-sensitive assets. The core detail matters most: inflation spreading beyond gasoline is harder for the Fed to look through than an energy spike alone.
+
+--Thehot CPI printwas enough to turn Citi from a Fed sceptic into a December hiker, and markets are now asking whether October comes first.
+
+Citi now expects a 25bp Fed rate hike in December, after previously forecasting no further moves this year
+
+The bank expects rates to stay on hold after December, with cuts not starting until June 2027
+
+September CPI rose to 3.7% y/y from 3.4%, against 3.6% expected, with a monthly gain of 0.6%, driven by gasoline
+
+Core CPI rose to 2.6% y/y from 2.4%, against 2.5% expected, showing price pressures spreading beyond energy
+
+Markets price roughly a 94% chance of a December hike
+
+The implied chance of an October 27-28 hike jumped to around 47% after the data from about 22%, then eased to around 32%, according to CME FedWatch
+
+Citigroup now expects the Federal Reserve to raise interest rates by 25 basis points in December, after US consumer inflation for September came in above expectations. The bank had previously forecast no further Fed moves this year, even though financial markets had already largely priced in a December increase.
+
+Citi said it expects the Fed to leave rates unchanged after that December hike, and does not see cuts beginning until June 2027.
+
+Wednesday’s Consumer Price Index report showed headline inflation rising to 3.7% in the year to September from 3.4% in August, slightly above the 3.6% expected. Prices rose 0.6% on the month, in line with forecasts, driven by a surge in gasoline costs. The more worrying detail for policymakers was that price pressures spread beyond energy. Core inflation, which excludes food and energy, climbed to 2.6% from 2.4%, above the 2.5% expected, with a monthly gain of around 0.3% against forecasts of 0.2%. That raised concern that underlying inflation could prove sticky.
+
+Markets reacted quickly. Rate futures pointed to roughly a 94% probability of a December hike. Pricing for the Fed’s October 27 to 28 meeting moved sharply too. CME Group’s FedWatch tool showed the implied chance of an October hike jumping to around 47% after the data, from roughly 22% beforehand. That has since eased, with FedWatch showing a probability of around 32% at the time of writing.
+
+The shift leaves the October meeting as a genuine decision point rather than a formality. Markets are still treating a December move as close to certain, but the timing of the next hike has become a live debate.
+
+Citi’s change of view matters because it brings one of the major Wall Street forecasters into line with market pricing. It also signals that a single inflation report showing broader price pressure can be enough to shift expectations. Attention now turns to remaining Fed commentary before the October meeting and to the next round of inflation data, including the September PCE figures, for confirmation of whether price pressures are spreading or easing.
+================================================================================
+
