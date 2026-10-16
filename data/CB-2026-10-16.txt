@@ -630,3 +630,113 @@ Warsh also said the Fed’s policies spill over to the rest of the world, but th
 The next markers are US data ahead of the 27 and 28 October meeting, and whether other Fed officials fill the gap left by the chair’s silence.
 ================================================================================
 
+================================================================================
+[2026-10-16 12:17 UTC] BOJ’s Ueda: We will continue to raise rates as underlying inflation approaches 2%
+URL: https://investinglive.com/central-banks/boj-s-ueda-we-will-continue-to-raise-rates-as-underlying-inflation-approaches-2/
+Tags: BOJ
+--------------------------------------------------------------------------------
+Summary
+
+Ueda says BOJ will discuss tweaking its underlying inflation assessment at next meeting
+
+Want to gauge neutral rate estimate taking into account accumulative impact of past rate hikes on financial conditions, domestic prices
+
+Hard to say anything clear about Japan’s neutral rate of interest
+
+Takeaway from this week’s meetings was to exchange views with other policymakers on how Middle East conflict and AI demand could affect global, Japanese economies and inflation
+
+As we have said, our policy has entered a new phase as underlying inflation is quite close to 2%, we cannot allow inflation to rise further
+
+As underlying inflation is quite close to 2%, it is becoming more important than before to anchor inflation around our target
+
+Haven’t been in touch with US Treasury Secretary Bessent since we met in Asheville
+
+Timing, pace of future rate hikes will be decided looking at impact of FX, AI demand and Middle East developments on prices
+
+We will discuss at upcoming meeting whether to tweak our assessment that underlying inflation is approaching 2%
+
+Did not hear anything at this week’s meetings that deviated from our baseline view
+
+Economic, price moves roughly in line with our forecasts
+
+We will continue to raise interest rates as underlying inflation approaching 2%, financial conditions are accommodative
+
+I felt that there were more policymakers at this meeting who were somewhat more bullish on AI demand than we had estimated
+
+No big gap in view between what we have assessed on inflationary pressure from AI demand, and what I heard from global policymakers
+
+Bank of Japan Governor Kazuo Ueda said at the IMF meetings that the BOJ will continue to raise interest rates, with underlying inflation approaching 2% and financial conditions still accommodative. The BOJ policy rate is currently at 1.25% and the market sees little chance of a hike at the October 30 meeting but that rises to 75% for the December 18 meeting.
+
+Ueda said policy has entered a new phase and that the BOJ cannot allow inflation to rise further. With underlying inflation quite close to target, anchoring it around 2% is becoming more important than before. He said the BOJ will discuss at its upcoming meeting whether to tweak its assessment that underlying inflation is approaching 2%.
+
+The timing and pace of future hikes will depend on the impact of FX, AI demand and Middle East developments on prices. Economic and price moves are roughly in line with BOJ forecasts, and he said nothing he heard at this week’s meetings deviated from the baseline view.
+
+On AI, Ueda said more policymakers than expected were bullish on AI demand, but there was no big gap between the BOJ’s assessment of AI-driven inflation pressure and what he heard from global counterparts.
+
+He said Japan’s neutral rate remains hard to pin down. Ueda exchanged views with Fed Chair Warsh but declined to comment on the discussion, and said he hasn’t been in touch with Treasury Secretary Bessent since they met in Asheville, which is notable on the intervention front.
+
+USD/JPY is flat today at 158.00 while the US dollar is broadly weaker elsewhere.
+================================================================================
+
+================================================================================
+[2026-10-16 12:04 UTC] How have interest rate expectations changed after this week's events?
+URL: https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-6/
+Tags: market overview, interest rates
+--------------------------------------------------------------------------------
+Summary
+
+We've haven't seen major changes in interest rate expectations, but the probabilities for an imminent Federal Reserve rate hike dropped despite the higher than expected inflation data.
+
+Rate hikes by year-end
+
+RBNZ:39 bps (87% probability ofrate hikeat the next meeting)
+
+2027: 115 bps
+
+BoE:38 bps (93% probability ofrate hikeat the next meeting)
+
+2027: 105 bps
+
+Fed:25 bps (85% probability of no change at the next meeting)
+
+2027: 75 bps
+
+ECB:25 bps (90% probability of no change at the next meeting)
+
+2027: 69 bps
+
+BoC:20 bps (72% probability of no change at the next meeting)
+
+2027: 101 bps
+
+BoJ:18 bps (99% probability of no change at the next meeting)
+
+2027: 86 bps
+
+RBA:11 bps (76% probability of no change at the next meeting)
+
+2027: 18 bps
+
+SNB:5 bps (79% probability of no change at the next meeting)
+
+2027: 59 bps
+
+Last week's market pricinghere. The 2027 pricing indicates the total amount of tigthening expected by the end of 2027, not how much is expected in 2027 alone.
+
+We've haven't seen major changes in interest rate expectations this week. The Bank of England and Reserve Bank of New Zealand saw a slightly hawkish repricing, while the Federal Reserve and the Reserve Bank of Australia moved in a more dovish direction. Expectations for the European Central Bank, Bank of Canada and Swiss National Bank remained unchanged.
+
+The BoE saw a modest hawkish repricing as markets reinforced expectations of a rate hike in November after a good UK GDP report. Governor Bailey recently said that second-round effects from higher energy prices appeared subdued so far, but warned that it was still too early to draw firm conclusions. So, the central bank remains cautiously hawkish.
+
+The RBNZ also saw a slightly hawkish repricing on concerns that higher energy costs could keep inflation elevated for longer and therefore require further monetary tightening. As a reminder, the RBNZ raised its policy rate to 2.75% in September citing inflation above target range and an economic recovery that appeared to be resuming. Although weaker household spending and labour market slack remain key risks, the RBNZ has indicated that further increases may be needed if inflation pressures persist.
+
+On the Federal Reserve side, despite the higher than expected US inflation data, we saw a minor dovish repricing, especially further out the curve. Treasury yields fell following the inflation data, possibly suggesting that markets may be increasingly concerned about growth.
+
+The RBA saw a dovish shift following Australia's September employment report. Employment unexpectedly fell by 39,300, while the unemployment rate remained at 4.7%, its highest level in five years. The report reduced expectations for another rate hike, with markets pricing a higher probability of the RBA holding rates steady for longer. The labour market conditions may be weakening enough to limit the need for further tightening, even as inflation remains a concern.
+
+ECB rate expectations remained broadly unchanged, with no major new developments. The central bank continues to face the difficult balance between higher energy-driven inflation and the risk that prolonged supply disruptions will weaken economic activity. Moreover, the recent bond market woes strengthened the case for a more patient approach following the recent tightening.
+
+The BoC also saw little change in rate expectations. Canadian inflation and labour market data continue to support a patient approach on interest rates, especially given the ongoing tariff issues with the US.
+
+SNB expectations also remained stable, reflecting Switzerland's subdued underlying inflation and the recent Swiss franc's strength due to safe-haven flows. Keep in mind that a stronger franc can help contain imported inflation, partly offsetting the impact of higher global energy prices. This mechanism is particularly strong for Swiss inflation.
+================================================================================
+
