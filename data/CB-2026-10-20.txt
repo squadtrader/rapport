@@ -182,3 +182,79 @@ Even so, the debate is far from settled. ANZ kept its call for a further 25 basi
 The next key test is quarterly inflation data on 28 October, ahead of the RBA’s 2 to 3 November meeting. Kent’s comments on a rising neutral rate suggest that, if inflation surprises to the upside, the bank still sees room to tighten.
 ================================================================================
 
+================================================================================
+[2026-10-19 21:11 UTC] Bank of Canada preview: Scotiabank expects a 25 bp hike next week despite softer core CPI
+URL: https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/
+Tags: BOC, CAD
+--------------------------------------------------------------------------------
+Summary
+
+Scotiabank expects the Bank of Canada to hike 25 bps next Wednesday, saying smoothed core inflation stays warm after September CPI rose to 3.1%. Markets price about 18 bps. A travel slump dragged core lower, which it sees as noise, not a trend.
+
+With markets pricing about 18 basis points of tightening, a hike next week is the base case but not fully locked in, leaving room for the Canadian dollar and front-end yields to move on the decision and guidance. Canada’s two-year bonds have been the weakest front end among the major markets, reflecting that shift in pricing. Oil is central to the outlook: Scotiabank flags the risk of an escalation in the Iran war after the US midterms, which could push energy and commodity prices higher and add to Canadian inflation pressure. Higher crude would normally support the Canadian dollar, but it would also strengthen the case for further tightening. If the Bank of Canada holds instead, the loonie would likely weaken, and markets could read the pause as a signal that policymakers are prepared to tolerate inflation near the top of the target range.
+
+September’s inflation report gave the Bank of Canada a softer headline to point to, but Scotiabank argues that summer travel coming off is no reason to hold rates while the forward-looking risks keep building.
+
+Scotiabank expects the Bank of Canada to raise rates by 25 basis points at its meeting next Wednesday, 28 October.
+
+Markets were pricing about 18 basis points of tightening after September CPI, unchanged from levels set after Governor Tiff Macklem’s weekend remarks.
+
+Headline CPI rose to 3.1% y/y in September, a tick below forecasts and at the top of the bank’s 1% to 3% target range.
+
+Core measures eased in September, but the bank says a sharp drop in travel prices was the main drag and smoothed trends remain warm.
+
+Scotiabank sees a hike as insurance against upside inflation risks, including possible Iran war escalation, higher commodity prices and fiscal expansion.
+
+Business and consumer surveys and an Alberta vote are still to come before the decision.
+
+Scotiabank expects the Bank of Canada to raise interest rates by a quarter point at its meeting next Wednesday, arguing that underlying inflation remains warm enough to justify an insurance hike even after a softer-than-expected September price report.
+
+Consumer prices rose 3.1% from a year earlier in September, up from 3.0% in August but a tick below forecasts. That leaves headline inflation at the top end of the central bank’s 1% to 3% target range. Core measures eased in the month, but Scotiabank said upward revisions to earlier data and the smoothed trend still point to persistent pressure, with its preferred three-month averages of the central bank’s core measures running at around 2.6% to 2.7% on an annualised basis.
+
+The bank attributed much of September’s softness to a sharp drop in travel prices as the summer holiday season ended. Travel services prices fell by roughly a quarter on an annualised basis, and car rental prices by close to 40%, a fall far larger than the usual seasonal pattern. Scotiabank said such moves warrant caution over data quality and argued that a slump in travel spending is not a reason to keep rates on hold. Excluding travel, it said core inflation would have been firmer and more broadly based, with almost 60% of the CPI basket rising by 2% or more from a year earlier.
+
+Scotiabank also pointed to a shift in tone from Governor Tiff Macklem, who it says has turned his attention toward forward-looking inflation risks rather than backward-looking data. The central bank dropped its description of the policy rate as appropriate at its previous meeting, which Scotiabank reads as a warning. The bank said policy sits at the lower bound of neutral and is negative in real terms, and that the central bank’s staff have historically tended to underestimate inflation at turning points.
+
+Markets appear to share the view. Pricing for next week held at about 18 basis points of tightening after the CPI release, and Canada’s two-year bonds remain the weakest-performing front end among major markets. Scotiabank said that with a hike largely priced, failing to deliver would loosen financial conditions in a way that would be hard to justify.
+
+Looking further ahead, the bank flagged the risk of an escalation in the Iran war after the US midterm elections, higher energy and commodity prices, and another expansionary federal budget. It argued monetary policy needs to offset some of those pressures as spare capacity closes. Business and consumer surveys from the central bank, along with a vote in Alberta, are still due before the decision.
+================================================================================
+
+================================================================================
+[2026-10-19 20:05 UTC] China LPR preview: rates seen on hold for a 17th month after Q3 GDP beat
+URL: https://investinglive.com/central-banks/china-lpr-preview-rates-seen-on-hold-for-a-17th-month-after-q3-gdp-beat/
+Tags: pboc, China
+--------------------------------------------------------------------------------
+Summary
+
+Its a sparse economic and event calendar in Asia today. China’s LPR fixing is due at 01:00 GMT, with the one-year rate seen at 3.0% and the five-year at 3.5% for a 17th month. Monday’s Q3 GDP beat at 4.5% eases pressure to cut, and a Reuters poll sees no change to the LPRs or the RRR through Q1 2027.
+
+A hold is widely expected and should be largely priced, so any reaction is likely to come only from a surprise. An unexpected cut (not gonna happen ... thats how unespected it'd be!) would probably weigh on the yuan, given the already wide gap between US and Chinese yields, while giving Chinese equities and property names a lift. The Australian and New Zealand dollars, often traded as proxies for Chinese growth, could firm on a cut as a sign of extra support for demand. For oil, any easing from the world’s largest crude importer would be a modest positive for demand, at a time when Iran war disruptions are already keeping supply risk elevated. A hold keeps the focus on liquidity tools such as a reserve requirement ratio cut as the more likely form of any future easing.
+
+With growth back inside Beijing’s target range and the Fed tightening, the PBOC has little reason to move its lending benchmarks and good reason to keep its powder dry.
+
+China’s monthly loan prime rate fixing is due on Tuesday, with the one-year LPR expected to stay at 3.0% and the five-year at 3.5%.
+
+A hold would make it the 17th straight month without a change; both tenors were last cut in May 2025.
+
+The LPR is compiled from submissions by 20 designated banks; the one-year rate underpins most loans and the five-year rate guides mortgage pricing.
+
+The LPRs take their cue from the PBOC’s seven-day reverse repo rate, its main policy rate since a mid-2024 framework change.
+
+Monday’s data showed Q3 GDP growth of 4.5%, above forecasts, with retail sales and industrial output also beating expectations.
+
+A Reuters poll sees the LPRs and the reserve requirement ratio unchanged through the first quarter of 2027.
+
+China is expected to leave its benchmark lending rates unchanged at Tuesday’s monthly fixing, which would extend the hold to a 17th consecutive month, after stronger-than-expected third-quarter growth eased pressure on Beijing to add monetary support. The one-year loan prime rate is seen staying at 3.0% and the five-year LPR at 3.5%, with the fixing due at 9:00 a.m. Beijing time (0100 GMT / 2100 US Eastern time).
+
+The loan prime rate is China’s benchmark for domestic lending and the reference point for pricing new bank loans. It is compiled each month from rate submissions by a panel of 20 designated commercial banks, although the People’s Bank of China retains strong influence over the outcome. There are two tenors: the one-year LPR, on which most new and outstanding loans are based, and the five-year LPR, which serves as the reference for mortgage pricing. The LPR replaced China’s old benchmark lending rate in August 2019 as part of a shift toward more market-based rate setting.
+
+In practice, the LPR follows the central bank’s lead. Since a framework change in mid-2024, the PBOC has treated its seven-day reverse repo rate as its main policy rate, replacing the medium-term lending facility rate that previously served as the anchor for banks’ submissions. When the seven-day rate moves, the LPRs typically follow, and with it unchanged, the benchmarks have stayed put. Both tenors were last cut in May 2025, by 10 basis points each, following a larger quarter-point reduction in October 2024.
+
+Monday’s data strengthened the case for patience.Gross domestic product grew 4.5%from a year earlier in the third quarter, slightly ahead of forecasts and up from 4.3% in the second quarter, lifting growth back to the bottom of Beijing’s 4.5% to 5% target range. September retail sales and industrial output also beat expectations, though property investment fell by around 21% in the first nine months of the year, underlining the weakness in housing. A Reuters poll conducted ahead of the release found economists expect the LPRs and the reserve requirement ratio to remain unchanged through the first quarter of 2027.
+
+External conditions also argue against a cut. The Federal Reserve raised rates in September and signalled more could follow, widening the policy gap with China, and the premium on 10-year US Treasuries over Chinese government bonds was near a record high last month. Further easing would risk adding pressure on the yuan. At home, policymakers face weak credit demand and squeezed bank margins, which limit the appeal of lower lending rates.
+
+A hold would keep attention on fourth-quarter data and on whether Beijing leans on liquidity measures or fiscal support rather than rate cuts if growth falters again.
+================================================================================
+
