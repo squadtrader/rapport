@@ -258,3 +258,101 @@ External conditions also argue against a cut. The Federal Reserve raised rates i
 A hold would keep attention on fourth-quarter data and on whether Beijing leans on liquidity measures or fiscal support rather than rate cuts if growth falters again.
 ================================================================================
 
+================================================================================
+[2026-10-20 01:03 UTC] China holds loan prime rates for 17th month as policy focus shifts to short-term rates
+URL: https://investinglive.com/central-banks/china-holds-loan-prime-rates-for-17th-month-as-policy-focus-shifts-to-short-term-rates/
+Tags: pboc, China
+--------------------------------------------------------------------------------
+Summary
+
+China kept its one-year loan prime rate at 3.0% and five-year at 3.5%, the 17th straight month on hold. The seven-day reverse repo at 1.40% is the main policy rate, and Pan has flagged a move to an overnight rate, but the LPR still prices most loans.
+
+The hold was widely expected and should have little direct market impact. The more important signals for traders now come from China’s short-term rates. Monday’s comments from PBOC Governor Pan Gongsheng about moving to an overnight policy rate matter more for the outlook, since the level at which any new rate is set will shape expectations for future easing. With Q3 growth back inside Beijing’s target range and the Federal Reserve tightening, the case for imminent cuts is weak, which limits downside pressure on the yuan from rate differentials. For the Australian and New Zealand dollars and for oil, an unchanged LPR offers no fresh stimulus signal for Chinese demand, keeping the focus on fiscal support and incoming activity data.
+
+Newswire cut:China kept its one-year loan prime rate at 3.0% and five-year at 3.5%, the 17th straight month on hold. The seven-day reverse repo at 1.40% is the main policy rate, and Pan has flagged a move to an overnight rate, but the LPR still prices most loans.
+
+One-line wrap:China’s lending benchmarks have not moved in 17 months, and with the central bank now steering through short-term rates, the LPR has become less a policy lever than a price tag on the country’s loans.
+
+China left its one-year loan prime rate at 3.0% and its five-year LPR at 3.5% on Tuesday, matching expectations.
+
+It is the 17th consecutive month without a change; both rates were last cut in May 2025.
+
+The PBOC’s seven-day reverse repo rate, at 1.40%, has been the main policy rate since 2024, with the LPR following its lead rather than acting as a lever in its own right.
+
+The LPR remains important as the reference rate for most bank loans, with the five-year tenor guiding mortgage pricing.
+
+PBOC Governor Pan Gongsheng said on Monday the central bank will study switching to an overnight policy rate and will allow larger firms to price loans off it instead of the LPR.
+
+Q3 GDP growth of 4.5%, above forecasts, has eased pressure for further easing.
+
+China left its benchmark lending rates unchanged for a 17th consecutive month on Tuesday, as expected, with the one-year loan prime rate held at 3.0% and the five-year LPR at 3.5%.
+
+The decision comes as the LPR’s role in Chinese monetary policy continues to shrink. Since a framework change in 2024, the People’s Bank of China has used its seven-day reverse repo rate, currently 1.40%, as its main policy rate. That is the rate the central bank sets directly to steer borrowing costs, and the LPR has followed its lead. With the seven-day rate unchanged, there was little reason for the benchmarks to move.
+
+The LPR has nonetheless kept an important job. It is compiled monthly from quotes submitted by a panel of 20 banks and serves as the reference rate for pricing most new and outstanding loans across the economy. The one-year rate anchors most corporate and household lending, while the five-year rate is the benchmark for mortgages. For borrowers, the LPR remains the number that most directly determines what they pay, even if it no longer drives policy.
+
+That role is set to narrow further. Speaking at the Financial Street Forum in Beijing on Monday, PBOC Governor Pan Gongsheng said the central bankwould study switching its main policy operations to an overnight tenor when the time is right, making the overnight reverse repo rate the main policy rate. He also said financially strong companies would be able to choose either the overnight rate or the LPR as the benchmark for floating-rate loans, while lending to households and smaller firms would remain mainly tied to the LPR. The central bank also plans to improve how LPR quotes are set.
+
+Economic conditions also argued against a cut.China’s economy grew 4.5% from a year earlier in the third quarter, slightly above forecasts and back at the bottom of Beijing’s growth target range, with retail sales and industrial output also beating expectations. Abroad, the Federal Reserve’s tightening has kept the gap between US and Chinese bond yields wide, adding to pressure on the yuan if Beijing were to ease. A Reuters poll conducted before the GDP release found economists expect the LPRs and the reserve requirement ratio to stay unchanged through the first quarter of 2027.
+
+Both LPRs were last cut in May 2025, by 10 basis points each. Attention now shifts to the timing of the overnight rate switch and the level at which the new policy rate is set, which will offer a clearer signal of the PBOC’s next move than the monthly LPR fixing.
+================================================================================
+
+================================================================================
+[2026-10-20 00:18 UTC] PBOC is expected to set the USD/CNY reference rate at 6.6813 – Reuters estimate
+URL: https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6813-reuters-estimate/
+Tags: CNY, CNH, pboc
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The fixing mechanism matters most right now because its message has shifted over the past month. For nearly a year, the PBOC has set its daily guidance weaker than market expectations, which traders read as an effort to slow the yuan's appreciation, and in late August that gap reached its widest since February, shortly after the yuan touched a three-and-a-half-year high. Through September, however, the midpoint has strengthened at a faster pace, narrowing its gap with market expectations and suggesting the central bank has eased its resistance to yuan gains. The fixing is still set weaker than models imply, so this looks like a loosening of the brakes rather than their removal. The balance Beijing is weighing is unchanged: a firmer currency supports capital stability and import costs, but too rapid a rise risks eroding export competitiveness while the domestic economy remains soft. The gap between each day's fixing and consensus estimates remains one of the clearest guides to how far the PBOC is willing to let the yuan run.
+
+The daily fixing is Beijing's quietest but clearest tool for telling markets how fast it wants the yuan to move, and after months of saying slow down, it has lately been saying go, gradually.
+
+The PBOC sets the daily USD/CNY reference rate, or midpoint, at around 0115 GMT, one of the most closely watched signals in Asian FX markets.
+
+China operates a managed floating exchange rate system, allowing the yuan to trade within a band of plus or minus 2% around the daily midpoint during onshore hours.
+
+The midpoint reflects a mix of inputs, including the prior day's close, moves in major currencies, broader international FX conditions and domestic factors such as capital flows and growth momentum, with policymakers retaining discretion over the final number.
+
+If market pressure pushes the yuan toward either edge of the band, the PBOC can intervene through direct buying or selling of yuan, liquidity adjustments, or guidance via state-owned banks.
+
+A stronger-than-expected fixing typically signals the PBOC is leaning against depreciation, while a weaker fixing can indicate tolerance for a softer currency or discomfort with the pace of gains.
+
+For nearly a year the fixing has been set weaker than market estimates, with the gap reaching its widest since February in late August.
+
+In September the PBOC strengthened the fixing for eight straight sessions, the longest run since 2023, and the midpoint reached its strongest level since February 2023.
+
+The yuan has pushed to its strongest levels since early 2023 onshore and since mid-2022 offshore, with Goldman Sachs expecting Beijing to remain comfortable with sustained but gradual appreciation.
+
+The People's Bank of China sets the daily USD/CNY reference rate at around 0115 GMT, a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. It has taken on added significance in recent weeks as policymakers have shifted from restraining the yuan's rise to guiding it higher.
+
+China operates a managed floating exchange rate system, under which the yuan is allowed to trade within a band of plus or minus 2% around the central midpoint set each trading day. That midpoint reflects a mix of inputs, including the previous day's closing price, movements in major currencies such as the US dollar, broader international FX conditions, and domestic considerations like capital flows, growth momentum and financial stability objectives. The calculation is not purely mechanical, giving policymakers room to use the fixing to guide market expectations.
+
+Once the midpoint is set, onshore USD/CNY trades freely within the allowable range. Should market pressure push the currency toward either edge of that band, the central bank can step in to smooth volatility, whether through direct buying or selling of yuan, adjustments to liquidity conditions, or guidance channelled through state-owned banks. As a result, the daily fixing is often read as a policy signal rather than a purely technical reference point. A stronger-than-expected midpoint typically suggests the PBOC is leaning against depreciation, while a weaker fixing can signal tolerance for a softer currency, or unease with how quickly the yuan is rising.
+
+That second reading has dominated for much of the past year. For nearly a year, the central bank set its daily guidance weaker than market expectations, a pattern traders and analysts interpreted as an attempt to slow the yuan's appreciation. The gap reached its widest since February in late August, shortly after the yuan touched a three-and-a-half-year high against the dollar.
+
+September has brought a clear change of tone. The midpoint has strengthened at a faster pace this month, narrowing its gap with market expectations and suggesting the PBOC has eased its resistance to yuan gains. The central bank strengthened the fixing for eight consecutive sessions, the longest streak since 2023, and the midpoint has since reached its strongest level since February 2023. The onshore yuan has traded at its strongest since January 2023, while the offshore rate has reached levels last seen in July 2022. Even so, the fixing is still being set well weaker than market estimates, with one recent midpoint more than 500 pips below a Reuters survey forecast, a reminder that Beijing is allowing appreciation on its own terms rather than stepping aside.
+
+The timing has been linked to diplomacy.
+
+The underlying tension is a familiar one. A firmer yuan supports capital stability and eases import costs, but a rapid rise risks undermining export competitiveness at a moment when China's broader economy continues to show signs of softness. For traders and investors, the gap between each day's fixing and consensus estimates remains one of the clearest windows into how Beijing is weighing that trade-off, and whether the recent green light for gains stays in place once the summit has passed.
+================================================================================
+
+================================================================================
+[2026-10-20 01:19 UTC] PBOC sets USD/ CNY mid-point today at 6.7200 (vs. estimate at 6.6813)
+URL: https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7200-vs-estimate-at-6-6813/
+Tags: CNY, CNH, pboc
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead, strongest for CNY since 2 February 2023
+
+The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. Morehereon this.
+
+PBOC zero 7-day reverse repos today (65bn mature so a net drain)
+================================================================================
+
