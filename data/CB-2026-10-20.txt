@@ -356,3 +356,111 @@ The PBOC allows the yuan to fluctuate within a +/- 2% range, around this referen
 PBOC zero 7-day reverse repos today (65bn mature so a net drain)
 ================================================================================
 
+================================================================================
+[2026-10-20 06:29 UTC] BOJ reportedly may upgrade inflation forecast, hold rates steady at next week's meeting
+URL: https://investinglive.com/central-banks/boj-reportedly-may-upgrade-inflation-forecast-hold-rates-steady-at-next-week-s-meeting/
+Tags: BOJ, JPY, Inflation, interest rates
+--------------------------------------------------------------------------------
+Summary
+
+The Japanese central bank looks poised to hold rates in October, leaving traders focused on growing inflation risks and a potential December rate hike
+
+The Reuters report is citing four sources familiar with the BOJ's thinking, in saying that policymakers may slightly upgrade their inflation forecast for the fiscal year 2027 as rising oil prices continue to feed through to consumer prices. However, the central bank is still expected to leave interest rates unchanged at 1.25% on 30 October.
+
+That is not all too surprising after the rate hike back in September. And in fact, traders are also pricing in virtually no chance of another rate hike for next week. As for December though? Well, that is a bit of a different story. Traders are assigning roughly 73% odds of another move in the final month of this year.
+
+And that is what markets should be focusing on, rather than being distracted by the immediate outlook next week.
+
+The report also suggests that policymakers are of the view that underlying price pressures haven't changed materially, with little evidence of a broader wage-price spiral taking hold. In other words, it is to say that the BOJ isn't necessarily all too worried about inflation running away just yet.
+
+As such, policymakers are trying to imply that they do have some breathing room to assess the impact of September's rate hike.
+
+Having said that, the central bank may not have the luxury to keep getting away with this sort of move. Higher oil prices, coupled with the risk of further yen weakness, could keep imported inflation elevated for longer. And if those pressures start feeding into broader price expectations, that will spell trouble for the BOJ if they decide to sit on their hands for too long.
+
+But even so, let's be reminded of the fact that raising interest rates will do little to solve Japan's plight. Another rate hike won't help in creating more barrels of oil to address the supply issue. And with regards to the yen, it's a slippery slope with the effectiveness of intervention efforts already proving to be rather questionable as of late.
+
+For now though, markets are agreeing that the BOJ can afford to wait in October. The bigger question is whether the central bank can still afford to wait in December and also for next year, amid pressures of needing to step up the pace of policy tightening.
+================================================================================
+
+================================================================================
+[2026-10-20 03:09 UTC] Daiwa: BOJ shifts focus from reaching 2% inflation to keeping it there, wages hold the key
+URL: https://investinglive.com/central-banks/daiwa-boj-shifts-focus-from-reaching-2-inflation-to-keeping-it-there-wages-hold-the-key/
+Tags: BOJ
+--------------------------------------------------------------------------------
+Summary
+
+Daiwa says the BOJ is moving from getting inflation to 2% to keeping it there, after Ueda said underlying inflation is near 2% and cannot rise further. A hold is seen on 30 October, with 2027 wage talks key to the timing of the next rate hike.
+
+Daiwa’s reading points to a BOJ that is not in a hurry but has not finished hiking, which keeps the yen supported on any sign that wage growth is becoming entrenched. A hold at the 29-30 October meeting, paired with an upgraded inflation assessment, would keep a December hike in play and could lift short-dated Japanese government bond yields. Oil is a key swing factor: Daiwa notes import prices have started rising again on higher crude, and any further jump in oil linked to the Iran war would add to the risk of inflation overshooting, strengthening the case for faster tightening. For Japanese equities, gradual hikes alongside solid capital spending are unlikely to derail the market, though a faster pace would test valuations. Long-dated JGBs, where yields have already risen above 3%, remain sensitive to any shift in the BOJ’s tone.
+
+After decades of trying to get inflation up to 2%, the Bank of Japan’s new problem is making sure it stays there, and Daiwa says the answer will be found in next spring’s pay packets.
+
+Daiwa says the BOJ is shifting from trying to lift underlying inflation to 2% to keeping it stable around that level.
+
+Governor Kazuo Ueda said on 16 October that underlying inflation is broadly close to 2% and that a further rise from here cannot be tolerated.
+
+The BOJ is expected to hold its 1.25% policy rate on 29-30 October but may upgrade its inflation assessment, with a December hike reportedly not ruled out.
+
+Japan’s largest union group, Rengo, is considering seeking pay rises of 5% or more in 2027 for a fourth straight year, with an aim of 6%.
+
+Daiwa says the durability and breadth of wage gains, including at smaller firms, will be key to the timing of future hikes.
+
+Import prices have started rising again on higher crude oil, adding to inflation risks.
+
+The Bank of Japan is entering a new phase in which its goal is no longer to lift inflation to 2% but to keep it there, according to Daiwa Securities, which says the durability of wage growth will be key to the timing of further rate increases.
+
+At a press conference on 16 October, Governor Kazuo Ueda said underlying inflation was broadly close to 2% and that a further rise from that level could not be tolerated. He indicated that while the central bank had previously been willing to let underlying inflation climb toward its target, keeping it firmly anchored around 2% would now be a central policy objective. Daiwa said the remarks confirm a shift it had previously identified, from a policy of reaching 2% to one of stabilising inflation at that level.
+
+Ueda said the policy board would discuss in depth whether underlying inflation has reached 2% at its meeting on 29 and 30 October. Citing reports, Daiwa said the BOJ is likely to leave its policy rate at 1.25% at that meeting but may upgrade its assessment of underlying inflation to broadly around 2%. That would not be treated as an immediate achievement of the price target, and the central bank is expected to keep raising rates while financial conditions remain accommodative, with a December hike reportedly not ruled out.
+
+Daiwa said there is no need to accelerate the pace of rate increases, given that consumer spending remains weak even as business investment holds up. Core machinery orders rose 5.2% in August, pointing to resilient capital spending, including in AI-related sectors. Equally, it argued that inflation pressures have not clearly faded. Corporate goods prices rose 6.8% from a year earlier in September, easing from 7.6% in August but still elevated, while import prices have begun rising again on the back of higher crude oil prices.
+
+The bank sees next year’s spring wage negotiations as the key test of whether inflation has become established. Rengo, Japan’s largest trade union federation, is reportedly considering calling for pay rises of 5% or more in 2027, the fourth straight year at that level, with a higher target of 6% or more for smaller firms and an aim of around 6% overall. This year’s negotiations delivered rises of about 5%, though gains at smaller companies were lower at around 4.7%.
+
+Daiwa said what matters is not just the headline figure but whether strong pay rises become a lasting norm and spread from large companies to smaller ones. More detail will emerge over the coming months, including Rengo’s basic plan in October and the business lobby Keidanren’s position in November, giving the BOJ a clearer read by its December meeting.
+
+For now, Daiwa expects the October meeting to centre on the BOJ’s assessment of underlying inflation, with evidence of entrenched wage and price gains, and any signs of an overshoot, deciding the timing and pace of future hikes.
+================================================================================
+
+================================================================================
+[2026-10-20 02:15 UTC] PBOC to run daily overnight reverse repos to Nov 2 in first step after policy rate signal
+URL: https://investinglive.com/central-banks/pboc-to-run-daily-overnight-reverse-repos-to-nov-2-in-first-step-after-policy-rate-signal/
+Tags: pboc
+--------------------------------------------------------------------------------
+Summary
+
+The PBOC will run daily overnight reverse repos from 21 October to 2 November via fixed-rate tenders capped at 1 trillion yuan a day, with foreign banks eligible. It comes a day after Pan flagged an overnight policy rate. The rate is not yet known.
+
+The direct effect should be calmer overnight funding in China’s interbank market through month-end, with the 1 trillion yuan daily cap large enough to stop short-term rates spiking. The bigger market question is the rate the operations carry, which has not been confirmed. If it is set near the current overnight market level of around 1.25%, below the seven-day policy rate of 1.40%, traders may read it as a preview of a lower policy anchor, which would tend to support Chinese government bonds and could weigh on the yuan. If it is set at the top of the existing corridor, it would mainly act as a ceiling and carry little policy signal. For the Australian and New Zealand dollars and for oil, the operations matter only if they turn out to be the first step toward genuine easing that lifts Chinese demand.
+
+A day after saying it would study an overnight policy rate, China’s central bank has started using one every day, but until it reveals the price, markets cannot tell whether this is a dress rehearsal or a month-end safety net.
+
+The People’s Bank of China will conduct overnight reverse repo operations daily from 21 October to 2 November.
+
+The operations will use fixed-rate, quantity-based tenders, capped at 1 trillion yuan a day.
+
+Foreign-invested banks that act as RMB settlement banks will be eligible counterparties.
+
+The move follows Governor Pan Gongsheng’s comments on Monday that the PBOC will study making the overnight rate its main policy rate.
+
+The rate for the operations has not yet been confirmed and will be the key signal for markets.
+
+It is unclear whether the operations will continue beyond 2 November or are mainly aimed at smoothing month-end liquidity.
+
+China’s central bank will carry out overnight reverse repo operations every day from 21 October to 2 November, putting its newest liquidity tool into regular use a day after Governor Pan Gongsheng said the PBOC would study making the overnight rate its main policy rate.
+
+The People’s Bank of China said the operations will be conducted through fixed-rate, quantity-based tenders, with a cap of 1 trillion yuan a day. In that format, the central bank sets the interest rate and banks bid for the amount of funding they want at that rate. Foreign-invested banks that act as yuan settlement banks will also be eligible to take part.
+
+A reverse repo is a short-term loan from the central bank to commercial banks, secured against bonds. The PBOC currently uses its seven-day reverse repo rate, at 1.40%, as its main policy rate. It introduced overnight operations in June, priced in a corridor around the seven-day rate, but has used them only occasionally until now.
+
+Speaking at the Financial Street Forum in Beijing on Monday, Pan said the overnight interbank rate had effectively already become the central bank’s target and that switching policy operations to an overnight tenor would make interest rate control more precise. He also announced wider access to central bank funding for foreign bank subsidiaries, a theme echoed in Tuesday’s decision to include foreign-invested settlement banks.
+
+Several important details are not yet known. The most significant is the rate. If the operations are priced at the top of the existing corridor, they would act mainly as a ceiling on overnight funding costs. If they are priced closer to the current overnight market rate of around 1.25%, markets may see them as an early test of a lower policy anchor.
+
+It is also unclear whether the daily operations will continue after 2 November. A fixed window could mean the move is mainly about smoothing liquidity over month-end, when Chinese money markets can tighten. An extension would point more clearly toward a permanent shift. The PBOC has not said whether the overnight operations will run alongside its seven-day operations or gradually replace them, and take-up by banks will show how much demand there is for the new facility.
+
+The rate announced with the first operation on Wednesday, and any guidance on what happens after 2 November, will offer the clearest signals yet on how quickly the PBOC intends to move to an overnight policy rate.
+
+Governor Pan Gongsheng
+================================================================================
+
