@@ -246,3 +246,19 @@ Source: nar.realtor
 Pending home sales in September decreased by 7.3% month-over-month and 11.3% year-over-year, according to the National Association of REALTORS® Pending Home Sales report. The report helps the real estate ecosystem—including agents, homebuyers and sellers—better understand the housing market by providing data on the level of home sales under contract. ...
 ================================================================================
 
+================================================================================
+[2026-10-20 20:43 UTC] API: Crude -4.93M, Cushing +0.9M, Gasoline -2.0M, Distillate -2.6M  (impact: low)
+URL: https://www.forexfactory.com/news/1432413-api-crude-493m-cushing-09m-gasoline-20m-distillate
+Source: @captgirish1
+--------------------------------------------------------------------------------
+API: Crude: -4.93M Cushing: +0.9M Gasoline: -2.0M Distillate: -2.6M
+================================================================================
+
+================================================================================
+[2026-10-20 18:30 UTC] US to offer Putin face-to-face talks with Zelenskyy and Trump  (impact: low)
+URL: https://www.forexfactory.com/news/1432391-us-to-offer-putin-face-to-face-talks-with-zelenskyy
+Source: politico.eu
+--------------------------------------------------------------------------------
+U.S. special envoy Steve Witkoff will offer Vladimir Putin direct talks with President Donald Trump and Ukraine’s Volodymyr Zelenskyy in an effort to secure a ceasefire. The proposal for three-way leaders’ negotiations on a peace proposal, which would be the first such summit since Russia’s full-scale invasion of Ukraine began in 2022, was announced at a ...
+================================================================================
+
