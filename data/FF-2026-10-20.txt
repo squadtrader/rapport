@@ -262,3 +262,27 @@ Source: politico.eu
 U.S. special envoy Steve Witkoff will offer Vladimir Putin direct talks with President Donald Trump and Ukraine’s Volodymyr Zelenskyy in an effort to secure a ceasefire. The proposal for three-way leaders’ negotiations on a peace proposal, which would be the first such summit since Russia’s full-scale invasion of Ukraine began in 2022, was announced at a ...
 ================================================================================
 
+================================================================================
+[2026-10-20 23:53 UTC] Japan Trade Balance Total (Seasonally Adjusted)  (impact: low)
+URL: https://www.forexfactory.com/news/1432396-japan-trade-balance-total-seasonally-adjusted
+Source: customs.go.jp
+--------------------------------------------------------------------------------
+table
+================================================================================
+
+================================================================================
+[2026-10-20 22:21 UTC] RBA's Hauser: Labor market is softening, though unemployment remains low  (impact: low)
+URL: https://www.forexfactory.com/news/1432422-rbas-hauser-labor-market-is-softening-though-unemployment
+Source: @MarketsCapApp
+--------------------------------------------------------------------------------
+RBA's Hauser: Labor market is softening, though unemployment remains lowRBA's Hauser: September labor report was somewhat weaker than expectedRBA's Hauser says capacity constraints are more intense than anticipated
+================================================================================
+
+================================================================================
+[2026-10-20 21:55 UTC] RBA's Hauser: Monetary policy effective, but inflation outlook deteriorates  (impact: medium)
+URL: https://www.forexfactory.com/news/1432419-rbas-hauser-monetary-policy-effective-but-inflation-outlook
+Source: @financialjuice
+--------------------------------------------------------------------------------
+RBA's Hauser: Monetary policy effective, but inflation outlook deterioratesTo keep inflation expectations anchored, RBA's Hauser says policymakers must respond to supply shocksRBA's Hauser: Observed some easing in job data and housing
+================================================================================
+
