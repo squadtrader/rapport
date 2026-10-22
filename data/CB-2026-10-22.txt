@@ -366,3 +366,25 @@ PBOC inject 173bn yuan via overnight reverse repos
 conducts zero 7 day RRS
 ================================================================================
 
+================================================================================
+[2026-10-22 18:19 UTC] The market now sees a 22% chance the Fed doesn't hike again this year
+URL: https://investinglive.com/central-banks/the-market-now-sees-a-22-chance-the-fed-doesn-t-hike-again-this-year/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+The market is scaling back its bets on a Fed rate hike
+
+The Fed funds futures marketr now sees a 22% that the Federal Reserve is done hiking rates for this year.
+
+That's a big swing to where we were after the CPI report, which is the most-revelant number the Fed should be thinking about next week. Instead, the market is focused on how the FOMC will react to the stock market, which is slumping on AI capital raising fears.
+
+For next week's meeting, the market now sees only a 5% chance of a hike, the lowest this month. For December, it's still at a 78% chance of a hike but no longer a sure thing. January pricing is at 27 basis points, which is barely pricing in a single hike.
+
+Looking further out the curve, the market sees 63.5 bps this year, a far cry from the 80-90 bps priced in earlier this month.
+
+The fixed income market could be taking a view that AI bonds are now tapped out and capital raising will now fall to equity. That's bad news for share prices and Meta is down 7.5% today but it could also mean less issuance of debt, which could limit crowding out in bonds. The lack of capital could also be causing jitters about the value in the broader AI build out and signal a retrechment in the entire trade.
+
+The problem for the Fed is that a slump in AI capital raises might not be the tonic to curb inflation. The Iran blockade continues and oil prices are up $2.35 to $99.50 today with fuel prices much higher still. That will be plenty of fuel for the hawks and make for a lively debate (and maybe a split vote?) next week.
+================================================================================
+
