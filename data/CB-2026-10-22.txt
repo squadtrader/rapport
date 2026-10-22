@@ -272,3 +272,97 @@ As a result, the daily fixing is often interpreted as a policy signal rather tha
 In periods of heightened global volatility, such as shifts in US rate expectations, trade tensions or capital flow pressures, the fixing takes on added significance. For investors, it provides insight into Beijing’s currency priorities, balancing competitiveness, capital stability and financial market confidence.
 ================================================================================
 
+================================================================================
+[2026-10-22 01:31 UTC] Bank of Korea holds rate at 3% after back-to-back hikes, keeps door open to November move
+URL: https://investinglive.com/central-banks/bank-of-korea-holds-rate-at-3-after-back-to-back-hikes-keeps-door-open-to-november-move/
+Tags: KRW
+--------------------------------------------------------------------------------
+Summary
+
+The Bank of Korea held its policy rate at 3.00%, as all 34 analysts polled by Reuters expected, pausing after hikes in July and August. Chip-driven export strength and above-target inflation keep further tightening in play, with a November hike seen.
+
+With the hold fully priced, attention shifts to Governor Shin’s news conference at 02:10 GMT for guidance on whether November remains live. A clear signal that the pause is temporary would likely support the won and push short-dated Korean government bond yields higher. A softer emphasis on monitoring the impact of past hikes could weigh on the currency. The board’s caution over recent stock market volatility suggests policymakers are wary of adding pressure to equities, which may offer some relief for the KOSPI. Chipmakers remain at the centre of the growth story given record AI-driven exports. Energy prices are a key upside risk to inflation for Korea as a major oil importer. That leaves the outlook sensitive to any escalation in the Middle East that lifts crude.
+
+---The Bank of Korea has stopped to catch its breath rather than end its tightening, with record chip exports and sticky inflation keeping a November hike firmly in view.
+
+The Bank of Korea held its seven-day repo rate at 3.00%, as forecast by all 34 analysts in a Reuters poll
+
+The decision follows quarter-point hikes in July and August, the central bank’s first consecutive increases in more than three years
+
+Governor Shin Hyun Song has said policy will remain restrictive until inflation returns to target
+
+Headline inflation slowed to 2.9% in September from 3.1% in August, still above the 2% target
+
+Exports for January to September topped $800 billion for the first time, driven by global AI spending
+
+The median forecast in the Reuters survey sees a hike to 3.25% in November, in line with the central bank’s dot plot
+
+The Bank of Korea left its benchmark interest rate unchanged on Thursday, pausing after back-to-back quarter-point hikes, though strong chip-driven growth and above-target inflation keep further tightening on the table.
+
+The seven-member monetary policy board voted to hold the seven-day repurchase rate at 3.00%, Reuters reported, a decision forecast by all 34 analysts in its survey. The central bank raised rates in July and August, its first consecutive increases in more than three years. Governor Shin Hyun Song said afterward that a gradual pace of tightening was preferred.
+
+Shin reiterated at an International Monetary Fund event on October 13 that policy will stay restrictive until inflation converges with the central bank’s target. Analysts said ahead of the meeting that a pause would slow the pace of tightening and soften its hawkish intensity. They noted the central bank had committed to monitoring the effects of its back-to-back hikes, and that recent market volatility, particularly in equities, made a hawkish decision less likely.
+
+Headline consumer inflation slowed to 2.9% in September from 3.1% in August but remains above the Bank of Korea’s 2% target. Growth is being driven by exports, which are benefiting from global spending on artificial intelligence. Shipments for January to September exceeded $800 billion for the first time on record, underscoring the strength of South Korea’s semiconductor sector.
+
+With growth expected to stay firm and inflation above target, the median forecast in the Reuters survey points to a hike to 3.25% at the Bank of Korea’s November meeting. That would be in line with the central bank’s own dot plot projection, which sets out policymakers’ expected path for rates.
+
+The decision means the pause is likely to be read as a change in pace rather than direction. Markets will look to Shin’s news conference, due at 02:10 GMT, for signals on whether policymakers see a November hike as the most likely next step, and how they weigh firm growth and inflation against recent financial market volatility.
+================================================================================
+
+================================================================================
+[2026-10-22 02:27 UTC] Most analysts now expect the next BOJ rate hike in December, none see October move: Bloomberg
+URL: https://investinglive.com/central-banks/most-analysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bloomberg/
+Tags: BOJ, JPY
+--------------------------------------------------------------------------------
+Summary
+
+83% of economists in a Bloomberg survey expect the Bank of Japan to raise its 1.25% policy rate in December, up from 35% last month, with none seeing an October 30 hike. The focus now is whether the BOJ says underlying inflation has hit its 2% goal.
+
+With an October 30 move ruled out by every economist surveyed, the yen’s direction is likely to hinge on the tone of the BOJ’s statement and outlook report. A declaration that underlying inflation has reached 2% would mark a historic shift and strengthen expectations of a December hike. That could support the yen and push Japanese government bond yields higher. Board voting is another swing factor: further dissent from Takaichi-appointed members would likely weigh on the yen, while a call for a hike by a hawkish member would have the opposite effect. Oil prices remain a key influence on Japan’s inflation outlook as a major energy importer. Any escalation in the Middle East that lifts crude would add to the case for steady quarterly hikes, while also pressuring Japan’s trade balance and the yen.
+
+BOJ watchers have moved firmly toward a December hike, and the bigger question this month is whether Japan’s central bank finally declares victory on 2% inflation after 13 years of trying.
+
+83% of economists surveyed by Bloomberg expect the Bank of Japan’s next rate hike in December, up from 35% a month ago, when January was the most popular pick
+
+None expect a move at the October 30 meeting; the policy rate stands at 1.25%
+
+67% now expect the BOJ to hike every three months, up from 46%, and the median terminal rate forecast is unchanged at 1.75%
+
+The key focus in October is whether the BOJ judges that underlying inflation has reached its 2% target, which it has not declared since setting the goal in 2013
+
+About two-thirds of economists think Prime Minister Sanae Takaichi’s government has softened its stance on rate hikes, after the US urged Japan to drop reflationary policies
+
+September’s hike drew two dissents from Takaichi-appointed board members, keeping voting patterns in focus
+
+More than 80% of Bank of Japan watchers now expect the central bank’s next interest rate increase to come in December, according to a Bloomberg survey, with none forecasting a move when its next meeting concludes on October 30.
+
+Some 83% of economists expect the BOJ to raise borrowing costs from 1.25% at its meeting ending December 18, up sharply from 35% in last month’s survey, when January was the most popular pick. Two-thirds of respondents also expect the BOJ to hike every three months, up from 46%. That suggests economists see it maintaining its current pace after September’s increase, its second in three months and the fastest tightening since 1990. The median forecast for the peak rate in this cycle held at 1.75%.
+
+Many economists said the main focus of this month’s meeting will be whether the BOJ concludes that underlying inflation has reached its 2% target, something it has not declared since adopting the goal in 2013. Economists at Morgan Stanley MUFG Securities expect the bank to signal that underlying inflation is around 2%, and to deliver a hawkish hold. Economists expect the quarterly outlook report released alongside the decision to leave inflation projections broadly unchanged, apart from a slight upgrade for next fiscal year.
+
+September’s hike took the policy rate into the BOJ’s estimated neutral range of 1.1% to 2.5% for the first time, increasing market interest in how high rates will ultimately go.
+
+Politics remains a factor. Prime Minister Sanae Takaichi is known as a supporter of monetary easing. However, after US Treasury Secretary Scott Bessent urged Japan to drop reflationary policies, Takaichi and her ministers said they are not pursuing reflation. About two-thirds of economists in the survey now think the government has softened its stance on BOJ hikes. Strategists at Mitsubishi UFJ Morgan Stanley Securities said the prime minister’s office probably does not welcome further increases, but is likely to tacitly accept them for now, largely because of relations with the US.
+
+Board votes are also under scrutiny. September’s increase drew dissents from Toichiro Asada and Ayano Sato, both Takaichi appointees, which helped weaken the yen. Some economists see a chance that hawkish board member Hajime Takata will push for a back-to-back hike at this month’s meeting.
+
+Bank of Japan Governor Ueda
+================================================================================
+
+================================================================================
+[2026-10-22 01:15 UTC] PBOC sets USD/ CNY reference rate for today at 6.7195 (vs. estimate at 6.6756)
+URL: https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7195-vs-estimate-at-6-6756/
+Tags: CNY, CNH, pboc
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. Morehereon this.
+
+PBOC inject 173bn yuan via overnight reverse repos
+
+conducts zero 7 day RRS
+================================================================================
+
