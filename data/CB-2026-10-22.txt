@@ -388,3 +388,85 @@ The fixed income market could be taking a view that AI bonds are now tapped out 
 The problem for the Fed is that a slump in AI capital raises might not be the tonic to curb inflation. The Iran blockade continues and oil prices are up $2.35 to $99.50 today with fuel prices much higher still. That will be plenty of fuel for the hawks and make for a lively debate (and maybe a split vote?) next week.
 ================================================================================
 
+================================================================================
+[2026-10-22 22:37 UTC] ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12
+URL: https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/
+Tags: ECB
+--------------------------------------------------------------------------------
+Summary
+
+MUFG says the bond sell-off and French fiscal risks have ruled out an October ECB rate hike, but still expects 25bp increases in December and early 2027, while its 45% base case of French fiscal drift points to a EUR/USD range of 1.08-1.14.
+
+The French-German 10-year spread is the key gauge: MUFG’s scenarios put it at about 170 basis points in its base case and above 200 in a crisis, levels last associated with the euro zone debt crisis. EUR/USD has been tracking the two-year swap spread between the euro and the dollar closely, so any further scaling back of ECB hike expectations is likely to weigh on the currency, while a firm December signal would offer some support. In bonds, heavy redemptions from the ECB’s portfolio in coming months put the pace of quantitative tightening in focus. Any hint of a slowdown could ease pressure on French debt. Energy remains a swing factor: MUFG’s forecasts assume supply risks fade, so persistently high oil and gas prices tied to the Middle East conflict would challenge both its rate path and its call for a gradual euro recovery.
+
+MUFG expects the ECB to hold next week as higher bond yields and French fiscal stress tighten conditions for it, but still sees two more hikes, with France the biggest risk to the euro.
+
+MUFG says the bond sell-off and French fiscal risks have removed the case for an October ECB rate hike, as officials highlight the drag from tighter financial conditions.
+
+It still expects a 25 basis point hike in December and another in the first quarter of 2027, taking the policy rate to 3.00%, then a cut back to 2.75% by the third quarter of 2027.
+
+Resilient activity and higher gas prices since September justify moving into slightly restrictive territory on a risk-management basis, while underlying inflation remains contained.
+
+MUFG’s base case, given 45% probability, is continued French fiscal drift, with the deficit at 5.6% to 6.0% of GDP, the French-German spread near 170 basis points, and EUR/USD in a 1.08 to 1.14 range.
+
+In a deeper credibility crisis (15%), it sees the spread above 200 basis points and EUR/USD between 1.02 and 1.10, with the ECB’s TPI potentially in focus.
+
+MUFG forecasts EUR/USD at 1.12 by year-end, recovering gradually to 1.18 by the third quarter of 2027.
+
+The European Central Bank is set to keep rates on hold at next week’s policy meeting, but MUFG argues the tightening cycle is not over, even as rising bond yields and French fiscal stress do some of the work for policymakers.
+
+In its October European outlook, MUFG said the bond market sell-off and growing fiscal risks in France have taken an October rate hike off the table. ECB officials have increasingly pointed to the impact of tighter financial conditions on the outlook, and underlying inflation pressures remain contained. Even so, the bank’s strategists argue that resilient economic activity and higher gas prices since September still justify a move into slightly restrictive territory as a risk-management measure. MUFG expects a 25 basis point hike in December and another in the first quarter of 2027, taking the policy rate to 3.00%. It then sees the ECB cutting back to 2.75% by the third quarter of 2027, a path that assumes energy supply risks fade.
+
+France is at the centre of the outlook. MUFG notes that a fragmented parliament has led successive governments to miss fiscal targets repeatedly, leaving the deficit close to 6% of GDP despite several consolidation plans. With public debt around 120% of GDP, the bank says France has little room for further slippage and is highly exposed to weaker growth or a rise in borrowing costs. The IMF’s latest forecasts already show France as the clear outlier among major European economies, with growth seen at just 0.4% this year.
+
+The strain is visible in the bond market. The spread between French and German 10-year yields has widened to levels last seen during the euro zone debt crisis, while France’s annual interest bill has climbed to a record. MUFG suggests that a high and rising share of French debt held by foreign investors may have amplified the sell-off. Contagion has so far been limited, with Italian spreads relatively contained.
+
+The bank sets out four scenarios ahead of France’s presidential election, in which it describes Marine Le Pen as the frontrunner. Its base case, given 45% probability, is continued drift: the government survives by relying on procedural mechanisms, measures are diluted or delayed, and the deficit stays between 5.6% and 6.0% of GDP. In that case, MUFG sees the French-German spread around 170 basis points and EUR/USD in a 1.08 to 1.14 range. It would not force an immediate ECB response, but quantitative tightening could come under review.
+
+A deeper credibility crisis, at 15%, would bring acute political instability, a recession and a deficit well above 6% in 2027. That would push the spread above 200 basis points and drive EUR/USD down to between 1.02 and 1.10, with investors looking to the ECB’s Transmission Protection Instrument as a potential backstop. On the more positive side, limited consolidation (35%) would leave the spread near 110 basis points, while faster consolidation (5%) would narrow it to about 90 basis points and support EUR/USD in a 1.12 to 1.18 range.
+
+For the currency, MUFG says the scaling back of ECB hike expectations has already helped weaken the euro, which has closely tracked short-term rate differentials with the US. The bank expects the dollar to remain stronger for longer. It forecasts EUR/USD at 1.12 at the end of this year before a gradual recovery to 1.14 in the first quarter of 2027, 1.16 in the second and 1.18 in the third.
+
+With policymakers in their quiet period, next week’s statement and press conference will be watched for how much weight the ECB gives to tighter financial conditions and French fiscal risks, and whether it keeps the door open to a December move.
+================================================================================
+
+================================================================================
+[2026-10-22 21:31 UTC] ECB’s Panetta says rising yields a drag on growth, not a crisis, ahead of rate meeting
+URL: https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/
+Tags: ECB, EUR
+--------------------------------------------------------------------------------
+Summary
+
+ECB policymaker Panetta said rising bond yields, led by the US, will weigh on euro zone growth but do not amount to a crisis, a tightening in financial conditions that could help contain energy-driven inflation ahead of next week’s ECB meeting.
+
+Panetta’s remarks put the focus on sovereign spreads, especially French and Italian debt against German Bunds, as the market’s main stress gauge in the euro zone. If US yields keep rising, the spillover he describes could push periphery spreads wider, a risk for Italian bonds given his own warning. For the euro, a growth gap that favours the US alongside higher US yields is a headwind, even with the ECB still facing inflation near double its target. Oil remains the swing factor: sustained high energy prices keep inflation pressure on the ECB, while the drag from tighter financial conditions points the other way. That tension is likely to shape how markets read next week’s decision.
+
+-With policymakers in their pre-meeting quiet period, Panetta’s warning on bond yields is a reminder that markets may already be doing some of the ECB’s tightening for it.
+
+Bank of Italy Governor Fabio Panetta said the rise in bond yields will weigh on the euro zone economy but is not critical at this stage.
+
+He described the bond sell-off as global and led by the US, where growth and inflation have beaten expectations, while European growth is weaker.
+
+Panetta pointed to France’s high debt and deficits as a source of pressure, said Germany’s stronger finances have limited its yield rise, and noted spillovers to Italian borrowing costs.
+
+Portugal’s central bank governor Alvaro Santos Pereira called for deeper EU integration in services, transport and energy.
+
+The ECB is expected to leave rates unchanged at next week’s meeting, and policymakers are in a quiet period on monetary policy.
+
+Euro zone inflation is running at almost double the ECB’s 2% target because of surging energy costs.
+
+European Central Bank Governing Council member Fabio Panetta said the recent rise in bond yields will hold back the euro zone economy, though he does not see it as critical for now. His comments come as policymakers prepare for next week’s monetary policy meeting.
+
+Speaking in Turin on Wednesday, the Bank of Italy governor described the move in debt markets as a global phenomenon, driven over the past week by the US, where both growth and inflation have come in stronger than expected. The difficulty for Europe, he said, is that higher US rates come with firmer growth, while expansion in the euro zone is less robust. He described the result as a drag on growth rather than a crisis, according to Bloomberg.
+
+Panetta also pointed to uneven pressure within the bloc. Germany has seen a smaller rise in yields thanks to its stronger public finances, he said, while France’s persistently high debt and budget deficits have kept attention on the bloc’s second-largest economy. He noted that sovereign debt tensions can push up borrowing costs in Italy, and that higher long-term US rates tend to spill over into European markets, including Italian financing costs.
+
+His comments add to warnings from other ECB officials that tighter financial conditions could slow growth. A slowdown could also help contain inflation, which surging energy costs have pushed to almost double the ECB’s 2% target.
+
+Separately on Thursday, Portugal’s central bank governor Alvaro Santos Pereira, also an ECB policymaker, called for renewed momentum behind European integration, Reuters reported. He said Europe’s difficult geopolitical environment and its technological shortcomings show the need to deepen the single market in services, transport and energy. The single market has removed many barriers, he said, but those that remain are harder to fix because they are rooted in national institutions and rules.
+
+Neither official addressed the rate outlook directly, as ECB policymakers are in a one-week quiet period before the meeting, when they cannot comment on monetary policy. Still, the two speeches point to the same problem from different angles: Panetta to the cyclical drag from higher borrowing costs, and Santos Pereira to the structural weaknesses that limit how much growth the euro zone can generate.
+
+That matters for the policy debate. If market-driven increases in yields are already tightening financial conditions, the case for policymakers to add to that tightening themselves becomes harder to make, at least while growth remains fragile. The ECB is widely expected to keep rates unchanged next week. Markets will watch how much weight the statement and press conference give to financial conditions, French fiscal risks and the energy-driven inflation outlook. That balance is likely to shape expectations for the meetings that follow.
+================================================================================
+
