@@ -170,3 +170,105 @@ Economists broadly view any third-quarter easing as temporary. Renewed hostiliti
 The core inflation detail may matter as much as the headline. ANZ has said the RBNZ will be watching for signs that higher fuel costs are spreading into broader price pressures. That test will shape not only next week’s decision but also the path into December, when the bank is next scheduled to publish fresh forecasts.
 ================================================================================
 
+================================================================================
+[2026-10-21 22:52 UTC] Bank of Korea expected to hold rates today after two hikes, tightening cycle seen intact
+URL: https://investinglive.com/central-banks/bank-of-korea-expected-to-hold-rates-today-after-two-hikes-tightening-cycle-seen-intact/
+Tags: KRW
+--------------------------------------------------------------------------------
+Summary
+
+All six economists in a Yonhap survey expect the Bank of Korea to hold rates today after hikes in July and August, pausing rather than making a rare third straight move, as strong chip exports and broad price pressures keep further hikes in play.
+
+A hold is fully expected, so the market reaction is likely to hinge on the tone of the statement and any signal on the timing of the next hike. A hawkish hold that keeps a further increase firmly on the table would likely support the won and push short-dated Korean government bond yields higher. Any hint that the cycle is nearing its end could weigh on the currency. For equities, a pause offers some relief to rate-sensitive sectors. The semiconductor-led export boom underpinning growth keeps chipmakers at the centre of the market’s growth story. A record-scale current account surplus provides an underlying source of support for the won, even as policy expectations drive day-to-day moves.
+
+-The Bank of Korea is expected to catch its breath today rather than call time on tightening, with booming chip exports and stubborn price pressures keeping the next hike in view.
+
+All six economists surveyed by Yonhap expect the Bank of Korea to leave its benchmark rate unchanged today
+
+The Bank of Korea base rate is currently 3.00%
+
+The central bank raised rates in July and August, and a third consecutive hike would be rare
+
+Economists expect it to keep a tightening stance, pausing to adjust the pace of policy and assess the timing of further increases
+
+Strong semiconductor exports are driving growth, while inflation pressures are coming from both supply and demand
+
+The tightening cycle may continue in the short term, according to the survey
+
+South Korea’s current account surplus for January to August reached about $279 billion, nearly four times the roughly $70 billion a year earlier
+
+Announcment due at  GMT / 2100 US Eastern time
+
+The Bank of Korea is expected to leave interest rates unchanged at its policy meeting today, pausing after two consecutive hikes, though economists say its tightening cycle is not yet over.
+
+All six economists surveyed by Yonhap News Agency expect the central bank to hold its benchmark rate, which stands at 3.00% following increases in July and August. Respondents said the Bank of Korea is likely to maintain its tight policy stance. However, they see a pause as more likely than a rare third straight hike, giving policymakers room to adjust the pace of tightening and judge when further increases might be needed.
+
+The economists pointed to a backdrop that still argues for tighter policy. Strong semiconductor exports are driving economic growth, while inflation is facing upward pressure from both supply-side and demand-side factors. Taken together, those conditions suggest the hiking cycle could continue in the near term, according to the survey.
+
+The strength of the export sector is reflected in South Korea’s external accounts. The cumulative current account surplus for January to August reached about $279 billion, nearly four times the roughly $70 billion recorded in the same period last year. The surplus highlights how heavily the economy is benefiting from global demand for memory chips and other semiconductor products, a key source of growth that has given the central bank room to tighten without derailing the expansion.
+
+A hold would mark a shift in tempo rather than direction. Markets are likely to focus closely on the central bank’s statement and on any guidance about the timing of the next move, for signals on whether policymakers see a further hike as likely in the coming months. The balance between growth driven by strong exports and persistent price pressures will be central to that assessment, alongside the outlook for the won and domestic demand.
+================================================================================
+
+================================================================================
+[2026-10-21 23:44 UTC] BoE preview: MUFG expects November rate hike as energy shock pushes UK inflation above 4%
+URL: https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/
+Tags: BOE, GBP
+--------------------------------------------------------------------------------
+Summary
+
+MUFG expects the Bank of England to hike by 25bp on November 5 and again in February to a 4.25% peak, saying rising energy costs will push UK inflation above 4% while firm growth, a steadier labour market and sticky underlying prices limit patience.
+
+A hike on November 5 would extend the energy-driven tightening seen across central banks. Any guidance pointing to a February follow-up would likely support sterling, particularly against currencies where central banks are seen as slower to respond. Gilts look the more vulnerable asset: 10-year UK yields already sit at the top of the G7 range, and further tightening alongside reduced fiscal headroom ahead of the Budget could keep pressure on longer-dated debt. For equities, higher rates and energy costs weigh on domestically focused UK stocks, while the FTSE 100’s energy-heavy constituents offer some offset. Oil and gas remain the key swing factor: with household energy bills driving the expected rise in inflation, any further spike in prices linked to the Middle East war would strengthen the case for a longer hiking cycle.
+
+MUFG says the Bank of England cannot look through this energy shock the way it might like, because the UK economy is simply too strong to make waiting look safe.
+
+MUFG expects the Bank of England to raise rates by 25 basis points at its next meeting, with another hike in February to a 4.25% peak
+
+UK headline inflation is seen rising above 4% in coming months as higher energy prices feed through to household bills
+
+Energy prices have stayed elevated for longer than expected and have risen further in recent months, MUFG says
+
+A stabilising labour market, healthy growth and elevated underlying inflation leave the Bank of England struggling to look through the shock
+
+MUFG says UK Q3 GDP is tracking at about 0.65% quarter on quarter, and it forecasts growth of 1.5% in 2026 and 1.4% in 2027, above IMF projections
+
+Higher borrowing costs may have cut fiscal headroom to around £15 billion ahead of the Budget
+
+The Bank of England is likely to raise interest rates at its next meeting, as higher energy prices push UK inflation back above 4%, according to MUFG, which expects a further increase in February.
+
+In its European macro and market outlook, MUFG said it expects a 25 basis point hike at the Bank of England’s next policy decision, due on November 5, followed by another in February, taking Bank Rate to a terminal level of 4.25%. The bank said energy prices have remained elevated for longer than anticipated and have moved higher in recent months. As those costs feed through to household bills, it expects headline inflation to rise above 4%.
+
+MUFG argued that the Bank of England will struggle to look through the energy shock, as it might otherwise, because of the wider economic backdrop. The labour market is stabilising, growth is healthy and underlying inflation remains elevated. Services inflation measures are still running well above the Bank’s 2% target.
+
+The UK economy has been notably resilient. MUFG said recent activity data have consistently surprised to the upside, and the economy does not appear to be repeating the second-half slowdowns of recent years, with third-quarter GDP tracking at about 0.65% quarter on quarter. It forecasts growth of 1.5% in 2026 and 1.4% in 2027, more optimistic than the IMF, despite energy-related headwinds.
+
+That growth is fairly narrow, however, led by professional services and other knowledge-intensive sectors. MUFG said it is too early to draw firm conclusions, but the UK’s comparatively rapid adoption of artificial intelligence could help explain recent productivity gains. The share of UK job postings mentioning AI has risen faster than in the US or major European economies.
+
+The fiscal backdrop is a complicating factor. MUFG estimates that higher borrowing costs may have reduced the government’s headroom against its fiscal rules to around £15 billion. It expects the upcoming Budget to include some offsetting tax measures alongside temporary, targeted support for households facing higher energy bills. MUFG questioned whether reducing fiscal buffers is prudent while growth holds up and geopolitical uncertainty remains high.
+
+The Bank of England’s decision is due at 12:00 GMT (07:00 US Eastern time) on November 5.
+================================================================================
+
+================================================================================
+[2026-10-22 00:21 UTC] PBOC is expected to set the USD/CNY reference rate at 6.6756 – Reuters estimate
+URL: https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6756-reuters-estimate/
+Tags: CNY, CNH, pboc
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The People’s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets.
+
+China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC. The current trading band permits the currency to move plus or minus 2% from the official midpoint during onshore trading hours.
+
+Each morning, the PBOC determines the midpoint based on a range of inputs. These include the previous day’s closing price, movements in major currencies, particularly the US dollar, broader international FX conditions, and domestic economic considerations such as capital flows, growth momentum and financial stability objectives. The midpoint is not a purely mechanical calculation, allowing policymakers discretion to guide market expectations.
+
+Once the midpoint is announced, onshore USD/CNY is free to trade within the allowable band. If market pressures push the yuan toward either edge of that range, the central bank may step in to smooth volatility. Intervention can take the form of direct buying or selling of yuan, adjustments to liquidity conditions, or guidance through state-owned banks.
+
+As a result, the daily fixing is often interpreted as a policy signal rather than just a technical reference point. A stronger-than-expected CNY midpoint is typically read as a sign the PBOC is leaning against depreciation pressure, while a weaker fixing for the CNY can indicate tolerance for a softer currency, often in response to dollar strength or domestic economic headwinds.
+
+In periods of heightened global volatility, such as shifts in US rate expectations, trade tensions or capital flow pressures, the fixing takes on added significance. For investors, it provides insight into Beijing’s currency priorities, balancing competitiveness, capital stability and financial market confidence.
+================================================================================
+
