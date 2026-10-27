@@ -120,3 +120,67 @@ PBOC injects 412 billion yuan through 7 day reverse repos @1.4%
 Markets are complicated. Learning about them doesn't have to be. Watch our bite-sized educational videos and discover something new.
 ================================================================================
 
+================================================================================
+[2026-10-27 09:20 UTC] ECB rate outlook grows more complicated as bank lending conditions tighten
+URL: https://investinglive.com/central-banks/ecb-rate-outlook-grows-more-complicated-as-bank-lending-conditions-tighten/
+Tags: ECB, EUR, europe, interest rates
+--------------------------------------------------------------------------------
+Summary
+
+Weaker loan demand and tighter credit conditions pose fresh questions over rate hike expectations for December in particular
+
+The ECB just released its latest bank lending survey and it's not exactly painting a particularly encouraging picture for the euro area economy. Of note, banks are tightening their lending standards further while demand for loans is falling across the board, largely due to the backdrop of higher interest rates continuing to weigh on borrowing activity.
+
+According to the October survey, which covers developments in Q3, the main takeaways are:
+
+Corporate lending:A net 9% of banks reported tighter credit standards, exceeding the 5% previously expected
+
+Consumer credit:A net 14% of banks reported tighter lending standards, while housing loan standards were unchanged
+
+Corporate loan demand:Fell by a net 6%, reversing a 3% increase in Q2
+
+Housing loan demand:Slumped by a net 27%, compared with a 15% decline in Q2
+
+In looking to Q4, banks also expected further tightening in lending standards and even weaker household loan demand. So, that's not a good sign of things to come.
+
+In any case, the numbers reinforce the message that higher interest rates are already doing their job in slowing the economy. Softer borrowing and tighter credit conditions should eventually weigh on investment, consumption and broader economic activity as a whole.
+
+And with banks also needing to navigate through geopolitical uncertainty and worsening risk perceptions, there is little reason to expect credit conditions to improve in the near-term.
+
+As such, that continues to leave the ECB with a relatively uncomfortable balancing act to manage.
+
+Traders are currently pricing in roughly 90% odds of no change in November, so the immediate decision looks fairly straightforward. But December is another matter, with markets assigning around 70% odds of a 25 bps rate hike.
+
+So, today's lending survey only serves to give the central bank another reason to tread carefully before committing to further tightening. Of course, the inflation outlook remains the bigger consideration especially with energy prices still posing upside risks. But if incoming data continues to soften, then markets may have to reconsider just how much additional tightening the ECB can realistically deliver.
+
+For now, December still looks to be a plausible option for another rate hike. However, the case to tighten further beyond that may be less clear amid ongoing fiscal worries and a slowdown in economic momentum.
+
+Markets are complicated. Learning about them doesn't have to be. Watch our bite-sized educational videos and discover something new.
+================================================================================
+
+================================================================================
+[2026-10-27 12:04 UTC] FOMC Preview: A hawkish hold as markets watch for signals about timing and extent of further tightening
+URL: https://investinglive.com/central-banks/fomc-preview-a-hawkish-hold-as-markets-watch-for-signals-about-timing-and-extent-of-further-tightening/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+The Fed is expected to hold rates at 3.75–4.00% tomorrow, keeping a hawkish stance. Higher inflation strengthens the case for further hikes, so traders will be watching potential signals from Fed Chair Warsh. A hawkish surprise will likely weigh further on risk assets, while a neutral tone could trigger a relief rally in the short-term.
+
+The Federal Reserve is widely expected to keep interest rates unchanged at 3.75–4.00% at tomorrow’s FOMC meeting, with markets pricing a 90% probability of a hold. With limited changes expected to the policy statement, the focus will be on Fed Chair Warsh’s press conference.
+
+Despite higher September inflation data strengthening the case for further tightening, key Fed members have signalled little urgency to deliver a back-to-back rate hike in October. A hawkish hold remains the base case as the debate centres around the timing and extent of further tightening rather than direction.
+
+Warsh is expected to reiterate that monetary policy is not sufficiently restrictive and that additional tightening is warranted. He's also seen reaffirming the commitment to price stability but cautioning against overreacting to individual data points.
+
+Markets are already pricing an 80% chance of a rate hike in December, so the focus will be more on the 2027 outlook. Traders see roughly two more rate hikes next year, with the first fully priced in move in April.
+
+A surprise rate hike would trigger strong risk-off flows, particularly in equities and crypto markets. The US dollar and Treasury yields might initially react positively to the decision, but I think the reaction will be quickly faded as growth concerns should intensify amid falling stock markets.
+
+A largely neutral outcome that avoids signalling an imminent rate hike could be taken as dovish and trigger a relief rally in risk assets. I would also expect the same reaction but with less magnitude in case the Fed just delivers on the  hawkish hold expectations, avoiding major surprises.
+
+With no new projections or dot plot expected at this meeting, changes in Warsh's or statement's language will be the main focus.
+
+Markets are complicated. Learning about them doesn't have to be. Watch our bite-sized educational videos and discover something new.
+================================================================================
+
