@@ -126,3 +126,11 @@ Source: spglobal.com
 U.S. home prices declined in real terms for the 15th consecutive month in August 2026, though the gap narrowed as nominal home price growth strengthened,” said Rebecca Kaufman, Associate Director of Commodities at S&P Dow Jones Indices. “The S&P CoreLogic Case-Shiller National Home Price Index rose 2.1% year-over-year in August, up from 1.9% in July, while ...
 ================================================================================
 
+================================================================================
+[2026-10-27 20:47 UTC] API: Crude: -2.031M, Gasoline: +2.39M, Distillate: +380k, Cushing: -453k  (impact: low)
+URL: https://www.forexfactory.com/news/1433640-api-crude-2031m-gasoline-239m-distillate-380k-cushing
+Source: @CHItrader
+--------------------------------------------------------------------------------
+$SPY $USO API WEEKLY INVENTORIES (TO OCT 23) Crude -2.031M bbl (exp +0.522M, prior -4.931M) Gasoline +2.39M bbl (exp -1.288M, prior -1.954M) Distillate +380k bbl (prior -169k) Cushing -453k bbl (prior +936k) Refined products +426k bbl (exp -888k, prior -2.577M)
+================================================================================
+
