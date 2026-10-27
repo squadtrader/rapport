@@ -184,3 +184,67 @@ With no new projections or dot plot expected at this meeting, changes in Warsh's
 Markets are complicated. Learning about them doesn't have to be. Watch our bite-sized educational videos and discover something new.
 ================================================================================
 
+================================================================================
+[2026-10-27 20:04 UTC] Economic and event calendar in Asia Wednesday, October 28, 2026. AUD CPI, RBA and RBNZ
+URL: https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/
+Tags: RBNZ, AUD, economic calendar, NZD, RBA
+--------------------------------------------------------------------------------
+Summary
+
+It's a huge agenda in Australia and New Zealand today with inflation data from Australia, Reserve Bank of Australia Governor Bullock speaking and then an expected rate hike announcement from the Reserve Bank of New Zealand.
+
+I've posted previews for the Australian inflation data and the RBNZ deciison.
+
+Bullock and her senior team, including Deputy Governor Andrew Hauser, appear before the Senate Economics Legislation Committee’s Supplementary Budget Estimates hearing by videoconference from 11:15 am AEDT (00:15 GMT, 20:15 US Eastern on Tuesday). She will likely still be taking questions when the September quarter CPI lands at 11:30 am AEDT (00:30 GMT), so any comments on the result could come almost in real time.
+
+The major banks broadly expect quarterly trimmed mean inflation of around 1.0%, above the RBA’s August forecast of 0.8%, with the annual rate near 3.6%. An upside surprise would strengthen the case for further tightening when the RBA Board meets on November 2 and 3.
+
+Then at 2 pm NZDT (01:00 GMT, 21:00 US Eastern), the RBNZ is widely expected to lift its official cash rate 25 basis points to 3%, ten days before New Zealand’s general election. With a hike largely priced, the guidance may matter more for the New Zealand dollar than the move itself.
+
+Our previews of the CPI data and the RBNZ decision, published earlier this week, have more detail.
+
+Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
+================================================================================
+
+================================================================================
+[2026-10-27 20:19 UTC] ICYMI: Fitch sees Fed hiking to 4.25% in December, says US credit outlook still benign
+URL: https://investinglive.com/central-banks/icymi-fitch-sees-fed-hiking-to-4-25-in-december-says-us-credit-outlook-still-benign/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Fitch says the US credit outlook stays broadly benign despite tighter funding, lifts 2026 and 2027 GDP forecasts to 2.1% and sees the Fed hiking to 4.25% in December. It calls AI the main growth driver and a key risk, flagging a recession scenario.
+
+Fitch’s December call fits the view that the Fed is still on a hiking path, which supports front-end Treasury yields and the US dollar and argues against any near-term easing. The more telling signal for credit is the split it describes: investment-grade spreads near multi-year lows while CCC yields have blown out. Heavy hyperscaler issuance on top of Treasury supply raises the risk that new deals need bigger concessions even where credit quality holds up. For equities, putting a recession scenario next to AI capex keeps the spotlight on any sign that hyperscalers are scaling back spending plans.
+
+I spotted the headlines from Fitch overngiht and just bringing it to investingLive now. Fitch trails behind S&P and Moody's but I doubt their analysis and conclusions would be too much different.
+
+Fitch still calls US credit benign overall, but its December Fed hike call, record private credit defaults and an AI-driven recession scenario show the pressure building on the weakest borrowers.
+
+Fitch expects the US credit outlook to stay broadly benign, though higher-for-longer rates and AI funding needs will test interest-sensitive and lower-rated borrowers.
+
+It raised its US GDP forecasts for 2026 and 2027 by 0.2 point to 2.1% each, and expects the Fed to hike to 4.25% in December and hold through 2027.
+
+US fixed-income issuance rose around 10% year on year in the first nine months, and corporate bond issuance rose around 25%, driven partly by hyperscaler AI borrowing.
+
+Investment-grade spreads remain near multi-year lows, while CCC yields have widened by about 480 basis points this year.
+
+Fitch calls AI both the main growth driver and a key downside risk. Its adverse AI equity-correction scenario would mean a US recession, with GDP falling 0.6% in 2027.
+
+Fitch’s private credit default rate hit a record 6.3% in the 12 months to September, and leveraged loan defaults are expected near the low end of its 4.5% to 5.0% year-end range.
+
+Fitch Ratings expects the US credit outlook to remain broadly benign, even as higher-for-longer interest rates and rising AI-related funding needs put interest-sensitive and lower-rated borrowers under pressure, according to a Fitch Wire commentary published Tuesday alongside its fourth-quarter US credit brief.
+
+The ratings agency has lifted its US growth forecasts for both 2026 and 2027 by 0.2 percentage point to 2.1%, pointing to resilient consumer spending and AI-driven private investment. Fixed investment is forecast to grow 4.8% this year and 4.6% next year. On policy, Fitch expects the Federal Reserve to raise its policy rate to 4.25% in December and keep it there through 2027, which it says will sustain pressure on borrowers who need to refinance at higher costs.
+
+Funding conditions are also being shaped by heavy Treasury supply and increased borrowing by hyperscalers, the large cloud and data centre operators, to pay for AI capital spending. Fitch said US fixed-income issuance rose around 10% year on year in the first nine months of 2026, while corporate bond issuance climbed around 25%. The picture across the credit spectrum is uneven. Investment-grade spreads remain near multi-year lows, while yields on CCC-rated debt, the lowest rung of high yield, have widened by about 480 basis points since the start of the year.
+
+Fitch described AI investment as both the main growth driver and a key downside risk. IT-related private investment grew around 18% year on year in the second quarter, but the agency warned that intensifying competition and cheaper open-weight models could weaken the pricing power of AI service providers and prompt a rethink of hyperscaler capex plans over the next one to three years. Under Fitch’s adverse AI equity-correction scenario, the US would fall into recession, with GDP contracting 0.6% in 2027. Its sector-level AI stress test found broad resilience, with material risks concentrated in services, data centres, and telecommunications, media and technology.
+
+Higher rates are weighing most heavily on housing-related sectors and lower-rated borrowers. Fitch’s US private credit default rate reached a record 6.3% in the 12 months to September, and the agency expects leveraged loan defaults to rise toward the low end of its 4.5% to 5.0% year-end forecast range.
+
+The commentary leaves the Fed’s December decision and the durability of AI spending as the two variables most likely to determine whether a benign outlook for credit overall holds up for its weakest borrowers.
+
+Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
+================================================================================
+
