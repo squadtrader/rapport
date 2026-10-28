@@ -134,3 +134,51 @@ Source: @CHItrader
 $SPY $USO API WEEKLY INVENTORIES (TO OCT 23) Crude -2.031M bbl (exp +0.522M, prior -4.931M) Gasoline +2.39M bbl (exp -1.288M, prior -1.954M) Distillate +380k bbl (prior -169k) Cushing -453k bbl (prior +936k) Refined products +426k bbl (exp -888k, prior -2.577M)
 ================================================================================
 
+================================================================================
+[2026-10-28 01:07 UTC] US Warns Gulf Of Possible Short, Intense Renewal Of Iran War After Midterms - WSJ  (impact: medium)
+URL: https://www.forexfactory.com/news/1433668-us-warns-gulf-of-possible-short-intense-renewal
+Source: @LiveSquawk
+--------------------------------------------------------------------------------
+US Warns Gulf Of Possible Short, Intense Renewal Of Iran War After Midterms - WSJ https://t.co/IZzYwzURE5
+================================================================================
+
+================================================================================
+[2026-10-28 01:02 UTC] NZ: OCR held at 2.75%  (impact: high)
+URL: https://www.forexfactory.com/news/1433667-nz-ocr-held-at-275
+Source: rbnz.govt.nz
+--------------------------------------------------------------------------------
+The Monetary Policy Committee today voted 4 - 3 to hold the OCR at 2.75 percent. Annual consumers price index inflation was 3.7 percent in the September quarter, down from 4.1 percent in June and lower than expected. To date, wage growth has been subdued, and medium-term inflation expectations have remained stable. However, core inflation measures have increased to around the top of the Committee’s 1 to 3 percent target band, and price increases have become more broad-based across the economy. Global events are adding to near-term inflation pressures in New Zealand. Fuel prices have risen further because of ongoing disruptions in global energy markets, and the exchange rate has fallen by around 3 percent since early September. Annual inflation is expected to increase to 4.4 percent in the December quarter, largely reflecting current futures prices for fuel. Near-term inflation forecasts are uncertain given volatility in prices for oil and refined fuels. The New Zealand economy continues to recover, although conditions remain uneven. Export-exposed parts of the economy are benefiting from high commodity prices, strong demand for goods exports and increased tourist numbers. But domestic demand remains subdued outside of exporting centres. There are some early signs of a recovery in residential investment, including in Auckland.RBNZ minutes: four members Anna Breman, Carl Hansen, Prasanna Gal, Rebecca Williams vote to hold OCR, three members Paul Conway, Hayley Gourley, Karen Silk back increaseRBNZ committee agreed stronger monetary policy was likely neededRBNZ members agreed on inflation forecast, differed on risk weightingsRBNZ minutes: further OCR hikes likely, though dependent on the economic outlook
+================================================================================
+
+================================================================================
+[2026-10-28 00:55 UTC] RBA's Bullock: Cannot Signal the Boards Decision  (impact: medium)
+URL: https://www.forexfactory.com/news/1433666-rbas-bullock-cannot-signal-the-boards-decision
+Source: @FirstSquawk
+--------------------------------------------------------------------------------
+RBAs Bullock Says She Cannot Signal the Boards DecisionRBA Governor Bullock: Consumer Price Data Reinforces Upside Inflation RisksRBA Governor Bullock: challenging to fully see through supply shocks
+================================================================================
+
+================================================================================
+[2026-10-28 00:42 UTC] RBA Hauser: Consumer Price Data Meets Expectations but Is Still Too High  (impact: low)
+URL: https://www.forexfactory.com/news/1433663-rba-hauser-consumer-price-data-meets-expectations-but
+Source: @RedboxWire
+--------------------------------------------------------------------------------
+RBA Deputy Governor Hauser Says Consumer Price Data Meets Expectations but Is Still Too High
+================================================================================
+
+================================================================================
+[2026-10-28 00:31 UTC] Consumer Price Index, Australia, September 2026  (impact: high)
+URL: https://www.forexfactory.com/news/1433661-consumer-price-index-australia-september-2026
+Source: abs.gov.au
+--------------------------------------------------------------------------------
+In the 12 months to September 2026: • The Consumer Price Index (CPI) rose 4.3%, up from 4.0% in the 12 months to August 2026. • Trimmed mean inflation was 3.6%, up from a revised 3.5% in the 12 months to August 2026. In the month of September, the CPI rose 0.8% in original and 0.6% in seasonally adjusted terms.tableschartsCPI annual inflation was 4.3 ...
+================================================================================
+
+================================================================================
+[2026-10-28 00:19 UTC] RBA Governor Bullock: We are dedicated to mandate of delivering price stability and full employment  (impact: medium)
+URL: https://www.forexfactory.com/news/1433662-rba-governor-bullock-we-are-dedicated-to-mandate
+Source: @financialjuice
+--------------------------------------------------------------------------------
+RBA Governor Bullock: we are dedicated to mandate of delivering price stability and full employmentRBA Governor Bullock: key question is whether monetary policy tightening so far will be enough to return inflation to target in reasonable timeBullock acknowledges higher interest rates can be tough, but says high inflation cannot persistShort-term inflation outlook remains elevated, RBA Governor Bullock saysRBA Governor Bullock: labour market appears slightly tighter than previously assessed
+================================================================================
+
