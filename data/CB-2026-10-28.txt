@@ -594,3 +594,177 @@ The press conference left markets with a mixed message: a decision that leaned d
 Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
 ================================================================================
 
+================================================================================
+[2026-10-28 13:45 UTC] Bank of Canada rate decision: Hike to 2.50%
+URL: https://investinglive.com/central-banks/bank-of-canada-rate-decision/
+Tags: CAD
+--------------------------------------------------------------------------------
+Summary
+
+Highlights of the October 28 Bank of Canada rate decision: A 25 basis point hike expected
+
+The market was pricing in a 78% chance of a rate hike
+
+Prior overnight rate was 2.25%
+
+Says inflation is higher and more persistent than in the July Report
+
+global economic activity has remained resilient, despite higher energy prices
+
+Growth has picked up this year and is expected to recover further
+
+There could be a need to increase the policy rate further, but given uncertainties, Governing Council agreed to proceed carefully
+
+The last line there is the key one, is a dovish hike as they characterize it as a hike to "reduce the risk of the continuing high energy prices" spreading broadly. USD/CAD is little moved on the knee-jerk.
+
+The market had priced in a 32% chance of a second hike this year and I would now lean against that but this chart from the MPR shows what has the Bank of Canada worried.
+
+The report identifies rising prices for chemicals, plastics, rubber products, semiconductors and computer components as some product prices that are rising.
+
+The last move from the Bank of Canada was a cut to 2.25% in October 2025 in the culmination of cuts down from a peak of 2025 in the post-covid inflation surge.
+
+Today's decision comes with updated quarterly forecasts. Macklem warned earlier this month that inflation forecasts will be "quite a bit higher" than in July.
+
+2026: 2.9% vs 2.5% prior
+
+2027: 3.1% vs 2.0% prior
+
+2028: 2.2% vs 2.1% prior
+
+2026: 1.0% vs 0.7% prior
+
+2027: 2.0% vs 1.8% prior
+
+2028: 2.0% vs 1.8% prior
+
+The 2027 CPI forecast is the problematic one but
+
+Running against the Bank of Canada's hawkishness have been some surprisingly soft economic numbers, including the last two jobs reports. In contrast, indications of consumer spending have remained robust and higher commodity prices are a tailwind. The Canadian housing market has been struggling for two years and prices are continuing to slide in much of the country.
+
+Worth reading is the key part of Macklem's statement, which lays out in plain terms the debate the Bank of Canada is thinking about:
+
+In short, tell me what happens with the Iran war and I'll tell you what happens with rates next.
+
+Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
+================================================================================
+
+================================================================================
+[2026-10-28 13:45 UTC] The full statement from the Bank of Canada rate decision for October 2026. Hikes by 25 basis points
+URL: https://investinglive.com/central-banks/the-full-statement-from-the-bank-of-canada-rate-decision-for-october-2026-hikes-by-25-basis-points/
+Tags: BOC
+--------------------------------------------------------------------------------
+Summary
+
+The Bank of Canada interest rate decision for October 2026
+
+FOR IMMEDIATE RELEASE
+
+October 28, 2026
+
+Share this page by email
+
+The Bank of Canada today increased its target for the overnight rate by 25 basis points to 2.5%, with the Bank Rate at 2.75% and the deposit rate at 2.45%.
+
+Since the JulyMonetary Policy Report, global economic activity has remained resilient, despite higher energy prices. In the United States, the economy continues to grow at a robust pace, supported by consumer spending and AI-related investment. Growth in the euro area has been resilient and broad-based. After slowing in the second quarter, Chinese growth rebounded in the third quarter, owing to strength in exports and a pickup in fiscal spending. With persistently elevated oil prices and refinery margins, inflation has risen in most countries.
+
+Given the ongoing resilience of the global economy, the Bank has revised up global GDP growth slightly to 3.1% in 2026, while growth in 2027 and 2028 remains unchanged from the July projection at 3.2%.
+
+Global financial conditions have tightened since July. Advanced economy sovereign bond yields are higher. Equity and credit markets have been volatile due to uncertainty about the outlook for the AI sector. The Canadian dollar had weakened somewhat on US-dollar strength but has since recovered to around 71 cents – the same as assumed in the July Report.
+
+Growth picked up in Canada through the middle of the year. GDP growth was 3.3% in the second quarter, and recent indicators point to growth of about 2% in the third quarter. This is stronger than expected in the July Report. Consumer spending has been solid, even with slow population growth. Business investment rebounded, reflecting oil and gas sector activity and spending on machinery and equipment. Despite ongoing weakness in sectors affected by US tariffs, exports overall have strengthened, owing to robust US demand, higher energy production and increasing signs that businesses are adapting to the changing trade environment. The unemployment rate has been around 6½% for several months. A broad set of indicators continue to point to some excess supply in the economy.
+
+Owing to new US tariffs, growth is expected to slow in the fourth quarter of 2026, before picking up again in 2027. This rebound is supported by business investment, exports and fiscal measures. Consumption growth is expected to moderate and housing to remain relatively weak.
+
+The Canadian economy is expected to grow 1% in 2026, and 2% in 2027 and 2028. This is a somewhat stronger overall growth projection than the July Report. This forecast is still subject to considerable uncertainty, particularly regarding Canada-US trade relations.
+
+Given persistently high oil prices, CPI inflation has been around 3% since April and is expected to rise to about 3½% by the end of the year. Excluding gasoline, inflation was 2.2% in September and measures of core inflation remain close to 2%. But cost pressures are building, with high fuel prices raising the costs of production and transportation. Imported industrial and electronics input prices have also increased. While businesses have mostly absorbed higher input costs so far, Bank surveys suggest cost pass-through will increase over the next year. Near-term household and business inflation expectations have risen, while longer-term inflation expectations remain well anchored.
+
+The conflict in the Middle East is now in its eighth month and there is no clear path to resolution. The combination of higher-for-longer energy prices and increased pass-through adds to the persistence of inflation in the projection. CPI inflation is expected to average 3% in 2027, a percentage point above the July projection, then come down to 2% in the middle of 2028. The main sources of uncertainty around this forecast are developments in the Middle East and businesses’ responses to cost pressures.
+
+In the outlook, inflation is higher and more persistent than in the July Report. Growth has picked up this year and is expected to recover further. Against this backdrop, Governing Council decided to increase the policy rate to reduce the risk that continuing high energy prices spread broadly to the prices of other goods and services. There could be a need to increase the policy rate further, but given uncertainties, Governing Council agreed to proceed carefully. The Bank remains committed to maintaining Canadians’ confidence in price stability.
+
+Below is the remarks from BOC Tiff Macklem's opening statementGood morning. I’m pleased to be here with Senior Deputy Governor Carolyn Rogers to discuss our policy announcement and the Bank of Canada’sMonetary Policy Report.Today, we raised the policy interest rate by 25 basis points, bringing it to 2.5%. This is the first interest rate increase since July 2023.There have been two important economic developments since our July Report.First, the outlook for inflation has deteriorated. With the war in the Middle East persisting, global oil prices have increased and are expected to remain higher for longer. This is hitting Canadians at the gas pump and increasing costs for many businesses.Second, the growth outlook for Canada has improved modestly, despite continued trade actions by the United States. Growth picked up through the middle of the year, and exports and business and government investment are expected to support a further recovery.With the outlook for inflation substantially higher and the economy showing resilience, an increase in the policy rate is needed to reduce the risk that elevated energy prices could spill over and become generalized inflation.We are mindful that uncertainty is still elevated. Developments in the Middle East and Canada-US trade relations both remain fluid. There is also uncertainty about the impact of new US tariffs and how much energy costs will seep into consumer prices more broadly.Let me expand on what we’re seeing in the economy and what we expect in the months ahead.Growth picked up in Canada through the middle of the year. GDP growth was 3.3% in the second quarter, and recent indicators point to growth of about 2% in the third quarter. Consumer spending has been solid, even with slow population growth. Business investment rebounded, reflecting activity in the oil and gas sector and spending on machinery and equipment. Despite ongoing weakness in sectors affected by US tariffs, exports overall have strengthened, bolstered by robust US demand, higher energy production and increasing signs that businesses are adapting to the changing trade environment. The unemployment rate has remained around 6½% for several months. A broad set of indicators continue to point to some excess supply in the economy.Looking ahead, growth will likely slow in the fourth quarter as new US tariffs weigh on activity. But growth should pick up again in 2027 as consumer spending continues, exports pick up and business investment strengthens, supported by fiscal measures.Following GDP growth of 1% in 2026, the economy is projected to grow by about 2% in 2027 and 2028. This absorbs the remaining slack in the economy. While uncertainty around the outlook remains high, the growth projection overall is somewhat stronger than in the July Report.Given persistently high oil prices and elevated refinery margins, CPI inflation has been around 3% since April and is expected to rise to about 3½% by year end. Inflation is projected to remain at or above 3% through much of 2027 before returning close to the 2% target by the middle of 2028. Near-term household and business inflation expectations have risen, while longer-term inflation expectations remain well anchored.Against this backdrop, Governing Council considered two policy options: hold or hike.The main argument for holding was that the rise in inflation has so far been concentrated in energy prices and in services that rely heavily on energy inputs, such as airfares. CPI inflation excluding gasoline is still 2.2%, and measures of core inflation remain close to 2%. In addition, while growth has been better than expected, economic slack remains, and new US tariffs will weigh on growth.The main argument for an increase was that energy prices are higher, they are expected to remain higher, and cost pressures are building. As we’ve been saying for some time, the longer energy prices remain high, the more likely it is these costs will spill over to consumer prices more broadly.The prices of gasoline, diesel and heating oil are considerably higher than in July and are expected to remain higher for longer. This is hitting consumers directly and raising business costs for production and transportation. Imported industrial and electronics input prices have also increased. While businesses have mostly absorbed higher input costs so far, past experience and Bank surveys suggest that cost pass-through will increase over the next year. The combination of higher energy prices and pass-through increases the persistence of inflation. In addition, with the economy expected to recover, there is less downward pressure on prices to offset these cost pressures.With elevated inflation expected to last longer and the economy showing resilience, Governing Council agreed that risks to inflation had increased and there was less scope for monetary accommodation. Looking ahead, Governing Council agreed we would take future decisions one meeting at a time. There could be a need to raise the policy rate further, but given the uncertainties, we will proceed carefully.The Bank remains committed to maintaining Canadians’ confidence in price stability through this period of global upheaval.With that, the Senior Deputy Governor and I are pleased to take your questions.
+
+Good morning. I’m pleased to be here with Senior Deputy Governor Carolyn Rogers to discuss our policy announcement and the Bank of Canada’sMonetary Policy Report.
+
+Today, we raised the policy interest rate by 25 basis points, bringing it to 2.5%. This is the first interest rate increase since July 2023.
+
+There have been two important economic developments since our July Report.
+
+First, the outlook for inflation has deteriorated. With the war in the Middle East persisting, global oil prices have increased and are expected to remain higher for longer. This is hitting Canadians at the gas pump and increasing costs for many businesses.
+
+Second, the growth outlook for Canada has improved modestly, despite continued trade actions by the United States. Growth picked up through the middle of the year, and exports and business and government investment are expected to support a further recovery.
+
+With the outlook for inflation substantially higher and the economy showing resilience, an increase in the policy rate is needed to reduce the risk that elevated energy prices could spill over and become generalized inflation.
+
+We are mindful that uncertainty is still elevated. Developments in the Middle East and Canada-US trade relations both remain fluid. There is also uncertainty about the impact of new US tariffs and how much energy costs will seep into consumer prices more broadly.
+
+Let me expand on what we’re seeing in the economy and what we expect in the months ahead.
+
+Growth picked up in Canada through the middle of the year. GDP growth was 3.3% in the second quarter, and recent indicators point to growth of about 2% in the third quarter. Consumer spending has been solid, even with slow population growth. Business investment rebounded, reflecting activity in the oil and gas sector and spending on machinery and equipment. Despite ongoing weakness in sectors affected by US tariffs, exports overall have strengthened, bolstered by robust US demand, higher energy production and increasing signs that businesses are adapting to the changing trade environment. The unemployment rate has remained around 6½% for several months. A broad set of indicators continue to point to some excess supply in the economy.
+
+Looking ahead, growth will likely slow in the fourth quarter as new US tariffs weigh on activity. But growth should pick up again in 2027 as consumer spending continues, exports pick up and business investment strengthens, supported by fiscal measures.
+
+Following GDP growth of 1% in 2026, the economy is projected to grow by about 2% in 2027 and 2028. This absorbs the remaining slack in the economy. While uncertainty around the outlook remains high, the growth projection overall is somewhat stronger than in the July Report.
+
+Given persistently high oil prices and elevated refinery margins, CPI inflation has been around 3% since April and is expected to rise to about 3½% by year end. Inflation is projected to remain at or above 3% through much of 2027 before returning close to the 2% target by the middle of 2028. Near-term household and business inflation expectations have risen, while longer-term inflation expectations remain well anchored.
+
+Against this backdrop, Governing Council considered two policy options: hold or hike.
+
+The main argument for holding was that the rise in inflation has so far been concentrated in energy prices and in services that rely heavily on energy inputs, such as airfares. CPI inflation excluding gasoline is still 2.2%, and measures of core inflation remain close to 2%. In addition, while growth has been better than expected, economic slack remains, and new US tariffs will weigh on growth.
+
+The main argument for an increase was that energy prices are higher, they are expected to remain higher, and cost pressures are building. As we’ve been saying for some time, the longer energy prices remain high, the more likely it is these costs will spill over to consumer prices more broadly.
+
+The prices of gasoline, diesel and heating oil are considerably higher than in July and are expected to remain higher for longer. This is hitting consumers directly and raising business costs for production and transportation. Imported industrial and electronics input prices have also increased. While businesses have mostly absorbed higher input costs so far, past experience and Bank surveys suggest that cost pass-through will increase over the next year. The combination of higher energy prices and pass-through increases the persistence of inflation. In addition, with the economy expected to recover, there is less downward pressure on prices to offset these cost pressures.
+
+With elevated inflation expected to last longer and the economy showing resilience, Governing Council agreed that risks to inflation had increased and there was less scope for monetary accommodation. Looking ahead, Governing Council agreed we would take future decisions one meeting at a time. There could be a need to raise the policy rate further, but given the uncertainties, we will proceed carefully.
+
+The Bank remains committed to maintaining Canadians’ confidence in price stability through this period of global upheaval.
+
+With that, the Senior Deputy Governor and I are pleased to take your questions.
+
+Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
+================================================================================
+
+================================================================================
+[2026-10-28 13:29 UTC] The market is pricing in a 78% chance of a Bank of Canada rate hike
+URL: https://investinglive.com/central-banks/the-market-is-pricing-in-a-78-chance-of-a-bank-of-canada-rate-hike/
+Tags: CAD
+--------------------------------------------------------------------------------
+Summary
+
+The market is pricing in four hikes in the coming year
+
+The Bank of Canada rate decision is due at 9:45 am ET and it's an uncertain one.
+
+The market shifted aggressively hawkish after comments from Macklem at the IMF meetings. That now has the market pricing in a 78% chance of a hike today and 31 bps of hikes before year end. That rises to 100 bps in the coming year, which would take the overnight rate to 3.25%.
+
+In Thailand, Macklem said global economies had performed better than expected but that resilience was "under strain" because the effects of emergency oil releases were running out.
+
+"You can only release strategic energy, oil reserves so many times," he said.
+
+The Bank of Canada will release updated forecasts for the economy and inflation alongside its interest rate decision
+
+Tellingly, Macklem warned that inflation forecasts will be "quite a bit higher" than in July. Those forecasts had shown 2.5% inflatoin this year.
+
+"The question we're going to be asking ourselves is, is inflation likely to come back down towards our target on its own, or are we going to have to raise interest rates to influence the path?" he said.
+
+The Bank of Canada isn't afraid of surprising the market so there's real variability around what's priced in. USD/CAD is up 4 pips to 1.4052 and I would expect a decent move in the currency in any event.
+
+2026: 2.5%
+
+2027: 2.0%
+
+2028: 2.1%
+
+2026: 0.7%
+
+2027: 1.8%
+
+2028: 1.8%
+
+Energy is going to boost the inflation forecasts but we will look for indications on underlying inflation as well.
+
+Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
+================================================================================
+
