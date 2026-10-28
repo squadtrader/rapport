@@ -1086,3 +1086,85 @@ Nasdaq 100:Currently29,674.34;
 Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
 ================================================================================
 
+================================================================================
+[2026-10-28 23:24 UTC] Hong Kong holds base rate at 4.25%: why the HKMA always moves in lockstep with the Fed
+URL: https://investinglive.com/central-banks/hong-kong-holds-base-rate-at-4-25-why-the-hkma-always-moves-in-lockstep-with-the-fed/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Hong Kong’s monetary authority held its base rate at 4.25% after the Fed held. The rate is set by formula at 50bp above the Fed’s lower bound to protect the HKD peg of 7.75 to 7.85 per US dollar, so a Fed hike in December would likely pass through.
+
+For Hong Kong, the decision confirms that local borrowing costs stay tied to the Fed’s hiking path, regardless of domestic conditions. Mortgage holders and property developers are most exposed, because a December Fed hike would flow through to the base rate and from there to bank lending rates. The peg also means Hong Kong dollar assets carry US rate risk. Traders should watch Fed expectations, not the HKMA, when positioning for Hong Kong rate moves.
+
+Hong Kong’s rate decisions are made in Washington, and with a December Fed hike widely expected, the city’s borrowers are along for the ride.
+
+The HKMA held its base rate at 4.25%, as expected, after the Fed held at 3.75% to 4%
+
+Hong Kong’s Linked Exchange Rate System, in place since 1983, keeps the currency between HK$7.75 and HK$7.85 per US dollar
+
+The base rate is set at 50 basis points above the lower end of the Fed funds range, or a HIBOR-based average if that is higher
+
+The HKMA defends the band by buying or selling Hong Kong dollars, which moves interbank rates
+
+The peg means Hong Kong effectively imports US monetary policy
+
+A December Fed hike would be expected to lift Hong Kong’s base rate in step
+
+The Hong Kong Monetary Authority kept its base rate unchanged at 4.25% on Thursday, as expected, following the US Federal Reserve’s decision to hold its policy rate at 3.75% to 4%. The outcome was never in doubt, and understanding why explains how Hong Kong runs monetary policy.
+
+Hong Kong has operated its Linked Exchange Rate System since 1983. Under it, the Hong Kong dollar is held within a narrow band of HK$7.75 to HK$7.85 against the US dollar. The HKMA commits to buy or sell Hong Kong dollars at either edge of that range, which keeps the currency anchored to the greenback.
+
+A fixed exchange rate comes with a trade-off: a city cannot run an independent interest rate policy while keeping its currency pegged. If Hong Kong rates drifted far from US rates, capital would flow toward whichever currency paid more, putting pressure on the peg. So Hong Kong effectively imports US monetary policy.
+
+That link is written directly into the base rate formula. The rate is set at the higher of two measures: 50 basis points above the lower end of the Fed funds target range, or an average of short-term Hong Kong interbank rates, known as HIBOR. With the Fed’s range starting at 3.75%, adding 50 basis points produces exactly 4.25%. When the Fed moves, the HKMA follows.
+
+Market forces back up the formula. If the Hong Kong dollar weakens to HK$7.85, the HKMA buys local currency, draining cash from the banking system and pushing interbank rates higher until the currency recovers. At the strong end, it sells Hong Kong dollars, adding liquidity and pushing rates down.
+
+The practical consequence is that Hong Kong’s borrowing costs are set by conditions in the United States rather than at home. That matters now. The Fed held this week but signalled that inflation remains its priority, and markets widely expect a hike in December. If that happens, Hong Kong’s base rate is likely to rise in step, whatever the state of its own economy.
+
+Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
+================================================================================
+
+================================================================================
+[2026-10-28 22:02 UTC] Recap: Fed holds at 3.75%-4% in 10-2 vote as Cook dissents for a hike, December move in focus
+URL: https://investinglive.com/central-banks/recap-fed-holds-at-3-75-4-in-10-2-vote-as-cook-dissents-for-a-hike-december-move-in-focus/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+The Fed held rates at 3.75% to 4% in a 10-2 vote, with Governor Cook and Cleveland Fed’s Hammack dissenting for a hike. Chair Warsh stressed the inflation fight, leaving a December rise firmly in play, and cut rate decisions to seven next year.
+
+A hold with two hawkish dissents and no pushback from Warsh on December pricing keeps the bias firmly toward tightening, which supports Treasury yields and the dollar into year end. Cook’s dissent matters for rate expectations because it widens hawkish support beyond the committee’s usual hard-liners, strengthening the case that a December hike has broad backing. The dissent may also be read politically, given Trump’s efforts to remove her, which adds to scrutiny of Fed independence. Fewer scheduled rate decisions from next year mean each meeting carries more weight, and that could amplify market moves around those dates.
+
+The Fed paused, but with two votes for a hike and a chair insisting the job isn’t done, the pause looks more like a breather than a turn.
+
+The Fed held rates at 3.75% to 4% in a 10-2 vote, following last month’s hike
+
+Governor Lisa Cook unexpectedly dissented in favour of a hike, her first break from the consensus in more than four years
+
+Cleveland Fed President Beth Hammack also dissented for tighter policy, as she did in April and July
+
+Chair Warsh said returning inflation to 2% is paramount and did little to challenge expectations of a December hike
+
+The Fed will vote on rates at seven meetings next year and six in 2028, devoting the remaining sessions to strategy
+
+The change revises a 45-year-old schedule and fits Warsh’s preference for a quieter Fed
+
+The Federal Reserve voted 10-2 on Wednesday to hold its benchmark interest rate at a range of 3.75% to 4%, pausing after last month’s increase, while leaving markets firmly expecting another hike in December, theWall Street Journalreported.
+
+The decision itself was widely anticipated. The surprise lay in the dissents. Fed Governor Lisa Cook voted against the hold in favour of a higher rate, breaking with a record of consistently voting with the committee’s consensus since she joined the central bank more than four years ago. Cook, whom President Donald Trump has been trying to remove from her post for more than a year, had recently expressed concern that inflation remains a problem, but had not indicated she saw an urgent need for a further increase.
+
+The second dissent, from Cleveland Fed President Beth Hammack, was more in line with expectations. Hammack has been among the committee’s most hawkish members this year and also dissented in favour of tighter policy in April and July.
+
+At his post-meeting press conference, Fed Chair Warsh sought to make clear that pausing did not mean the Fed was easing off its effort to bring inflation down. He said returning inflation fully to the 2% target was the overriding priority, that the Fed had recommitted to that goal since he took over, and that last month’s hike marked the start of action. Warsh acknowledged the Fed had not yet achieved price stability but said it was working toward it, and he offered little to challenge the market view that a December increase is coming.
+
+Warsh also announced a change to the Fed’s meeting schedule. Next year, policymakers will vote on rates at only seven of their eight meetings, using the remaining session for a broader strategy discussion. In 2028, that will drop to six rate decisions, with two meetings set aside for strategy. The shift overhauls a calendar that has been in place for 45 years. Warsh first raised the idea internally over the summer.
+
+The move fits his preference for a lower-profile Fed. The post-meeting statement has become shorter under his leadership, and he has opted out of the quarterly dot plot of officials’ projections.
+
+With two officials already pushing for a hike, the December meeting now looms as the next key test of the Fed’s tightening path.
+
+Got a minute? Explore our collection of quick, practical lessons about trading, investing, and understanding the markets.
+================================================================================
+
