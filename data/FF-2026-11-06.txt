@@ -22,3 +22,83 @@ Source: boj.or.jp
 The Bank had been conducting money market operations in accordance with the guideline for money market operations decided at the previous meeting on July 30 and 31, 2026. The uncollateralized overnight call rate had been in the range of 0.976 to 0.980 percent. Meanwhile, the Bank had conducted Japanese government bond (JGB) purchases of about 2.5 trillion yen per month in accordance with the plan for the outright purchases of JGBs decided at the June 2026 meeting. In the money market, the uncollateralized overnight call rate had been at around 1.0 percent. The general collateral (GC) repo rate had been at around the same level as the uncollateralized overnight call rate. As for interest rates on term instruments, yields on threemonth treasury discount bills (T-Bills) had increased. The Tokyo Stock Price Index (TOPIX) had risen, reflecting factors such as favorable corporate results in Japan and the United States. Yields on 10-year JGBs had increased, moving in line with U.S. interest rates, while market participants had raised their expectations for the terminal policy rate. The liquidity indicators in the JGB markets continued to improve. In the foreign exchange market, the yen had appreciated against both the U.S. dollar and the euro, mainly on the back of coordinated foreign exchange intervention by Japan and the United States and market views on Japan's monetary policyboj sep meeting minutes: members concurred it was suitable for the bank to keep increasing the policy interest rate and modify the level of monetary easingBOJ minutes: one member said it was important to signal to the market BOJ's resolve to prevent upward price deviations through an agile response to global economic conditionsBOJ minutes: one member noted that if signs of rising price deviation appeared, the bank would need to speed up rate hikesBoJ minutes: one member said policy should guard against excessive, persistent inflation, though the BoJ did not need to act hastily
 ================================================================================
 
+================================================================================
+[2026-11-05 10:33 UTC] US October Layoffs at Three-Year Low; Seasonal Hiring Plans Up 26%  (impact: low)
+URL: https://www.forexfactory.com/news/1435001-us-october-layoffs-at-three-year-low-seasonal-hiring
+Source: challengergray.com
+--------------------------------------------------------------------------------
+U.S.-based employers announced 43,994 job cuts in October, up 2% from the 43,281 cuts announced in September. It is down 71% from the 153,074 job cuts announced in October 2025, according to a report released Thursday from global outplacement and executive coaching firm Challenger, Gray & Christmas. October’s total is the lowest for the month since 2023, ...
+================================================================================
+
+================================================================================
+[2026-11-05 10:02 UTC] Industrial producer prices up by 2.5% in the euro area and by 2.6% in the EU  (impact: low)
+URL: https://www.forexfactory.com/news/1435000-industrial-producer-prices-up-by-25-in-the
+Source: ec.europa.eu
+--------------------------------------------------------------------------------
+In September 2026, compared with August 2026, industrial producer prices increased by 2.5% in the euro area and by 2.6% in the EU, according to first estimates from Eurostat, the statistical office of the European Union. In August 2026, industrial producer prices grew by 2.0% in the euro area and by 1.9% in the EU. In September 2026, compared with September ...
+================================================================================
+
+================================================================================
+[2026-11-05 09:37 UTC] Weaker housing activity weighs on UK construction sector in October  (impact: low)
+URL: https://www.forexfactory.com/news/1434999-weaker-housing-activity-weighs-on-uk-construction-sector
+Source: pmi.spglobal.com
+--------------------------------------------------------------------------------
+UK construction companies signalled a sharp and accelerated reduction in business activity during October. At 43.6, down from 46.1 in September, the headline seasonally adjusted S&P Global UK Construction Purchasing Managers’ Index™ (PMI®) – an index tracking changes in total industry activity – registered below the neutral 50.0 value for the twenty-second ...
+================================================================================
+
+================================================================================
+[2026-11-05 09:12 UTC] Italian retail trade - September 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1434990-italian-retail-trade-september-2026
+Source: istat.it
+--------------------------------------------------------------------------------
+In September 2026, seasonally adjusted retail sales slightly increased by 0.1% in value and stayed unchanged in volume compared with August 2026. In the 3rd quarter of 2026, retail sales fell by 0.3% in value and by 0.5% in volume compared with the previous three-month period. On a year-on-year basis, retail sales in September 2026 rose by 1.6% in value, ...
+================================================================================
+
+================================================================================
+[2026-11-05 08:31 UTC] ECB's Moulin: Higher yields are new test for financial sector  (impact: low)
+URL: https://www.forexfactory.com/news/1434986-ecbs-moulin-higher-yields-are-new-test-for
+Source: @financialjuice
+--------------------------------------------------------------------------------
+ECBs Moulin: Higher yields are new test for financial sector.ECB's Moulin: French budget uncertainty amplifies rise in bond yields.
+================================================================================
+
+================================================================================
+[2026-11-05 08:31 UTC] ECB's Schnabel: Rise of non-bank finance and increase in public debt could threaten monetary dominance  (impact: low)
+URL: https://www.forexfactory.com/news/1434985-ecbs-schnabel-rise-of-non-bank-finance-and-increase
+Source: @financialjuice
+--------------------------------------------------------------------------------
+ECB's Schnabel: Rise of non-bank finance and increase in public debt could threaten monetary dominanceECB's Schnabel: It has become more difficult to put public finances back on a sustainable path.
+================================================================================
+
+================================================================================
+[2026-11-05 08:31 UTC] In September 2026, French manufacturing output increases by 0.5%  (impact: low)
+URL: https://www.forexfactory.com/news/1434983-in-september-2026-french-manufacturing-output-increases-by
+Source: insee.fr
+--------------------------------------------------------------------------------
+In September 2026, production increased again in the manufacturing industry (+0.5% after +0.3% in August 2026) and returned to its June 2026 level. On the other hand, in the industry as a whole, it fell again (-0.5% after -0.4%) and reached its lowest level since May 2025. In September 2026*, manufacturing output rebounded in the transport equipment sector ...
+================================================================================
+
+================================================================================
+[2026-11-05 07:31 UTC] SNB's Chairman Schlegel: SNB would intervene if price stability were at risk  (impact: low)
+URL: https://www.forexfactory.com/news/1434980-snbs-chairman-schlegel-snb-would-intervene-if-price
+Source: @financialjuice
+--------------------------------------------------------------------------------
+SNB's Chairman Schlegel: SNB would intervene if price stability were at risk
+================================================================================
+
+================================================================================
+[2026-11-05 07:31 UTC] Germany: New orders in the manufacturing sector in September 2026: +4.4% compared to the previous month  (impact: low)
+URL: https://www.forexfactory.com/news/1434978-germany-new-orders-in-the-manufacturing-sector-in
+Source: destatis.de
+--------------------------------------------------------------------------------
+According to preliminary figures from the Federal Statistical Office (Destatis), real (price-adjusted) new orders in the manufacturing sector rose by 4.4% in September 2026 compared to August 2026, after seasonal and calendar adjustments. Excluding large orders, new orders were 5.1% higher than in the previous month. In the less volatile three-month ...
+================================================================================
+
+================================================================================
+[2026-11-05 07:31 UTC] RBA Hauser: Trust, Expectations and Monetary Policy  (impact: low)
+URL: https://www.forexfactory.com/news/1434976-rba-hauser-trust-expectations-and-monetary-policy
+Source: rba.gov.au
+--------------------------------------------------------------------------------
+It’s an honour to give the 24th Sir Leslie Melville Lecture.1 My theme today is trust. Trust is central to all of our lives. We trust our families and friends. We trust the food we eat. We trust companies with our personal data. We trust governments to keep us safe.2 But few rely on trust as profoundly as central banks. And that’s because money itself is ...
+================================================================================
+
