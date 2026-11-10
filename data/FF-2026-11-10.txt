@@ -262,3 +262,99 @@ Source: mof.go.jp
 tables
 ================================================================================
 
+================================================================================
+[2026-11-10 18:03 UTC] US Treasury Auction Results  (impact: low)
+URL: https://www.forexfactory.com/news/1435668-us-treasury-auction-results
+Source: treasurydirect.gov
+--------------------------------------------------------------------------------
+table
+================================================================================
+
+================================================================================
+[2026-11-10 17:34 UTC] ECB's Lane: Energy prices are already reversing; if that continues, headline inflation could fall while underlying inflation rises  (impact: low)
+URL: https://www.forexfactory.com/news/1435665-ecbs-lane-energy-prices-are-already-reversing-if
+Source: @financialjuice
+--------------------------------------------------------------------------------
+ECB's Lane: Energy prices are already reversing; if that continues, headline inflation could fall while underlying inflation risesECB's Lane: It would be a surprise if there are no second-round effects
+================================================================================
+
+================================================================================
+[2026-11-10 16:03 UTC] US Household Debt Increased Moderately; Delinquency Transition Rates Remain Flat  (impact: low)
+URL: https://www.forexfactory.com/news/1435644-us-household-debt-increased-moderately-delinquency-transition-rates
+Source: newyorkfed.org
+--------------------------------------------------------------------------------
+The Federal Reserve Bank of New York’s Center for Microeconomic Data today issued its Quarterly Report on Household Debt and Credit . The report shows total household debt expanded by $334 billion, a 1.8% increase, in Q3 2026, to $19.1 trillion. The report is based on data from the New York Fed’s nationally representative Consumer Credit Panel . It includes a one-page summary of key takeaways and their supporting data points. The New York Fed also issued an accompanying Liberty Street Economics blog post examining differences in the rise in credit card delinquencies by neighborhood income and the role of changing lending standards over the last several years. “Household debt levels rose moderately, led by increases in mortgage and home equity line of credit originations” said Donghoon Lee, Economic Research Advisor at the New York Fed. “Although delinquency transition rates for housing debts have crept up, the overall credit quality of these loans remains strong.” Mortgage balances rose by $257 billion in the third quarter and totaled $13.4 trillion at the end of September. Home equity lines of credit (HELOC) balances rose by $23 billion totaling $481 billion, the largest increase in HELOC balances observed since 2005. Credit card balances rose by $22 billion and stood at $1.29 trillion, and auto loan balances increased by $21 billion to $1.73 trillion. Student loan balances edged up by $5 billion and stood at $1.66 trillion. The pace of mortUS HOUSEHOLD DEBT HITS $19.1 TRILLION AS DELINQUENCIES RISE American household debt surged $334 billion in Q3 to $19.1 trillion, according to the New York Fed. Mortgage balances jumped $257 billion to $13.4 trillion, while credit card debt rose $22 billion to $1.3 trillion. The overall delinquency rate increased, with 5% of outstanding debt in some stage of delinquency by September's end. Meanwhile, 10.9% of student loans remained at least 90 days past due. Household borrowing keeps climbing as repayment pressures intensify.
+================================================================================
+
+================================================================================
+[2026-11-10 15:51 UTC] Logan: Economic and monetary policy outlook  (impact: medium)
+URL: https://www.forexfactory.com/news/1435643-logan-economic-and-monetary-policy-outlook
+Source: dallasfed.org
+--------------------------------------------------------------------------------
+Thank you, Cortney [Cowley], for that kind introduction. I’m delighted to welcome everyone to the Dallas Fed’s Houston branch. It’s great to be here with my colleague Jeff Schmid, president of the Kansas City Fed, and with all of you. This is the 11th joint energy conference of the Dallas and Kansas City Feds, and it just keeps getting better. In large part, that’s thanks to all of you who join us for this event and share your expertise as speakers and audience members. Thank you for being here. Thank you, also, to everyone at the Dallas and Kansas City banks and on site here in Houston who put in the effort to make this day possible. I’m looking forward to an amazing day of dialogue and learning. You can’t understand the U.S. economy without understanding energy. Energy is a critical input to practically every industry, from traditional manufacturing to data centers. The cost of energy shows up in everything we buy. The ways we produce and consume energy shape how geopolitics affects America’s future. The Dallas and Kansas City Federal Reserve Districts contribute nearly half of U.S. energy GDP, and our two banks are committed to thoroughly understanding this sector. At the Dallas Fed, we continue to invest deeply in academic research and industry engagement to inform our thinking. Our publications this year showed how the shale revolution transformed the U.S. response to energy price shocks and examined the ways the data center buildout is moving electricity prices. Through our Energy Advisory Council and other programming, we keep open lines of communication with industry leaders to understand how the energy economy is evolving. That outreach proved vital this year amid fast-moving geopolitical developments with wide-ranging implications for energy markets and the U.S. and world economies. Daron Peschel and Kate Faucher in Houston and Garrett Golding in Dallas lead our energy outreach. I hope you’ll take the opportunity to connect with them today if you aren’t in touch with them already. Since our last conference one year ago, the price of crude oil has risen close to 50 percent on net. Wholesale diesel prices had doubled at one point, though they have retraced somewhat, and natural gas prices in Europe remain more than twice as high as a year ago. Prices of fertilizer and some other commodities have also soared. One piece of good news for American energy consumers has been the sharp decrease in U.S. natural gas prices. Domestic gas supply surged as the ratio of gas to oil rose in aging shale fields. Although there’s been progress on opening pipelines to bring gas out of the field and to American consumers, export capacity to reach the world market and its higher prices remains limited. Again, though, domFed's Logan: It is clear that Fed needs at least two more quarter-percentage-point rate increases.Fed's Logan: More rapid rate hikes possibly needed this winterFed's Logan: After two more rate hikes, it would make sense to pause and assess what further action may be appropriate.Fed's Logan: Fed policy rate is at least 50 basis points below a modestly restrictive level.
+================================================================================
+
+================================================================================
+[2026-11-10 14:29 UTC] SNB's Martin: Swiss economy to grow moderately over the next quarters  (impact: low)
+URL: https://www.forexfactory.com/news/1435634-snbs-martin-swiss-economy-to-grow-moderately-over
+Source: @financialjuice
+--------------------------------------------------------------------------------
+SNB's Martin: Swiss economy to grow moderately over the next quartersMartin: The Swiss National Bank, its monetary policy and the Swiss economyslideshow
+================================================================================
+
+================================================================================
+[2026-11-10 14:29 UTC] Rubio Says Combat Operations Against Iran Are Not Needed Now  (impact: low)
+URL: https://www.forexfactory.com/news/1435619-rubio-says-combat-operations-against-iran-are-not
+Source: @FirstSquawk
+--------------------------------------------------------------------------------
+Rubio Says Combat Operations Against Iran Are Not Needed NowUS Secretary of State Rubio: Talks in Abu Dhabi on Russia-Ukraine were very productive.US Secretary of State Rubio on Iran: Economic pressure on Iran is going to get even worse.
+================================================================================
+
+================================================================================
+[2026-11-10 14:29 UTC] US Consumer Price Index - October 2026  (impact: high)
+URL: https://www.forexfactory.com/news/1435618-us-consumer-price-index-october-2026
+Source: bls.gov
+--------------------------------------------------------------------------------
+The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in October after rising 0.6 percent in September, the U.S. Bureau of Labor Statistics reported today. The index for shelter rose 0.3 percent in October, accounting for over thirty percent of the monthly all items increase. The food index increased 0.5 percent in October, as the food at home index rose 0.4 percent and the food away from home index increased 0.5 percent. The index for energy increased 0.7 percent over the month following a 5.2-percent increase in September. The index for all items less food and energy rose 0.3 percent in October, as it did in September and August. Indexes that increased over the month include recreation, medical care, motor vehicle insurance, household furnishings and operations, and education. Conversely, the index for used cars and trucks and the index for communication were among the small number of major indexes that decreased in October.Consumer prices rose 0.4% in October, more than expected Costs for goods and services rose more than expected in October, providing fresh warning signs for the Federal Reserve in its fight to lower inflation. The consumer price index, a broad gauge of costs across the U.S. economy, increased a seasonally adjusted 0.4% for the month, the Bureau of Labor Statistics reported Tuesday. Economists surveyed by Dow Jones had been looking for a 0.3% increase. Stripping out volatile food and energy, so-called core CPI increased 0.3% against the forecast for a 0.2% gain. The BLS did not estimate a yearly rate. The government shutdown last year prevented the bureau from collecting sufficient data in October 2025, so there is no comparable figure to use. However, the report did include annual figures for some individual items where it was able to collect data. The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates. At its October meeting, central bank officials voted 10-2 to keep their benchmark rate in a range between 3.75%-4% while awaiting incoming data. Though gasoline prices have been falling in recent weeks, the energy index rose 0.7% and the gasoline index was up 1%. Food costs accelerated 0.5% while transportation services jumped 0.8%. New vehicle prices increased 0.2% but used cars and trucks fell 1.2%. Apparel, a tariff-sensitive sector, rose just 0.1% though medical care commodities prices increased 0.5%. Shelter costs were higher by 0.3%. Airline fares accelerated 0.4%.*traders Boost Bets On A Half-point Fed Rate Hike Next Month *traders Add To Bets On At Least Two Fed Rate Hikes By Mid-2027
+================================================================================
+
+================================================================================
+[2026-11-10 13:29 UTC] US ADP National Employment Report Preliminary Estimate for October 24, 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1435617-us-adp-national-employment-report-preliminary-estimate-for
+Source: prnewswire.com
+--------------------------------------------------------------------------------
+For the four weeks ending October 24, 2026, U.S. private employers added an average of 19,750 jobs per week, according to the NER Pulse, a weekly update of the monthly ADP National Employment Report (NER). Hiring strengthened for the second week. These numbers are preliminary and could change as new data is added.tableThe NER Pulse is an estimate of the ...
+================================================================================
+
+================================================================================
+[2026-11-10 13:29 UTC] BoE's Lombardelli: I don't rule out back-to-back rate hikes  (impact: low)
+URL: https://www.forexfactory.com/news/1435616-boes-lombardelli-i-dont-rule-out-back-to-back-rate
+Source: @financialjuice
+--------------------------------------------------------------------------------
+BoE's Lombardelli: I don't rule out back-to-back rate hikes.
+================================================================================
+
+================================================================================
+[2026-11-10 13:29 UTC] The low-gear labour market − speech by Clare Lombardelli  (impact: low)
+URL: https://www.forexfactory.com/news/1435612-the-low-gear-labour-market-a-speech-by-clare
+Source: bankofengland.co.uk
+--------------------------------------------------------------------------------
+Today I want to talk about an unusual feature of the UK labour market. It is cooling, but mainly through less hiring rather than more firing. The economy has been more resilient to the recent energy cost shock than expected. Activity has held up better than anticipated, unemployment has risen only gradually, and redundancies remain relatively low. That may sound like good news. In lots of important ways, it is. But a low-hire, low-fire labour market creates its own problems. It protects those already in work while making it much harder for those trying to get in or move on. This matters because the current slowdown in hiring comes on top of a longer-term decline in mobility within the labour market. People are changing jobs less often. And when they do move, they are less likely to change industry or move into work requiring different skills. The labour market has become less effective at moving people towards new opportunities. The labour market is stuck in low gear.BoE's Lombardelli sees greater prospect of second-round effectsBoE's Lombardelli: Likely To Be Case For More Hikes Near Term - Variety Of Paths For Economy Are Plausible - Greater Prospect Of Second-Round Effects - UK Has Low-Hire, Low-Fire Labour Market That Creates Its Own Problems
+================================================================================
+
+================================================================================
+[2026-11-10 12:29 UTC] Joint Bank-DMO statement on gilt lending  (impact: low)
+URL: https://www.forexfactory.com/news/1435606-joint-bank-dmo-statement-on-gilt-lending
+Source: bankofengland.co.uk
+--------------------------------------------------------------------------------
+The Bank of England and the Debt Management Office (DMO) have agreed that the Bank will make available to the DMO a significant amount of the gilts purchased via the Asset Purchase Facility (APF) for on-lending to the market through the DMO’s normal repo market activity. The DMO may repo these gilts to its existing repo counterparties in accordance with its ...
+================================================================================
+
+================================================================================
+[2026-11-10 11:29 UTC] US NFIB: Main Street Optimism Remains Steady, Uncertainty Declines in October  (impact: low)
+URL: https://www.forexfactory.com/news/1435591-us-nfib-main-street-optimism-remains-steady-uncertainty
+Source: nfib.com
+--------------------------------------------------------------------------------
+The NFIB Small Business Optimism Index for October was 97.8, down 0.1 points from September and slightly below the 53-year average of 98.0. The Uncertainty Index fell 6 points from September to 84, the lowest level since December 2025. “There was little change in optimism among small businesses in October as owners navigated enduring challenges, though ...
+================================================================================
+
