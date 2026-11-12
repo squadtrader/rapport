@@ -158,3 +158,67 @@ Source: @financialjuice
 BoE's Greene: It's appropriate to proactively tighten monetary policy.
 ================================================================================
 
+================================================================================
+[2026-11-12 07:06 UTC] GDP monthly estimate, UK: September 2026  (impact: medium)
+URL: https://www.forexfactory.com/news/1435962-gdp-monthly-estimate-uk-september-2026
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+In the three months to September 2026, compared with the three months to June 2026: Real gross domestic product (GDP) grew by 0.7%, following a growth of 0.6% in the three months to August 2026 (revised down from a 0.7% growth in our previous publication), and an unrevised growth of 0.5% in the three months to July 2026. Services output grew by 0.9%, after ...
+================================================================================
+
+================================================================================
+[2026-11-12 07:05 UTC] Index of Services, UK: September 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1435961-index-of-services-uk-september-2026
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+Services output for Quarter 3 (July to Sept) 2026 was estimated to have increased by 0.9% compared with Quarter 2 (Apr to June) 2026; this follows quarterly growth in both Quarter 2 and Quarter 1 (Jan to Mar) 2026 of 0.6% and 0.7%, respectively. There was a rise in 11 of the 14 sectors in Quarter 3 2026, with the main positive contributing sectors being ...
+================================================================================
+
+================================================================================
+[2026-11-12 07:04 UTC] UK trade: September 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1435960-uk-trade-september-2026
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+The value of goods imports increased by £3.7 billion (6.9%) in September 2026, with a rise in imports from both EU and non-EU countries. The value of goods exports rose by £2.2 billion (6.5%) in September 2026, with a rise in exports to both EU and non-EU countries. The total goods and services trade deficit widened by £6.2 billion to £10.4 billion in ...
+================================================================================
+
+================================================================================
+[2026-11-12 07:04 UTC] Index of Production, UK: September 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1435959-index-of-production-uk-september-2026
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+Production output was estimated to have increased (up by 0.1%) during Quarter 3 (July to Sept) 2026, compared with Quarter 2 (Apr to June) 2026; this follows a 0.1% fall in Quarter 2 2026. Of the four main sectors, a positive contribution came from “manufacturing” (up by 0.9%) during Quarter 3 2026; this was partially offset by negative contributions from ...
+================================================================================
+
+================================================================================
+[2026-11-12 07:03 UTC] GDP first quarterly estimate, UK: July to September 2026  (impact: medium)
+URL: https://www.forexfactory.com/news/1435958-gdp-first-quarterly-estimate-uk-july-to-september
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+UK real gross domestic product (GDP) is estimated to have increased by 0.7% in Quarter 3 (July to Sept) 2026, following growth of 0.5% in Quarter 2 (Apr to June) 2026. GDP is estimated to be 1.9% higher compared with the same quarter a year ago. In output terms, growth in the latest quarter was mainly caused by a 0.9% increase in the services sector (in ...
+================================================================================
+
+================================================================================
+[2026-11-12 07:03 UTC] Construction output in Great Britain: September 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1435957-construction-output-in-great-britain-september-2026
+Source: ons.gov.uk
+--------------------------------------------------------------------------------
+Total construction output is estimated to have fallen by 0.7% in Quarter 3 (July to Sept) 2026 compared with Quarter 2 (Apr to Jun) 2026; new work fell by 1.6%, while repair and maintenance grew by 0.5%. At the sector level, five out of the nine sectors fell in Quarter 3 2026; the main negative contribution to the decrease was private new housing, which ...
+================================================================================
+
+================================================================================
+[2026-11-12 06:08 UTC] BoJ Board Member Asada Says Japan Has Met Its 2% Inflation Goal  (impact: low)
+URL: https://www.forexfactory.com/news/1435956-boj-board-member-asada-says-japan-has-met
+Source: @NodeWire
+--------------------------------------------------------------------------------
+Nodewire Alert Boj Board Member Asada Says Japan Has Met Its 2% Inflation Goal, Making Additional Price Increases Less MeaningfulBOJ Board Member Asada Backs View That Reflationary Measures Have Fulfilled Their Purpose
+================================================================================
+
+================================================================================
+[2026-11-12 02:06 UTC] BOJ Asada: Economic Activity, Prices, and Monetary Policy in Japan  (impact: medium)
+URL: https://www.forexfactory.com/news/1435934-boj-asada-economic-activity-prices-and-monetary-policy
+Source: boj.or.jp
+--------------------------------------------------------------------------------
+The Bank of Japan assesses the current situation of Japan's economy as follows: "Japan's economy has recovered moderately, although some weakness has been seen in part, partly due to the impact of the situation in the Middle East." To elaborate on this point, I would like to examine several elements of the economy, starting with developments in overseas economies. Regarding overseas economies, uncertainties heightened considerably in spring 2026, reflecting the situation in the Middle East, but since then, real economic activity has not seen a significant downward deviation on the whole (left panel of Chart 1). Against this backdrop, the Bank assesses that "overseas economies have grown moderately on the whole, although some weakness has been seen in part." Looking at international commodity prices, crude oil prices have been at fairly high levels, as the situation in the Middle East remains unclear, but they have fallen below their peak levels reached in April (right panel of Chart 1). On the other hand, copper prices have remained elevated, partly reflecting strong global AI-related demand. Examining the trends in external demand for Japan's economy amid these overseas developments, the effective exchange rate of the yen has been on a depreciating trend recently (left panel of Chart 2). In this situation, exports have increased moderately (right panel of Chart 2). By type of goods, increased exports of IT-related goods and capital goods, reflecting solid global AI-related demand, have been the driving force of overall exports<JPY=>:*BOJ'S ASADA: MINDFUL OF IMPACT OF PAST RATE HIKES ON ECONOMY *BOJ'S ASADA: UNDERLYING INFLATION CONSISTENT WITH BOJ'S PRICE TARGETBOJs Asada: financial conditions stay accommodativeBOJ Board Member Asada Says Recent Consumption Trends May Not Be as Robust as They Appear
+================================================================================
+
