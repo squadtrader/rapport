@@ -222,3 +222,99 @@ Source: boj.or.jp
 The Bank of Japan assesses the current situation of Japan's economy as follows: "Japan's economy has recovered moderately, although some weakness has been seen in part, partly due to the impact of the situation in the Middle East." To elaborate on this point, I would like to examine several elements of the economy, starting with developments in overseas economies. Regarding overseas economies, uncertainties heightened considerably in spring 2026, reflecting the situation in the Middle East, but since then, real economic activity has not seen a significant downward deviation on the whole (left panel of Chart 1). Against this backdrop, the Bank assesses that "overseas economies have grown moderately on the whole, although some weakness has been seen in part." Looking at international commodity prices, crude oil prices have been at fairly high levels, as the situation in the Middle East remains unclear, but they have fallen below their peak levels reached in April (right panel of Chart 1). On the other hand, copper prices have remained elevated, partly reflecting strong global AI-related demand. Examining the trends in external demand for Japan's economy amid these overseas developments, the effective exchange rate of the yen has been on a depreciating trend recently (left panel of Chart 2). In this situation, exports have increased moderately (right panel of Chart 2). By type of goods, increased exports of IT-related goods and capital goods, reflecting solid global AI-related demand, have been the driving force of overall exports<JPY=>:*BOJ'S ASADA: MINDFUL OF IMPACT OF PAST RATE HIKES ON ECONOMY *BOJ'S ASADA: UNDERLYING INFLATION CONSISTENT WITH BOJ'S PRICE TARGETBOJs Asada: financial conditions stay accommodativeBOJ Board Member Asada Says Recent Consumption Trends May Not Be as Robust as They Appear
 ================================================================================
 
+================================================================================
+[2026-11-12 16:45 UTC] Suspected Yen Intervention  (impact: high)
+URL: https://www.forexfactory.com/news/1436051-suspected-yen-intervention
+Source: @financialjuice
+--------------------------------------------------------------------------------
+BREAKING: Suspected Yen Intervention
+================================================================================
+
+================================================================================
+[2026-11-12 16:19 UTC] Fed's Goolsbee: Inflation Has Been Well Above Target  (impact: low)
+URL: https://www.forexfactory.com/news/1436049-feds-goolsbee-inflation-has-been-well-above-target
+Source: @DeItaone
+--------------------------------------------------------------------------------
+Fed's Goolsbee: Inflation Has Been Well Above TargetFed's Goolsbee: Worth being 'sober-minded' about inflation data and Fed responseFed's Goolsbee says Fed is edging into a historically tough spotFed's Goolsbee: Hot Inflation Report Wasn't A One-offFed's Goolsbee: Fed should be mindful of signs that the overall economy is overheating
+================================================================================
+
+================================================================================
+[2026-11-12 15:31 UTC] The Conference Board Leading Economic Index (LEI) for Australia Unchanged in September  (impact: low)
+URL: https://www.forexfactory.com/news/1436039-the-conference-board-leading-economic-index-lei-for
+Source: conference-board.org
+--------------------------------------------------------------------------------
+The Conference Board Leading Economic Index® (LEI) for Australia remained unchanged in September 2026 at 117.2 (2016=100), after declining by 0.5% in August. Despite recent weakness, over the six-month period between March and September 2026, the LEI for Australia increased by 0.7%, a slowdown from the growth rate of 1.0% recorded during the previous ...
+================================================================================
+
+================================================================================
+[2026-11-12 15:02 UTC] US Existing-Home Sales Decreased 5.5% in October, According to NAR Report  (impact: low)
+URL: https://www.forexfactory.com/news/1436036-us-existing-home-sales-decreased-55-in-october-according
+Source: nar.realtor
+--------------------------------------------------------------------------------
+Existing-home sales decreased by 5.5% month-over-month and decreased by 8.8% year-over-year, according to the National Association of REALTORS® Existing-Home Sales report. The report provides the real estate ecosystem, including agents, homebuyers and sellers, with data on the level of home sales, price and inventory. Month-over-month sales declined in the ...
+================================================================================
+
+================================================================================
+[2026-11-12 15:02 UTC] Barr: American Inequality and the Future of AI  (impact: low)
+URL: https://www.forexfactory.com/news/1436035-barr-american-inequality-and-the-future-of-ai
+Source: federalreserve.gov
+--------------------------------------------------------------------------------
+Thank you for the opportunity to speak to you today. In a speech earlier this year, I explored scenarios in which artificial intelligence (AI) could affect economic inequality, for better or for worse. My focus in those remarks was on the AI side of this relationship, and today I would like to return to this topic by first providing some important context ...
+================================================================================
+
+================================================================================
+[2026-11-12 13:50 UTC] Jensen Out; Nvidia CEO Huang Resigns, Effective Immediately Nvidia Names CFO Colette Kress Interim CEO  (impact: low)
+URL: https://www.forexfactory.com/news/1436017-jensen-out-nvidia-ceo-huang-resigns-effective-immediately
+Source: @zerohedge
+--------------------------------------------------------------------------------
+Jensen Out *nvidia Ceo Huang Resigns, Effective Immediately *nvidia Names Cfo Colette Kress Interim CeoNVIDIA: Board initiating search for permanent CEO role.Nvidia CEO Jensen Huang resigns: Live updates Nvidia CEO Jensen Huang is stepping down as CEO of the chipmaker he co-founded 33 years ago and built into a $4 trillion company that powered the artificial intelligence boom. After a meteoric rise to fame due to Nvidia’s central role in AI, Huang’s dramatic fall has been even more rapid, following a series of stinging revelations about his romantic ties to a woman believed by the U.S. intelligence community to be a Chinese spy. Huang, 63, apologized on Sunday for being “unfaithful to my wife,” though he provided no details about the affair with businesswoman Alice Huang, who has worked for a Chinese company and Nvidia customer called Megaspeed. On Thursday, The New York Times reported that the Nvidia CEO also had a separate affair, this
+================================================================================
+
+================================================================================
+[2026-11-12 13:48 UTC] Fed's Hammack: Fed Has Been Missing On Inflation Mandate For Years  (impact: low)
+URL: https://www.forexfactory.com/news/1436015-feds-hammack-fed-has-been-missing-on-inflation
+Source: @DeItaone
+--------------------------------------------------------------------------------
+Fed's Hammack: Fed Has Been Missing On Inflation Mandate For YearsFed's Hammack: Fed is doing very well on job side of mandate.Fed's Hammack: We need to move to restrictive monetary policy to lower inflation.Fed's Hammack: Prefers To See Smaller, Steadier Fed Rate MovesFed's Hammack: If we get behind, a larger move could be needed.
+================================================================================
+
+================================================================================
+[2026-11-12 13:48 UTC] Canada building permits, September 2026  (impact: low)
+URL: https://www.forexfactory.com/news/1436011-canada-building-permits-september-2026
+Source: statcan.gc.ca
+--------------------------------------------------------------------------------
+In September, the total value of building permits issued in Canada declined $552.8 million (-4.1%) to $12.9 billion. The decrease in construction intentions was led by the residential sector (-$475.7 million) and supported by the non-residential sector (-$77.1 million). On a constant dollar basis (2023=100), the total value of building permits issued in ...
+================================================================================
+
+================================================================================
+[2026-11-12 13:48 UTC] US Unemployment Insurance Weekly Claims  (impact: low)
+URL: https://www.forexfactory.com/news/1436012-us-unemployment-insurance-weekly-claims
+Source: dol.gov
+--------------------------------------------------------------------------------
+In the week ending November 7, the advance figure for seasonally adjusted initial claims was 200,000, an increase of 9,000 from the previous week's revised level. The previous week's level was revised up by 2,000 from 189,000 to 191,000. The 4-week moving average was 195,250, unchanged from the previous week's revised average. The previous week's average ...
+================================================================================
+
+================================================================================
+[2026-11-12 13:48 UTC] Trump: We don’t need a deal with Iran. Those days have long since passed. We’ve got their money, and we’ve got their Strait!  (impact: high)
+URL: https://www.forexfactory.com/news/1436010-trump-we-dont-need-a-deal-with-iran
+Source: @realDonaldTrump
+--------------------------------------------------------------------------------
+I have asked Vice President Vance to focus his complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and States throughout the U.S. The Blue States, such as Minnesota, California, Illinois, and many more, are all poorly run, corrupt disasters. Billions of Dollars is being stolen each and every month. Our Budget could be quickly BALANCED with the correction of this large scale criminal activity. CORRUPTION is in the Democrat Leadership’s blood! We don’t need a deal with Iran. Those days have long since passed. We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait! Thank you for your attention to this matter. President DJT
+================================================================================
+
+================================================================================
+[2026-11-12 12:48 UTC] Trump Threatens To Double Tariffs On Mexico Over Caravans Trump Says Mexico Must Stop Migrant Caravans Now  (impact: low)
+URL: https://www.forexfactory.com/news/1436003-trump-threatens-to-double-tariffs-on-mexico-over
+Source: @finsquawk_
+--------------------------------------------------------------------------------
+Trump Threatens To Double Tariffs On Mexico Over Caravans Trump Says Mexico Must Stop Migrant Caravans Now
+================================================================================
+
+================================================================================
+[2026-11-12 09:48 UTC] ECB: Economic, financial and monetary developments  (impact: low)
+URL: https://www.forexfactory.com/news/1435976-ecb-economic-financial-and-monetary-developments
+Source: ecb.europa.eu
+--------------------------------------------------------------------------------
+At its meeting on 29 October 2026, the Governing Council decided to keep the three key ECB interest rates unchanged. Energy prices have continued to rise, posing upside risks to the inflation outlook and downside risks to the growth outlook. While the full effects of the energy shock are still unfolding, underlying inflation has remained broadly stable so ...
+================================================================================
+
