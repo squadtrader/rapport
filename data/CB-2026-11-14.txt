@@ -82,3 +82,221 @@ People's Bank of China injected 300 billion yuan of 7-day reverse repurchase ope
 Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
 ================================================================================
 
+================================================================================
+[2026-11-13 15:42 UTC] Fed's Collins: I would think some additional policy tightening is warranted soon
+URL: https://investinglive.com/central-banks/fed-s-collins-i-would-think-some-additional-policy-tightening-is-warranted-soon/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Comments from the Boston Fed President
+
+Possible Fed may ahve to raise more than expected
+
+Best care scenario is 'careful adjustment' of mon pol
+
+Labor market appears on solid footing
+
+The future direction of mon pol is clear
+
+Recent inflation data less promising than I hope
+
+Inflation is too high and appears to be broadening
+
+I don't see any way the Fed doesn't hike in December and now the market sees a 75% chance of back-to-back hikes. Today, Bank of America forecast back-to-back to back hikes in Dec, Jan and March.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
+================================================================================
+[2026-11-13 17:23 UTC] Fed's Daly: In all likelihood, we need to raise rates
+URL: https://investinglive.com/central-banks/fed-s-daly-in-all-likelihood-we-need-to-raise-rates/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Comments from the San Francisco Fed President
+
+Hard to say policy is restrictive enough
+
+In all likelihood, we will need to raise rates
+
+A myriad of things are pushing up inflation, which makes it concerning
+
+Bias is that rates need to go up
+
+Every single Fed official speaking lately says that rates need to go up, and yet seemingly none of them supported a rate hike two weeks ago. It's baffling.
+
+I wouldn't spend a lot of time on the summary of economic projections, it's just a point in time
+
+I'm looking at the gap between how consumer sentiment and spending gets closed
+
+Watch services ex-housing inflation, it's not moving in the right direction
+
+Just starting to hear that the consumer may be running out of gas
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
+================================================================================
+[2026-11-13 13:53 UTC] Fed's Goolsbee: We're not on the way to 2% inflation and we have to deal with that
+URL: https://investinglive.com/central-banks/fed-s-goolsbee-we-re-not-on-the-way-to-2-inflation-and-we-have-to-deal-with-that/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Comments from the Chicago Fed President
+
+Inflation has spread into categories where prices not driven by energy
+
+The jobs market looks stable, if not tightening a bit
+
+Rates will eventually go well-below today
+
+We have had signs of trouble for several months in a row now
+
+Lately we’re not making any progress and if anything, it’s going the wrong way
+
+Inflation is rising and proving far more persistent than expected when it was just a matter of supply shocks
+
+The Fed "definitely has work to do" to maintain its credibility
+
+Services inflation and rising health care costs don't feel like they will change quickly
+
+Even if the price of oil goes down rapidly, refining capacity is still very problematic
+
+My feeling is that right now we're not on the way to 2% and we have to deal with that
+
+Demand-overheating inflation shocks are extremely hard to get rid of
+
+Until about six months ago I thought AI overheating was staying in its lane; I’ve begun to change that view
+
+The tariff and oil price shocks were supposed to have gone away by now
+
+This is the guy who used to be the most reliable dove on the FOMC. He’s now talking about demand overheating and Fed credibility.
+
+He was pushed on 25 bps versus something faster in December and wouldn’t bite, but he didn’t push back on the premise either. He was also asked about Bessent’s warning, which invoked the ECB hiking in 2008 right before the financial crisis. He was polite about it and then went straight back to inflation persistence.
+
+There’s an out here. If tariffs, oil and the AI squeeze all ease, he’s comfortable going slow. But he’s not forecasting that, he’s hoping for it. Goolsbee votes in 2027.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
+================================================================================
+[2026-11-13 14:52 UTC] Goldman Sachs: We can explain almost the entire US inflation overshoot by tariffs and the war in Iran
+URL: https://investinglive.com/central-banks/goldman-sachs-we-can-explain-almost-the-entire-us-inflation-overshoot-by-tariffs-and-the-war-in-iran/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+The White House is faced with a problem of its own doing
+
+Goldman Sachs is out with a chart that says the US inflation problem is almost entirely two things: tariffs and the Iran energy shock. Take those out and inflation is basically at target.
+
+The latest hard data is ugly. September PCE was 3.6% y/y on headline and 3.1% on core, with gasoline and other energy goods up 9.2% in the month alone. Goldman sees headline peaking just shy of 3.9% right about now and core topping out near 3.3%.
+
+Headline PCE ex-temporary drivers: roughly 2.2%
+
+Core PCE ex-temporary drivers: roughly 2.4%
+
+Energy/Iran is worth about 1.5 pp on headline at the peak
+
+Tariffs are worth another 0.3-0.4 pp on headline and were closer to a full point on core earlier this year
+
+Tariff effects are largely gone by mid-2027; the energy effect fades through late 2027
+
+Headline is back near 2.1% and core near 2.4% by the end of 2027
+
+That’s the case for looking through it. Tariffs are a one-time level shift and oil doesn’t rise 30% every year. Hiking rates doesn’t reopen Hormuz.
+
+Here’s the catch: Goldman’s own economists don’t think the Fed will look through it. After Tuesday’s hot October CPI, the third straight upside surprise, they added a hike to their forecast. They now see 25 bps in December and another 25 bps in March, and they pushed the first cut back to December 2027. A month ago they were arguing the Fed might be one-and-done after September.
+
+The rest of the Street is moving faster. Bank of America is just out with a call for hikes in December, January and March, adding January to its forecast. Deutsche Bank has the same three. The market is pricing 86 bps of tightening over the year ahead, which is more than three hikes and more than any of them.
+
+So Goldman is in an odd spot. It says the overshoot is temporary, and it’s still the dove on the Street with two more hikes.
+
+There are a few holes in the temporary story too. First, look at the red line on the core chart. It bottomed near 2.0% in mid-2026 and has climbed to about 2.4% since. That’s the underlying trend moving the wrong way, even after Goldman takes out everything it can. Second, core services ex-housing hit 3.6% y/y in September, tied for the hottest since 2024. Neither tariffs nor crude explains that directly.
+
+Third, “temporary” is carrying a heavy load. Tariff passthrough is in its second year and the energy wedge doesn’t fully close until late 2027. That’s nearly three years of above-target inflation on the heels of 2021-23. Expectations don’t care what the decomposition says, and neither does a Fed that had two dissenters asking for a hike in October.
+
+Goldman is probably right on the math. But the Fed is hiking anyway, and the only debate left is how many.
+
+Also, keep an eye on rates, the long end of the Treasury curve is starting to fret again, with US 10-year yields up another 6 bps to 5.16% today.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
+================================================================================
+[2026-11-13 12:01 UTC] How have interest rate expectations changed after this week's events?
+URL: https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-8/
+Tags: market overview
+--------------------------------------------------------------------------------
+Summary
+
+We've got a hawkish repricing almost across the board on increased US-Iran tensions, with a more notable shift in Fed's pricing after the hawkish Fed governor Waller's remarks and the hotter than expected US inflation data
+
+Rate hikes by year-end
+
+Fed:28 bps (88% probability of 25 bpsrate hikeat the next meeting; 12% of 50 bps hike)
+
+2027: 88 bps
+
+BoE:21 bps (85% probability ofrate hikeat the next meeting)
+
+2027: 94 bps
+
+RBNZ:20 bps (82% probability ofrate hikeat the next meeting)
+
+2027: 83 bps
+
+ECB:20 bps (82% probability ofrate hikeat the next meeting)
+
+2027: 71 bps
+
+BoJ:19 bps (76% probability ofrate hikeat the next meeting)
+
+2027: 78 bps
+
+BoC:16 bps (64% probability ofrate hikeat the next meeting)
+
+2027: 75 bps
+
+SNB:5 bps (82% probability of no change at the next meeting)
+
+2027: 63 bps
+
+RBA:1 bps (94% probability of no change at the next meeting)
+
+2027: 18 bps of rate cuts
+
+The 2027 pricing indicates the total amount of tigthening expected by the end of 2027, not how much is expected in 2027 alone.
+
+The Fed has seen the most significant hawkish repricing this week, driven  by Fed Governor Waller's  hawkish remarks and the hotter than expected US inflation data. Waller said he would support a 25 bps rate hike in December even if inflation improved, while warning that a 50 bps increase could be necessary if inflation surprised to the upside.
+
+October CPI subsequently came in above expectations, with headline inflation rising 0.4% m/m vs 0.3% expected and core CPI increasing 0.3% vs 0.2% expected. The increased US-Iran tensions have added to inflation concerns through the energy channel, reinforcing the hawkish pricing.
+
+The BoE saw a hawkish repricing after the better than expected UK GDP data and some hawkish remarks from MPC members. The BoE already raised rates by 25 bps to 4% at the last meeting, with an 8–1 vote. One member even favoured a larger 50 bps increase.
+
+The main driver remains the inflation outlook. UK CPI accelerated to 3.5% in September, and the BoE expects inflation to approach 5% by mid-2027 as higher energy prices feed through the economy. The stronger than expected activity data and persistent domestic inflation pressures have also strengthened the case for further tightening. The prolonged US-Iran conflict just adds another layer of upside risk to inflation expectations.
+
+The RBNZ unexpectedly kept rates unchanged at 2.75% in October, in a 4–3 vote, despite markets  fully pricing a rate hike. The decision reflected concerns about economic uncertainty and the need to assess the effects of previous tightening. Nevertheless, the central bank maintained a tightening bias. Inflation remains above its 1–3% target range. Higher fuel prices and broader underlying inflation pressures could require further tightening. The latest increase in geopolitical tensions adds to those risks.
+
+The ECB has also seen a slightly hawkish repricing amid increasingly hawkish communication from policymakers. ECB's Žigman recently described another December rate hike as a strong possibility, while cautioning that policymakers need more data before deciding. The risk of higher energy prices feeding into wages and broader price-setting behaviour remains a major concern.
+
+The BoJ hawkish repricing was driven by the central bank's increasingly confident assessment that underlying inflation has reached its 2% target. Governor Ueda recently signalled that the December meeting would include a discussion about another rate increase, suggesting that the BoJ is becoming more comfortable with further policy normalisation.
+
+Additionally, Japanese inflation is expected to remain above the 2% target, partly reflecting the impact of higher energy prices. However, there are still divisions within the BoJ, with some policymakers warning that further tightening could undermine the economic recovery.
+
+The BoC is also expected to deliver another rate hike at the next meeting, despite the economic data showing no urgency whatsoever. The central bank already delivered its first rate hike since July 2023 in October, taking the policy rate to 2.5%. The decision reflected a deterioration in the inflation outlook, with persistently elevated oil prices and increasing evidence that businesses will eventually pass higher input costs on to consumers.
+
+The BoC also revised its inflation outlook higher, expecting CPI inflation to average around 3% in 2027. Governor Macklem acknowledged that further tightening might be necessary, although policymakers intend to proceed cautiously given the uncertainty surrounding the economic outlook.
+
+The SNB remains the least hawkish central bank given limited signs of acceleration in underlying inflation. Although headline inflation has increased due to higher energy prices, the SNB has previously stressed that medium-term inflationary pressures remain relatively contained. There is also little evidence of second-round effects, meaning higher energy prices have not yet translated into broader and more persistent inflation. The Swiss franc's safe-haven appeal amid geopolitical uncertainty also provides some additional protection against imported inflation.
+
+For the RBA markets are not pricing any more rate hikes, on the contrary, traders started to price in rate cuts in 2027. The RBA already raised rates 5 times this year, taking the Cash Rate from 3.60% to 4.85% in November. At the last meeting, three members voted against the increase as the appetite for further tightening faded amid softer labour market data.
+
+The central bank's latest projections suggest inflation will remain above 3% until late 2027, but restrictive monetary policy is also expected to weigh on economic activity. Traders expect that the cumulative impact of previous tightening will eventually weaken growth enough to allow rate cuts.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
