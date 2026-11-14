@@ -230,3 +230,19 @@ Source: @financialjuice
 Suspected Yen Intervention
 ================================================================================
 
+================================================================================
+[2026-11-14 00:45 UTC] Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, officials say  (impact: low)
+URL: https://www.forexfactory.com/news/1436384-trump-xi-and-putin-plan-an-unprecedented-joint
+Source: nbcnews.com
+--------------------------------------------------------------------------------
+The leaders of the United States, China and Russia plan to meet Thursday on the sidelines of next week’s Asia-Pacific Economic Cooperation summit in China’s tech hub of Shenzhen — an unprecedented gathering of the heads of the world’s biggest nuclear powers. While the leaders gathering for joint talks will mark a singular moment, analysts say expectations ...
+================================================================================
+
+================================================================================
+[2026-11-14 00:44 UTC] Fed's Jefferson: New Technology, Old Questions: Productivity Puzzles and the Macroeconomy  (impact: low)
+URL: https://www.forexfactory.com/news/1436383-feds-jefferson-new-technology-old-questions-productivity-puzzles
+Source: federalreserve.gov
+--------------------------------------------------------------------------------
+Thank you, Jim, for that kind introduction, and thank you to UC San Diego for hosting me.1 It is a pleasure to be speaking to this group that includes students, faculty, and business leaders. The topics I want to focus on today are relevant for all of us: How could rapid technological change affect our economy, and what could that mean for monetary policy? I will start by discussing an earlier period of major technological advances and what lessons we might distill from it for the current juncture. Next, I will turn to what evidence we have regarding the adoption of artificial intelligence (AI).2 I will consider how widely these tools are being used, in which sectors, and what recent research tells us about their potential effects on productivity. Then, I will consider the implications of rapid technological change for the economy more broadly, including for aggregate supply and demand, for inflation, and for the labor market. Finally, I will discuss briefly my thinking about the economic outlook and monetary policy. Productivity Puzzles: Then and Now Nobel Prize-winning economist Robert Solow famously wrote in 1987 that "you can see the computer age everywhere but in the productivity statistics."3 He may have been expecting too much from the computers he saw. While 32 percent of workers used computers at work in 1989, the computers were not very powerful. To illustrate, the processor in your phone today can do about as many calculations per second as 10 million 1987 vintage personal computers (PCs).4 In the aggregate, national spending on computers—shown in figure 1—was barely detectable at the time, despite PCs being an important part of the zeitgeist.5 Ten years later, computer investment had taken off and some observers, notably Chairman Greenspan, believed they could see it in the productivity statistics, though the link between the two was only established later.6 Investment in information technology (IT) capital—computers, software, and communications equipment—increased the annual growth rate of labor productivity about 3/4 percentage point in the late 1990s.7Fed Vice Chair Jefferson: The Fed's policy deliberations have never been influenced by concerns over debt or deficits.US economy is picking up momentum and the labor market stays strong, Fed's JeffersonOngoing price pressures are signaled by inflation data, Jefferson says
+================================================================================
+
