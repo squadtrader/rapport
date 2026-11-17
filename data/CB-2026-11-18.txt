@@ -1,0 +1,66 @@
+================================================================================
+[2026-11-17 00:30 UTC] PBOC is expected to set the USD/CNY reference rate at 6.6715 – Reuters estimate
+URL: https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6715-reuters-estimate/
+Tags: CNY, CNH, pboc
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The People’s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets.
+
+China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC. The current trading band permits the currency to move plus or minus 2% from the official midpoint during onshore trading hours.
+
+Each morning, the PBOC determines the midpoint based on a range of inputs. These include the previous day’s closing price, movements in major currencies, particularly the US dollar, broader international FX conditions, and domestic economic considerations such as capital flows, growth momentum and financial stability objectives. The midpoint is not a purely mechanical calculation, allowing policymakers discretion to guide market expectations.
+
+Once the midpoint is announced, onshore USD/CNY is free to trade within the allowable band. If market pressures push the yuan toward either edge of that range, the central bank may step in to smooth volatility. Intervention can take the form of direct buying or selling of yuan, adjustments to liquidity conditions, or guidance through state-owned banks.
+
+As a result, the daily fixing is often interpreted as a policy signal rather than just a technical reference point. A stronger-than-expected CNY midpoint is typically read as a sign the PBOC is leaning against depreciation pressure, while a weaker fixing for the CNY can indicate tolerance for a softer currency, often in response to dollar strength or domestic economic headwinds.
+
+In periods of heightened global volatility, such as shifts in US rate expectations, trade tensions or capital flow pressures, the fixing takes on added significance. For investors, it provides insight into Beijing’s currency priorities, balancing competitiveness, capital stability and financial market confidence.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
+================================================================================
+[2026-11-17 00:36 UTC] RBA minutes: 6 members saw rates “not clearly sufficient”, 3 warned of sharper downturn
+URL: https://investinglive.com/central-banks/rba-minutes-6-members-saw-rates-not-clearly-sufficient-3-warned-of-sharper-downturn/
+Tags: RBA
+--------------------------------------------------------------------------------
+Summary
+
+RBA minutes show most members judged rates not clearly sufficient to curb inflation when hiking to 4.85%, citing upside risks, while three dissenters warned the economy may be nearing a sharper downturn. The board gave no explicit guidance.
+
+On balance the minutes lean hawkish, unsurpisngly. The majority’s view that 4.85% is “not clearly sufficient” sits awkwardly with market pricing that had all but ruled out further hikes, and it backs up Bullock’s comment this morning about upside risks. The minority’s warning of a sharper downturn sets a high bar for a December move, though. This week’s wage and jobs data, and the October CPI jump the staff flagged in advance, matter more than usual. For the Australian dollar, near 0.6730, the minutes are mildly supportive but unlikely to change the trend while policy diverges from the Fed. The minutes treat oil as the swing factor: if prices hold rather than ease by around US$30 a barrel as assumed, the inflation case for another hike strengthens.
+
+Earlier
+
+The RBA majority hiked because 4.85% might not be enough, and the minority held back because the economy might already be cracking. That leaves the next move hostage to this week’s jobs data and the oil price.
+
+Six of nine RBA board members backed November’s hike to 4.85%, judging the cash rate “not clearly sufficient” to address upside inflation risks.
+
+The majority cited strong market services inflation, high unit labour costs, broad cost pressures and a likely rise in the neutral rate.
+
+Three members preferred to hold, warning the economy might be near a materially sharper downturn as unemployment rose half a point in six months.
+
+Inflation forecasts assume oil falls by around US$30 a barrel over two years, which leaves significant upside risk if prices stay high.
+
+Staff expect headline inflation to jump in October as last year’s energy subsidies drop out.
+
+The board gave no explicit forward guidance beyond staying attentive to the data.
+
+Most Reserve Bank of Australia board members judged that the cash rate was “not clearly sufficient” to bring inflation under control when they voted to raise it to 4.85% this month, according to minutes of the November meeting released on Tuesday. A three-member minority warned the economy might be close to a materially sharper downturn.
+
+The minutes lay bare a board divided over the balance of risks. The six members who backed the 25 basis point increase, the fifth hike of the year, said forward-looking inflation pressures had risen and the risks to the outlook remained to the upside. They judged that the danger of leaving policy insufficiently restrictive, and allowing inflation expectations to drift higher, outweighed the risk of tightening too much.
+
+The majority pointed to three signs that domestic capacity pressures were playing a bigger role than previously thought: strong inflation in market services, persistent growth in unit labour costs, and broad-based cost pressures reported by business contacts. Staff have revised up their estimate of the unemployment rate consistent with stable inflation, which implies the labour market was tighter in 2026 than they had assessed. Members also noted that the neutral interest rate had likely risen, which makes any given cash rate less restrictive than before.
+
+The three dissenters preferred to hold at 4.60%. They argued it was prudent to wait and assess the 100 basis points of tightening already delivered this year. They placed more weight on downside risks to growth, citing a half-percentage-point rise in unemployment over six months, the housing downturn and fragile sentiment toward investment in data centres.
+
+The Middle East conflict featured heavily. Members noted that crude and refined fuel prices had risen 20% to 25% since August. The forecasts assume oil prices fall by around US$30 a barrel over two years, an assumption that requires some resolution of the conflict and leaves significant upside risk if prices stay high. Staff expect headline inflation to jump in October as last year’s energy subsidies drop out.
+
+The board offered no explicit guidance, saying only that it will remain attentive to the data and do what is necessary to return inflation to target. Earlier on Tuesday, Governor Michele Bullock said inflation risks are still skewed to the upside. Wage data on Wednesday and October jobs figures on Thursday are the next tests.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
