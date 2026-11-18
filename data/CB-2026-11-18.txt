@@ -212,3 +212,99 @@ The view adds to a growing debate over how far the tightening cycle has to run. 
 Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
 ================================================================================
 
+================================================================================
+[2026-11-18 00:38 UTC] Australian wages jump 1.1%, strongest since 2023, but real pay falls for a fourth quarter
+URL: https://investinglive.com/central-banks/australian-wages-beat-at-1-1-as-award-rise-hands-rba-hawks-a-fresh-argument/
+Tags: RBA, AUD, Economics
+--------------------------------------------------------------------------------
+Summary
+
+Australia’s Wage Price Index rose 1.1% q/q in Q3, the most since late 2023, lifting annual growth to 3.5%. Award rises drove private pay and public wages rose 1.3%, but real wages fell 0.4% y/y. The beat hands RBA hawks fresh ammunition.
+
+The headline beat should support the Australian dollar and short-dated yields at the margin, as traders reassess how firmly they had ruled out another RBA hike. The detail limits the hawkish case, though. Private sector strength came from a one-off award decision, public sector pay is doing much of the work, and real wages are still falling, so it’s hard to argue wages are driving inflation. That mix makes a large repricing of December less likely. For AUD/USD, rate expectations at home are still competing with a Fed on a hiking path.
+
+Australian pay growth was the strongest in nearly three years, but it still didn’t keep up with prices, which gives both camps on the RBA board something to work with.
+
+The Wage Price Index rose 1.1% q/q in Q3, the strongest quarter since late 2023, against 1.0% expected
+
+Annual wage growth picked up to 3.5% from 3.2%
+
+The 4.75% award wage increase drove private sector pay
+
+Public sector wages rose 1.3% q/q, led by frontline workers, outpacing the private sector for a seventh straight quarter
+
+Real wages fell 0.4% over the year, the fourth consecutive quarter of negative annual growth
+
+The RBA’s majority judged rates not clearly sufficient at its November meeting
+
+Australian wages rose 1.1% in the September quarter, the strongest quarterly gain since late 2023 and ahead of the 1.0% economists had expected, Australian Bureau of Statistics data showed on Wednesday. Annual growth picked up to 3.5% from 3.2%.
+
+The Fair Work Commission’s larger than expected 4.75% increase in award wages, which mostly flows through in the September quarter, drove the lift in private sector pay. The public sector was stronger again. Public wages rose 1.3% in the quarter, driven by frontline workers, and have now outpaced private sector wages for seven consecutive quarters.
+
+Workers are still falling behind. Real wages fell in the quarter and were down 0.4% over the year, the fourth straight quarter of negative annual growth, as inflation continued to run ahead of pay.
+
+The data gives the Reserve Bank of Australia’s hawks more to work with. The bank lifted the cash rate to 4.85% earlier this month, its fifth hike this year and an 18-year high, on a split 6-3 vote. Minutes released on Tuesday showed the majority judged that rates were not clearly sufficient to bring inflation under control, and Governor Michele Bullock said the same day that inflation risks remain skewed to the upside. A wage print that beats forecasts feeds into services inflation, the part of the price basket the RBA has found hardest to bring down.
+
+The doves have their own arguments in the detail. The private sector lift came from a one-off award decision rather than a tight labour market, and much of the strength sits in public sector pay set outside market pressures. Falling real wages also suggest pay is catching up with inflation rather than driving it, with unemployment at 4.7% and job advertisements declining.
+
+Markets had all but priced out a December hike before the release. This result makes that call look less certain, but it probably does not overturn it. The monthly inflation data due before the December meeting will carry more weight. If prices also run hot, the RBA debate could shift from whether rates have peaked to whether one more hike is needed.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
+================================================================================
+[2026-11-17 19:34 UTC] Fed's Williams: The economy is getting stronger, inflation not moving in the right direction
+URL: https://investinglive.com/central-banks/fed-s-williams-the-economy-is-getting-stronger-inflation-not-moving-in-the-right-direction/
+Tags: Fed
+--------------------------------------------------------------------------------
+Summary
+
+Williams pushes back on dramatic action, though he admits inflation is moving the wrong way
+
+New York Fed President John Williams is out with some fresh commentary, and the message is a classic mix of acknowledging the inflation headache while trying to keep the market from pricing in anything too aggressive.
+
+I don't think the situation calls for dramatic policy action
+
+Tariffs and energy shock still affecting inflation readings
+
+Is seeing signs of shocks spilling over into broader inflation data
+
+Inflation is 'stubbornly high'
+
+Fed still has more work to do to get inflation back to 2%
+
+The economy is strong and getting stronger, inflation is not moving in right direction
+
+The big takeaway here for traders is that line about avoiding "dramatic policy action." Coming off the back of this week's hot October CPI print—and with the market increasingly jittery about the Fed having to ramp up its hiking cycle after restarting it in September—Williams is effectively pouring cold water on the idea of a 50 bps move.
+
+Still, you can't ignore the hawkish undertones. Admitting that tariff and energy shocks are spilling over into the broader data is a notable shift. Back in October, Williams was singing a much more patient tune, arguing there was "no need for urgency" ahead of the late-October FOMC meeting and suggesting he saw no need for hikes in 2027. While he was open to one more quarter-point hike before year-end back then, the tone today is noticeably more concerned about the stickiness of prices—even if he isn't ready to panic.
+
+For the December 9 decision, a 25 bps hike remains the clear base case and it's fully priced into markets with a dwindling chance of 50 bps.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
+================================================================================
+[2026-11-18 00:29 UTC] PBOC is expected to set the USD/CNY reference rate at 6.6654 – Reuters estimate
+URL: https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-9/
+Tags: CNY, CNH, pboc
+--------------------------------------------------------------------------------
+Summary
+
+PBOC CNY reference rate setting for the trading session ahead.
+
+The People’s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets.
+
+China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC. The current trading band permits the currency to move plus or minus 2% from the official midpoint during onshore trading hours.
+
+Each morning, the PBOC determines the midpoint based on a range of inputs. These include the previous day’s closing price, movements in major currencies, particularly the US dollar, broader international FX conditions, and domestic economic considerations such as capital flows, growth momentum and financial stability objectives. The midpoint is not a purely mechanical calculation, allowing policymakers discretion to guide market expectations.
+
+Once the midpoint is announced, onshore USD/CNY is free to trade within the allowable band. If market pressures push the yuan toward either edge of that range, the central bank may step in to smooth volatility. Intervention can take the form of direct buying or selling of yuan, adjustments to liquidity conditions, or guidance through state-owned banks.
+
+As a result, the daily fixing is often interpreted as a policy signal rather than just a technical reference point. A stronger-than-expected CNY midpoint is typically read as a sign the PBOC is leaning against depreciation pressure, while a weaker fixing for the CNY can indicate tolerance for a softer currency, often in response to dollar strength or domestic economic headwinds.
+
+In periods of heightened global volatility, such as shifts in US rate expectations, trade tensions or capital flow pressures, the fixing takes on added significance. For investors, it provides insight into Beijing’s currency priorities, balancing competitiveness, capital stability and financial market confidence.
+
+Your market education doesn't end here. Discover more insights and practical lessons in our investingLive video collection.
+================================================================================
+
