@@ -198,3 +198,43 @@ Source: zew.de
 After the negative development in October, economic expectations improve in November. The ZEW indicator rises by 7.5 points and reads now plus 35.6 points. Assessment of the current economic situation increases again. The situation indicator for Germany is at minus 33.2 points, exceeding the previous month’s value by 2.7 points. “Expectations improve in ...
 ================================================================================
 
+================================================================================
+[2026-11-18 00:31 UTC] Wage Price Index, Australia, September 2026  (impact: medium)
+URL: https://www.forexfactory.com/news/1437238-wage-price-index-australia-september-2026
+Source: abs.gov.au
+--------------------------------------------------------------------------------
+The seasonally adjusted Wage Price Index (WPI) rose 1.1% in the September quarter 2026. • The WPI rose 3.5% over the twelve months to the September quarter 2026. • Private sector wages rose 1.0% and public sector wages rose 1.3% in the quarter.tablechartSeasonally adjusted, wages grew 1.1% in the September quarter 2026 and 3.5% over the year. This ...
+================================================================================
+
+================================================================================
+[2026-11-17 23:52 UTC] Japan Trade Balance Total (Seasonally Adjusted)  (impact: low)
+URL: https://www.forexfactory.com/news/1437227-japan-trade-balance-total-seasonally-adjusted
+Source: customs.go.jp
+--------------------------------------------------------------------------------
+table
+================================================================================
+
+================================================================================
+[2026-11-17 21:58 UTC] API: Crude: +5.3M, Cushing: -1.7M, Gasoline: +5.1M, Distillates: +0.4M  (impact: low)
+URL: https://www.forexfactory.com/news/1437226-api-crude-53m-cushing-17m-gasoline-51m-distillates
+Source: @BroadStreetOil
+--------------------------------------------------------------------------------
+API Stocks 11/17/2026 Crude: 420.4mb (+5.3mb) Cushing: 26.2mb (1.7mb) Gasoline: 214.8mb (+5.1mb) Distillates: 103.2mb (+0.4mb) Fuel Oil: 24.3mb (0.0mb) #OOTT
+================================================================================
+
+================================================================================
+[2026-11-17 21:58 UTC] NZ business price indexes: September 2026 quarter  (impact: low)
+URL: https://www.forexfactory.com/news/1437222-nz-business-price-indexes-september-2026-quarter
+Source: stats.govt.nz
+--------------------------------------------------------------------------------
+Business price indexes (BPI) includes the producers price index (PPI), capital goods price index (CGPI), and farm expenses price index (FEPI).tablesIn the September 2026 quarter compared with the June 2026 quarter: • The output producers price index (PPI) rose 0.8 percent • The input PPI rose 0.7 percent • The farm expenses price index (FEPI) rose 1.7 ...
+================================================================================
+
+================================================================================
+[2026-11-17 19:58 UTC] Fed's Williams: The economy is strong and getting stronger, inflation is not moving in right direction.  (impact: low)
+URL: https://www.forexfactory.com/news/1437214-feds-williams-the-economy-is-strong-and-getting
+Source: @financialjuice
+--------------------------------------------------------------------------------
+Fed's Williams: The economy is strong and getting stronger, inflation is not moving in right direction.Fed's Williams: Fed still has more work to do to get inflation back to 2%.Fed's Williams: Inflation 'Stubbornly High' - Seeing Signs Of Shocks Spilling Over Into Broader Inflation Data - Tariffs, Energy Shock Still Affecting Inflation Readings - Situation Doesnt Call For Dramatic Policy Action
+================================================================================
+
