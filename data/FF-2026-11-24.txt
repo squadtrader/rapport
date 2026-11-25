@@ -270,3 +270,11 @@ Source: marketscreener.com
 German business morale rose in November, a survey showed on Tuesday, in line with a strong increase in the flash composite purchasing managers index published on Monday. The Ifo institute said its business climate index increased to 90.6 from a revised 90.1 in October, slightly above a consensus forecast of 90.5 from a Reuters poll among analysts.Companies ...
 ================================================================================
 
+================================================================================
+[2026-11-24 22:11 UTC] API: Crude +0.126M, Cushing -0.666M, Gasoline -0.047M, Distillates +1.647M  (impact: low)
+URL: https://www.forexfactory.com/news/1438496-api-crude-0126m-cushing-0666m-gasoline-0047m-distillates
+Source: @captgirish1
+--------------------------------------------------------------------------------
+API: Crude: +0.126M Cushing: -0.666M Gasoline: -0.047M Distillate: +1.647M SPR: -2.9M
+================================================================================
+
